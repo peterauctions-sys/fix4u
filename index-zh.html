@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIX4U - 手机电脑维修、二手回收</title>
+    <meta name="description" content="FIX4U - 专业手机电脑维修、二手设备回收、高品质二手设备销售。快速服务、合理价格、质量保证。">
+    <style>
+        :root {
+            --primary: #87CEEB;
+            --primary-dark: #5BC0DE;
+            --dark: #2D3436;
+            --light: #F8F9FA;
+            --white: #FFFFFF;
+            --gray: #636E72;
+            --shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Microsoft YaHei', sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background: var(--white);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: var(--white);
+            box-shadow: var(--shadow);
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--dark);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            list-style: none;
+            align-items: center;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--dark);
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        .lang-btn {
+            background: var(--dark);
+            color: var(--white) !important;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        .lang-btn:hover {
+            background: var(--primary);
+        }
+
+        .cta-btn {
+            background: var(--primary);
+            color: var(--white);
+            padding: 12px 28px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .cta-btn:hover {
+            background: var(--primary-dark);
+            transform: translateY(-2px);
+        }
+
+        /* Hero */
+        .hero {
+            padding: 140px 0 80px;
+            background: linear-gradient(135deg, rgba(135, 206, 235, 0.9) 0%, rgba(227, 242, 253, 0.95) 100%), 
+                        url('https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=1920&q=80') center/cover;
+            text-align: center;
+            color: var(--white);
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+            line-height: 1.2;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .hero h1 span {
+            color: #fff;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            max-width: 600px;
+            margin: 0 auto 40px;
+            text-shadow: 0 1px 5px rgba(0,0,0,0.2);
+        }
+
+        .hero-btns {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 15px 35px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: var(--white);
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-dark);
+        }
+
+        .btn-outline {
+            border: 2px solid var(--dark);
+            color: var(--dark);
+        }
+
+        .btn-outline:hover {
+            background: var(--dark);
+            color: var(--white);
+        }
+
+        /* Services */
+        .services {
+            padding: 80px 0;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .section-header h2 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+
+        .section-header p {
+            color: var(--gray);
+            font-size: 1.1rem;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .service-card {
+            background: var(--white);
+            border-radius: 20px;
+            padding: 0;
+            box-shadow: var(--shadow);
+            transition: all 0.3s;
+            border: 1px solid #EEE;
+            overflow: hidden;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .service-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .service-content {
+            padding: 30px;
+        }
+
+        .service-icon {
+            width: 70px;
+            height: 70px;
+            background: #E3F2FD;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            margin-bottom: 25px;
+        }
+
+        .service-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        .service-card p {
+            color: var(--gray);
+            margin-bottom: 20px;
+        }
+
+        .service-card ul {
+            list-style: none;
+            color: var(--gray);
+        }
+
+        .service-card li {
+            padding: 8px 0;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .service-card li:last-child {
+            border-bottom: none;
+        }
+
+        /* Why Choose Us */
+        .why-us {
+            padding: 80px 0;
+            background: var(--light);
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+
+        .feature-item {
+            text-align: center;
+            padding: 30px;
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .feature-item h3 {
+            font-size: 1.25rem;
+            margin-bottom: 10px;
+        }
+
+        .feature-item p {
+            color: var(--gray);
+        }
+
+        /* Contact */
+        .contact {
+            padding: 80px 0;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+
+        .contact-info h3 {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 15px 0;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .contact-item span {
+            font-size: 1.5rem;
+        }
+
+        .hours-table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .hours-table td {
+            padding: 10px 0;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .hours-table td:last-child {
+            text-align: right;
+            color: var(--gray);
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark);
+            color: var(--white);
+            padding: 40px 0 20px;
+        }
+
+        .footer-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 40px;
+            margin-bottom: 30px;
+        }
+
+        .footer-col h4 {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            color: var(--primary);
+        }
+
+        .footer-col a {
+            display: block;
+            color: #AAA;
+            text-decoration: none;
+            padding: 8px 0;
+            transition: color 0.3s;
+        }
+
+        .footer-col a:hover {
+            color: var(--white);
+        }
+
+        .footer-bottom {
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px solid #444;
+            color: #AAA;
+        }
+
+        /* Mobile */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2.2rem;
+            }
+
+            .hero p {
+                font-size: 1rem;
+            }
+
+            .section-header h2 {
+                font-size: 2rem;
+            }
+
+            .btn {
+                padding: 12px 25px;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">FIX<span>4U</span></a>
+                <ul class="nav-links">
+                    <li><a href="#services">服务项目</a></li>
+                    <li><a href="#web-design">网页制作</a></li>
+                    <li><a href="#why-us">关于我们</a></li>
+                    <li><a href="#contact">联系我们</a></li>
+                    <li><a href="index.html" class="lang-btn">English</a></li>
+                </ul>
+                <a href="#contact" class="cta-btn">获取报价</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>您的设备，<span>我们的专长</span></h1>
+            <p>专业手机电脑维修、快速回收、高品质二手设备。服务快捷、价格合理、质量保证。</p>
+            <div class="hero-btns">
+                <a href="#services" class="btn btn-primary">服务项目</a>
+                <a href="#contact" class="btn btn-outline">联系我们</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2>服务项目</h2>
+                <p>您的设备所需的一切</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80" alt="手机维修" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">📱</div>
+                        <h3>手机维修</h3>
+                        <p>各品牌手机专业维修服务</p>
+                        <ul>
+                            <li>屏幕更换</li>
+                            <li>电池更换</li>
+                            <li>进水维修</li>
+                            <li>充电口维修</li>
+                            <li>扬声器/麦克风</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80" alt="平板维修" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">📲</div>
+                        <h3>平板维修</h3>
+                        <p>各品牌平板电脑专业维修</p>
+                        <ul>
+                            <li>屏幕更换</li>
+                            <li>电池更换</li>
+                            <li>充电口维修</li>
+                            <li>进水维修</li>
+                            <li>按键维修</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600&q=80" alt="手表维修" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">⌚</div>
+                        <h3>手表维修</h3>
+                        <p>智能手表和传统手表维修</p>
+                        <ul>
+                            <li>屏幕更换</li>
+                            <li>电池更换</li>
+                            <li>表带更换</li>
+                            <li>进水维修</li>
+                            <li>软件问题</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80" alt="电脑维修" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">💻</div>
+                        <h3>电脑维修</h3>
+                        <p>笔记本电脑和台式机专业维修</p>
+                        <ul>
+                            <li>屏幕更换</li>
+                            <li>电池更换</li>
+                            <li>键盘维修</li>
+                            <li>软件问题</li>
+                            <li>硬件升级</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=600&q=80" alt="设备回收" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">💱</div>
+                        <h3>设备回收</h3>
+                        <p>旧设备快速变现</p>
+                        <ul>
+                            <li>即时估价</li>
+                            <li>任何状况都收</li>
+                            <li>市场价格</li>
+                            <li>快速付款</li>
+                            <li>数据清除保证</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80" alt="二手设备" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">🖥️</div>
+                        <h3>二手设备</h3>
+                        <p>高品质翻新手机和电脑</p>
+                        <ul>
+                            <li>二手手机</li>
+                            <li>笔记本电脑/台式机</li>
+                            <li>检测认证</li>
+                            <li>90天质保</li>
+                            <li>全网络解锁</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80" alt="网站搭建" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">🌐</div>
+                        <h3>网站搭建</h3>
+                        <p>专业网站设计与开发服务</p>
+                        <ul>
+                            <li>企业官网搭建</li>
+                            <li>个人Portfolio网站</li>
+                            <li>响应式设计(手机/电脑适配)</li>
+                            <li>SEO搜索引擎优化</li>
+                            <li>域名注册与托管</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80" alt="电商网站" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">🛒</div>
+                        <h3>电商网站搭建</h3>
+                        <p>开启您的在线销售业务</p>
+                        <ul>
+                            <li>在线商店建设</li>
+                            <li>产品展示与购物车</li>
+                            <li>支付网关集成</li>
+                            <li>订单管理系统</li>
+                            <li>网站维护与托管</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="web-design" class="services" style="background: var(--light);">
+        <div class="container">
+            <div class="section-header">
+                <h2>网站搭建 & 电商网站服务</h2>
+                <p>打造专业在线形象，助力业务增长</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-content">
+                        <div class="service-icon">🏢</div>
+                        <h3>网站搭建</h3>
+                        <p>为您的企业打造专业形象的网站</p>
+                        <ul>
+                            <li>企业官网建设</li>
+                            <li>自定义设计与品牌化</li>
+                            <li>搜索引擎优化(SEO)</li>
+                            <li>联系表单集成</li>
+                            <li>移动端完美适配</li>
+                        </ul>
+                        <p style="margin-top: 15px; color: var(--primary); font-weight: 600;">起价 $899</p>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-content">
+                        <div class="service-icon">🛒</div>
+                        <h3>电商网站搭建</h3>
+                        <p>开启您的在线销售业务</p>
+                        <ul>
+                            <li>在线商店建设</li>
+                            <li>产品展示与购物车</li>
+                            <li>多种支付网关集成</li>
+                            <li>订单管理与追踪</li>
+                            <li>库存管理系统</li>
+                        </ul>
+                        <p style="margin-top: 15px; color: var(--primary); font-weight: 600;">起价 $1,899</p>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-content">
+                        <div class="service-icon">📦</div>
+                        <h3>网站托管与维护</h3>
+                        <p>安全、稳定、快速</p>
+                        <ul>
+                            <li>域名注册服务</li>
+                            <li>网站托管</li>
+                            <li>定期备份与安全</li>
+                            <li>技术支持和维护</li>
+                            <li>网站更新服务</li>
+                        </ul>
+                        <p style="margin-top: 15px; color: var(--primary); font-weight: 600;">起价 $99/月</p>
+                    </div>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 50px;">
+                <a href="#contact" class="btn btn-primary" style="padding: 15px 40px; font-size: 1.1rem;">免费获取报价</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="why-us" class="why-us">
+        <div class="container">
+            <div class="section-header">
+                <h2>为什么选择 FIX4U</h2>
+                <p>我们以客户为中心</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <div class="feature-icon">💯</div>
+                    <h3>不成功不收费</h3>
+                    <p>未修好不收任何费用</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🛡️</div>
+                    <h3>3个月质保</h3>
+                    <p>所有维修享3个月质保</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🔋</div>
+                    <h3>电池12个月质保</h3>
+                    <p>电池更换享12个月质保</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">⚡</div>
+                    <h3>快速服务</h3>
+                    <p>大多数维修一小时内完成</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">💰</div>
+                    <h3>合理价格</h3>
+                    <p>竞争力价格，无隐藏费用</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">👨‍🔧</div>
+                    <h3>专业技师</h3>
+                    <p>认证维修专家</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2>联系我们</h2>
+                <p>获取免费报价</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h3>联系方式</h3>
+                    <div class="contact-item">
+                        <span>📍</span>
+                        <div>
+                            <strong>地址</strong><br>
+                            1 Cebel Place, Rosedale, Auckland
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <span>📱</span>
+                        <div>
+                            <strong>电话</strong><br>
+                            0800 800 349
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <span>✉️</span>
+                        <div>
+                            <strong>销售咨询</strong><br>
+                            info@fix4u.co.nz
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <span>🛠️</span>
+                        <div>
+                            <strong>技术支持</strong><br>
+                            support@fix4u.co.nz
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-info">
+                    <h3>营业时间</h3>
+                    <table class="hours-table">
+                        <tr>
+                            <td>周一至周五</td>
+                            <td>9:00 - 17:00</td>
+                        </tr>
+                        <tr>
+                            <td>周六、周日</td>
+                            <td>休息</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col">
+                    <h4>FIX4U</h4>
+                    <p style="color: #AAA;">新西兰值得信赖的手机电脑维修、回收、二手设备合作伙伴。</p>
+                </div>
+                <div class="footer-col">
+                    <h4>服务项目</h4>
+                    <a href="#services">手机维修</a>
+                    <a href="#services">平板维修</a>
+                    <a href="#services">手表维修</a>
+                    <a href="#services">电脑维修</a>
+                    <a href="#services">设备回收</a>
+                    <a href="#services">二手设备</a>
+                    <a href="#web-design">网页制作</a>
+                </div>
+                <div class="footer-col">
+                    <h4>快速链接</h4>
+                    <a href="#">首页</a>
+                    <a href="#contact">联系我们</a>
+                    <a href="#">隐私政策</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 FIX4U. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
+        // Header scroll effect
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 50) {
+                header.style.boxShadow = '0 2px 20px rgba(0,0,0,0.1)';
+            } else {
+                header.style.boxShadow = 'var(--shadow)';
+            }
+        });
+    </script>
+</body>
+</html>

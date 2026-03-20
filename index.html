@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIX4U - Phone & Computer Repair, Trade-in & Used Devices</title>
+    <meta name="description" content="FIX4U - Professional phone & computer repair, trade-in service, and quality used devices. Fast, reliable, and affordable.">
+    <style>
+        :root {
+            --primary: #87CEEB;
+            --primary-dark: #5BC0DE;
+            --dark: #2D3436;
+            --light: #F8F9FA;
+            --white: #FFFFFF;
+            --gray: #636E72;
+            --shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background: var(--white);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: var(--white);
+            box-shadow: var(--shadow);
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--dark);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            list-style: none;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--dark);
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        .lang-btn {
+            background: var(--dark);
+            color: var(--white) !important;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        .lang-btn:hover {
+            background: var(--primary);
+        }
+
+        .cta-btn {
+            background: var(--primary);
+            color: var(--white);
+            padding: 12px 28px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .cta-btn:hover {
+            background: var(--primary-dark);
+            transform: translateY(-2px);
+        }
+
+        /* Hero */
+        .hero {
+            padding: 140px 0 80px;
+            background: linear-gradient(135deg, rgba(135, 206, 235, 0.9) 0%, rgba(227, 242, 253, 0.95) 100%), 
+                        url('https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=1920&q=80') center/cover;
+            text-align: center;
+            color: var(--white);
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+            line-height: 1.2;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .hero h1 span {
+            color: #fff;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            max-width: 600px;
+            margin: 0 auto 40px;
+            text-shadow: 0 1px 5px rgba(0,0,0,0.2);
+        }
+
+        .hero-btns {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 15px 35px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: var(--white);
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-dark);
+        }
+
+        .btn-outline {
+            border: 2px solid var(--dark);
+            color: var(--dark);
+        }
+
+        .btn-outline:hover {
+            background: var(--dark);
+            color: var(--white);
+        }
+
+        /* Services */
+        .services {
+            padding: 80px 0;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .section-header h2 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+
+        .section-header p {
+            color: var(--gray);
+            font-size: 1.1rem;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .service-card {
+            background: var(--white);
+            border-radius: 20px;
+            padding: 0;
+            box-shadow: var(--shadow);
+            transition: all 0.3s;
+            border: 1px solid #EEE;
+            overflow: hidden;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .service-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .service-content {
+            padding: 30px;
+        }
+
+        .service-icon {
+            width: 70px;
+            height: 70px;
+            background: #E3F2FD;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            margin-bottom: 25px;
+        }
+
+        .service-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        .service-card p {
+            color: var(--gray);
+            margin-bottom: 20px;
+        }
+
+        .service-card ul {
+            list-style: none;
+            color: var(--gray);
+        }
+
+        .service-card li {
+            padding: 8px 0;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .service-card li:last-child {
+            border-bottom: none;
+        }
+
+        /* Why Choose Us */
+        .why-us {
+            padding: 80px 0;
+            background: var(--light);
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+
+        .feature-item {
+            text-align: center;
+            padding: 30px;
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .feature-item h3 {
+            font-size: 1.25rem;
+            margin-bottom: 10px;
+        }
+
+        .feature-item p {
+            color: var(--gray);
+        }
+
+        /* Contact */
+        .contact {
+            padding: 80px 0;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+
+        .contact-info h3 {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 15px 0;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .contact-item span {
+            font-size: 1.5rem;
+        }
+
+        .hours-table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .hours-table td {
+            padding: 10px 0;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .hours-table td:last-child {
+            text-align: right;
+            color: var(--gray);
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark);
+            color: var(--white);
+            padding: 40px 0 20px;
+        }
+
+        .footer-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 40px;
+            margin-bottom: 30px;
+        }
+
+        .footer-col h4 {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            color: var(--primary);
+        }
+
+        .footer-col a {
+            display: block;
+            color: #AAA;
+            text-decoration: none;
+            padding: 8px 0;
+            transition: color 0.3s;
+        }
+
+        .footer-col a:hover {
+            color: var(--white);
+        }
+
+        .footer-bottom {
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px solid #444;
+            color: #AAA;
+        }
+
+        /* Mobile */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2.2rem;
+            }
+
+            .hero p {
+                font-size: 1rem;
+            }
+
+            .section-header h2 {
+                font-size: 2rem;
+            }
+
+            .btn {
+                padding: 12px 25px;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">FIX<span>4U</span></a>
+                <ul class="nav-links">
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#why-us">Why Us</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="index-zh.html" class="lang-btn">中文</a></li>
+                </ul>
+                <a href="#contact" class="cta-btn">Get Quote</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Your Devices, <span>Our Expertise</span></h1>
+            <p>Professional phone & computer repair, instant trade-in, and quality used devices. Fast service, fair prices, guaranteed satisfaction.</p>
+            <div class="hero-btns">
+                <a href="#services" class="btn btn-primary">Our Services</a>
+                <a href="#contact" class="btn btn-outline">Contact Us</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Services</h2>
+                <p>Everything you need for your devices</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80" alt="Phone Repair" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">📱</div>
+                        <h3>Phone Repair</h3>
+                        <p>Professional repair services for all major brands</p>
+                        <ul>
+                            <li>Screen Replacement</li>
+                            <li>Battery Replacement</li>
+                            <li>Water Damage Repair</li>
+                            <li>Charging Port Fix</li>
+                            <li>Speaker & Microphone</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80" alt="Tablet Repair" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">📲</div>
+                        <h3>Tablet Repair</h3>
+                        <p>Professional tablet repair for all brands</p>
+                        <ul>
+                            <li>Screen Replacement</li>
+                            <li>Battery Replacement</li>
+                            <li>Charging Port Fix</li>
+                            <li>Water Damage Repair</li>
+                            <li>Button Repair</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600&q=80" alt="Watch Repair" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">⌚</div>
+                        <h3>Watch Repair</h3>
+                        <p>Smartwatch and classic watch repairs</p>
+                        <ul>
+                            <li>Screen Replacement</li>
+                            <li>Battery Replacement</li>
+                            <li>Band Replacement</li>
+                            <li>Water Damage Repair</li>
+                            <li>Software Issues</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80" alt="Computer Repair" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">💻</div>
+                        <h3>Computer Repair</h3>
+                        <p>Expert repair for laptops and desktops</p>
+                        <ul>
+                            <li>Screen Replacement</li>
+                            <li>Battery Replacement</li>
+                            <li>Keyboard Repair</li>
+                            <li>Software Issues</li>
+                            <li>Hardware Upgrades</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=600&q=80" alt="Trade-In" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">💱</div>
+                        <h3>Trade-In</h3>
+                        <p>Get instant cash for your old device</p>
+                        <ul>
+                            <li>Instant Valuation</li>
+                            <li>Any Condition Accepted</li>
+                            <li>Fair Market Price</li>
+                            <li>Quick Payment</li>
+                            <li>Data Wipe Guarantee</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80" alt="Used Devices" class="service-img">
+                    <div class="service-content">
+                        <div class="service-icon">🖥️</div>
+                        <h3>Used Devices</h3>
+                        <p>Quality refurbished phones & computers</p>
+                        <ul>
+                            <li>Used Phones</li>
+                            <li>Laptops & Computers</li>
+                            <li>Tested & Certified</li>
+                            <li>90-Day Warranty</li>
+                            <li>Unlocked All Networks</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="why-us" class="why-us">
+        <div class="container">
+            <div class="section-header">
+                <h2>Why Choose FIX4U</h2>
+                <p>We put customers first</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <div class="feature-icon">💯</div>
+                    <h3>No Win, No Fee</h3>
+                    <p>No cure, no pay - we only charge if we fix it</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🛡️</div>
+                    <h3>3-Month Warranty</h3>
+                    <p>3-month warranty on all repairs</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🔋</div>
+                    <h3>12-Month Battery Warranty</h3>
+                    <p>12-month warranty on battery replacements</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Fast Service</h3>
+                    <p>Most repairs done within 1 hour</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">💰</div>
+                    <h3>Fair Prices</h3>
+                    <p>Competitive pricing, no hidden fees</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">👨‍🔧</div>
+                    <h3>Expert Techs</h3>
+                    <p>Certified repair specialists</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2>Contact Us</h2>
+                <p>Get in touch for a free quote</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h3>Get In Touch</h3>
+                    <div class="contact-item">
+                        <span>📍</span>
+                        <div>
+                            <strong>Location</strong><br>
+                            1 Cebel Place, Rosedale, Auckland
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <span>📱</span>
+                        <div>
+                            <strong>Phone</strong><br>
+                            0800 800 349
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <span>✉️</span>
+                        <div>
+                            <strong>Sales</strong><br>
+                            info@fix4u.co.nz
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <span>🛠️</span>
+                        <div>
+                            <strong>Support</strong><br>
+                            support@fix4u.co.nz
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-info">
+                    <h3>Business Hours</h3>
+                    <table class="hours-table">
+                        <tr>
+                            <td>Monday - Friday</td>
+                            <td>9:00 AM - 5:00 PM</td>
+                        </tr>
+                        <tr>
+                            <td>Saturday - Sunday</td>
+                            <td>Closed</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col">
+                    <h4>FIX4U</h4>
+                    <p style="color: #AAA;">Your trusted partner for phone repair, trade-in, and quality used devices in New Zealand.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Services</h4>
+                    <a href="#services">Phone Repair</a>
+                    <a href="#services">Tablet Repair</a>
+                    <a href="#services">Watch Repair</a>
+                    <a href="#services">Computer Repair</a>
+                    <a href="#services">Trade-In</a>
+                    <a href="#services">Used Devices</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <a href="#">Home</a>
+                    <a href="#contact">Contact</a>
+                    <a href="#">Privacy Policy</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 FIX4U. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
+        // Header scroll effect
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 50) {
+                header.style.boxShadow = '0 2px 20px rgba(0,0,0,0.1)';
+            } else {
+                header.style.boxShadow = 'var(--shadow)';
+            }
+        });
+    </script>
+</body>
+</html>
