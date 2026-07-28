@@ -1,0 +1,31 @@
+old_id,old_name,old_company,new_name,missing_label,slot_reason,action
+1258220,Apple iPad A1893 LCD ,Apple,Apple iPad (A16) 11th Gen,"iPad (A16 / 11th gen, 2025)",junk/parts,RENAME
+1258230,Apple ipad 9th  Screen ,Apple,Apple iPad mini 7 (A17 Pro),"iPad mini 7 (A17 Pro, 2024)",junk/parts,RENAME
+1258258,apple ipad 12.9 lcd screen ,Apple,"Apple iPad Air 11"" (M2)","iPad Air 11"" (M2, 2024)",junk/parts,RENAME
+1251832,Apple iPad Air,OG Protector,"Apple iPad Air 13"" (M2)","iPad Air 13"" (M2, 2024)",cross-brand,RENAME
+1251831,Apple iPad Air 2017 (5th Gen),OG Protector,"Apple iPad Air 11"" (M3)","iPad Air 11"" (M3, 2025)",cross-brand,RENAME
+1257887,Apple iPad Air 2018 (6th Gen),OG Protector,"Apple iPad Air 13"" (M3)","iPad Air 13"" (M3, 2025)",cross-brand,RENAME
+1251828,Apple iPad Pro 10.5,OG Protector,"Apple iPad Air 11"" (M4)","iPad Air 11"" (M4, 2026)",cross-brand,RENAME
+1251829,Apple iPad Pro 9.7,OG Protector,"Apple iPad Air 13"" (M4)","iPad Air 13"" (M4, 2026)",cross-brand,RENAME
+1251838,Apple iPad iPad 3,OG Protector,"Apple iPad Pro 13"" (M4)","iPad Pro 13"" (M4, 2024)",cross-brand,RENAME
+1257853,Mac BOOK A1278,Inphic,"Apple iPad Pro 11"" (M5)","iPad Pro 11"" (M5, 2025)",cross-brand,RENAME
+1257911,Macbook Pro A1990,Inphic,"Apple iPad Pro 13"" (M5)","iPad Pro 13"" (M5, 2025)",cross-brand,RENAME
+1258229,Apple ipad 10.5,Apple,"Apple MacBook Air 15"" (M2)","MacBook Air 15"" (M2, 2023)",generic/dup,RENAME
+1258061,Ima,Apple,"Apple MacBook Air 15"" (M3)","MacBook Air 15"" (M3, 2024)",generic/dup,RENAME
+1258003,Ipad 10.2inch 7th Gen,Apple,"Apple MacBook Air 13"" (M4)","MacBook Air 13"" (M4, 2025)",generic/dup,RENAME
+1257998,Ipad 2018,Apple,"Apple MacBook Air 15"" (M4)","MacBook Air 15"" (M4, 2025)",generic/dup,RENAME
+1258213,"Ipad pro 11"" A1980",Apple,"Apple MacBook Air 13"" (M5)","MacBook Air 13"" (M5, 2026)",generic/dup,RENAME
+1258215,Ipad pro A1980,Apple,"Apple MacBook Air 15"" (M5)","MacBook Air 15"" (M5, 2026)",generic/dup,RENAME
+1258001,MacBook Air,Apple,"Apple MacBook Pro 13"" (M2)","MacBook Pro 13"" (M2, 2022)",generic/dup,RENAME
+1258417,"MacBook Air Retina 13"" A2179 (2020)",Apple,"Apple MacBook Pro 14"" (M2)","MacBook Pro 14"" (M2 Pro/Max, 2023)",generic/dup,RENAME
+1258432,Macbook Mini A1347,Apple,"Apple MacBook Pro 16"" (M2)","MacBook Pro 16"" (M2 Pro/Max, 2023)",generic/dup,RENAME
+1258017,Macbook Pro,Apple,"Apple MacBook Pro 16"" (M3)","MacBook Pro 16"" (M3 Pro/Max, 2023)",generic/dup,RENAME
+1258062,iMac,Apple,"Apple MacBook Pro 16"" (M4)","MacBook Pro 16"" (M4 Pro/Max, 2024)",generic/dup,RENAME
+1257990,iPad Mini 4,Apple,"Apple MacBook Pro 14"" (M5)","MacBook Pro 14"" (M5/Pro/Max, 2025)",generic/dup,RENAME
+1257991,iPad pro 10.5,Apple,"Apple MacBook Pro 16"" (M5)","MacBook Pro 16"" (M5 Pro/Max, 2025)",generic/dup,RENAME
+1257987,mac  book pro,Apple,Apple Mac mini (M1),Mac mini (M1),duplicate,RENAME
+1257876,Apple MacBook Air A1465,Inphic,Apple Mac mini (M2),Mac mini (M2),duplicate,RENAME
+1251830,Apple iPad Air 2,OG Protector,Apple Mac mini (M4),Mac mini (M4),duplicate,RENAME
+1251836,Apple iPad Mini 1,OG Protector,"Apple iMac 24"" (M1)","iMac 24"" (M1)",duplicate,RENAME
+1251835,Apple iPad Mini 2,OG Protector,"Apple iMac 24"" (M3)","iMac 24"" (M3)",duplicate,RENAME
+1251834,Apple iPad Mini 3,OG Protector,"Apple iMac 24"" (M4)","iMac 24"" (M4)",duplicate,RENAME
