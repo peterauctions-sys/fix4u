@@ -1,0 +1,115 @@
+type,model,action,id,name,company,manufacturer_id,sort,keep_id
+same_brand,Samsung Phone A30,KEEP,1257953,Samsung Phone A30,Samsung,114512,87,1257953
+same_brand,Samsung Phone A30,MERGE_OR_DELETE,1257919,Samsung Phone A30,Samsung,114512,86,1257953
+same_brand,Samsung Galaxy A21S,KEEP,1258045,Samsung Galaxy A21S,Samsung,114512,5,1258045
+same_brand,Samsung Galaxy A21S,MERGE_OR_DELETE,1258158,Samsung Galaxy A21s,Samsung,114512,0,1258045
+same_brand,Apple iPhone 12 Mini,KEEP,1258069,Apple iPhone 12 Mini,Apple,114510,41,1258069
+same_brand,Apple iPhone 12 Mini,MERGE_OR_DELETE,1258270,Apple IPhone 12 Mini,Apple,114510,0,1258069
+same_brand,Samsung Galaxy S21,KEEP,1258083,Samsung Galaxy S21,Samsung,114512,45,1258083
+same_brand,Samsung Galaxy S21,MERGE_OR_DELETE,1258269,Samsung Galaxy S21,Samsung,114512,0,1258083
+same_brand,Samsung Galaxy S21 Ultra,KEEP,1258084,Samsung Galaxy S21 Ultra,Samsung,114512,47,1258084
+same_brand,Samsung Galaxy S21 Ultra,MERGE_OR_DELETE,1258276,Samsung Galaxy S21 Ultra,Samsung,114512,0,1258084
+same_brand,Samsung Galaxy S21 Plus,KEEP,1258085,Samsung Galaxy S21 Plus,Samsung,114512,46,1258085
+same_brand,Samsung Galaxy S21 Plus,MERGE_OR_DELETE,1258278,Samsung Galaxy S21 Plus,Samsung,114512,0,1258085
+same_brand,Samsung Galaxy A12,KEEP,1258087,Samsung Galaxy A12,Samsung,114512,23,1258087
+same_brand,Samsung Galaxy A12,MERGE_OR_DELETE,1258296,Samsung Galaxy A12,Samsung,114512,0,1258087
+same_brand,Apple iPhone 13 Pro,KEEP,1258109,Apple iPhone 13 Pro,Apple,114510,46,1258109
+same_brand,Apple iPhone 13 Pro,MERGE_OR_DELETE,1258297,Apple IPhone 13 Pro,Apple,114510,0,1258109
+same_brand,Apple iPhone 13 Mini,KEEP,1258110,Apple iPhone 13 Mini,Apple,114510,45,1258110
+same_brand,Apple iPhone 13 Mini,MERGE_OR_DELETE,1258316,Apple IPhone 13 Mini ,Apple,114510,0,1258110
+same_brand,Samsung Galaxy A22 5G,KEEP,1258142,Samsung Galaxy A22 5G,Samsung,114512,26,1258142
+same_brand,Samsung Galaxy A22 5G,MERGE_OR_DELETE,1258282,Samsung Galaxy A22 5G,Samsung,114512,0,1258142
+same_brand,Samsung Galaxy M51,KEEP,1258161,Samsung Galaxy M51,Samsung,114512,0,1258161
+same_brand,Samsung Galaxy M51,MERGE_OR_DELETE,1258277,Samsung Galaxy M51,Samsung,114512,0,1258161
+same_brand,Samsung Galaxy S22 Ultra,KEEP,1258162,Samsung Galaxy S22 Ultra,Samsung,114512,0,1258162
+same_brand,Samsung Galaxy S22 Ultra,MERGE_OR_DELETE,1258285,Samsung Galaxy S22 Ultra,Samsung,114512,0,1258162
+same_brand,Samsung Galaxy S22,KEEP,1258165,Samsung Galaxy S22,Samsung,114512,0,1258165
+same_brand,Samsung Galaxy S22,MERGE_OR_DELETE,1258306,Samsung Galaxy S22,Samsung,114512,0,1258165
+same_brand,Samsung Galaxy S22 Plus,KEEP,1258166,Samsung Galaxy S22 Plus,Samsung,114512,0,1258166
+same_brand,Samsung Galaxy S22 Plus,MERGE_OR_DELETE,1258291,Samsung Galaxy S22 Plus,Samsung,114512,0,1258166
+same_brand,Samsung Galaxy A53,KEEP,1258173,Samsung Galaxy A53,Samsung,114512,0,1258173
+same_brand,Samsung Galaxy A53,MERGE_OR_DELETE,1258321,Samsung Galaxy A53 ,Samsung,114512,0,1258173
+same_brand,Samsung Galaxy A31,KEEP,1258212,Samsung Galaxy A31,Samsung,114512,0,1258212
+same_brand,Samsung Galaxy A31,MERGE_OR_DELETE,1258227,Samsung Galaxy A31,Samsung,114512,0,1258212
+cross_brand,Apple iPad Air 2,KEEP,1258005,Apple iPad Air 2,Apple,114510,18,1258005
+cross_brand,Apple iPad Air 2,MERGE_OR_DELETE,1251830,Apple iPad Air 2,OG Protector,114511,3,1258005
+cross_brand,Apple iPad Mini 4,KEEP,1257992,Apple iPad Mini 4,Apple,114510,29,1257992
+cross_brand,Apple iPad Mini 4,MERGE_OR_DELETE,1251833,Apple iPad Mini 4,OG Protector,114511,12,1257992
+cross_brand,Apple iPad Mini 3,KEEP,1258012,Apple iPad Mini 3,Apple,114510,28,1258012
+cross_brand,Apple iPad Mini 3,MERGE_OR_DELETE,1251834,Apple iPad Mini 3,OG Protector,114511,11,1258012
+cross_brand,Apple iPad Mini 2,KEEP,1257997,Apple iPad Mini 2,Apple,114510,27,1257997
+cross_brand,Apple iPad Mini 2,MERGE_OR_DELETE,1251835,Apple iPad Mini 2,OG Protector,114511,10,1257997
+cross_brand,Apple iPad Mini 1,KEEP,1258000,Apple iPad Mini 1,Apple,114510,26,1258000
+cross_brand,Apple iPad Mini 1,MERGE_OR_DELETE,1251836,Apple iPad Mini 1,OG Protector,114511,9,1258000
+cross_brand,Apple iPad iPad 4,KEEP,1258026,Apple iPad iPad 4,Apple,114510,25,1258026
+cross_brand,Apple iPad iPad 4,MERGE_OR_DELETE,1251837,Apple iPad iPad 4,OG Protector,114511,8,1258026
+cross_brand,Apple iPad iPad 2,KEEP,1258011,Apple iPad iPad 2,Apple,114510,23,1258011
+cross_brand,Apple iPad iPad 2,MERGE_OR_DELETE,1251839,Apple iPad iPad 2,OG Protector,114511,6,1258011
+cross_brand,Samsung Tablet SM-T355Y,KEEP,1258037,Samsung Tablet SM-T355Y,Samsung,114512,131,1258037
+cross_brand,Samsung Tablet SM-T355Y,MERGE_OR_DELETE,1257851,Samsung Tablet SM-T355Y,del7,143557,6,1258037
+cross_brand,2017 9.7inch (A1822/A1823),KEEP,1257995,2017 9.7inch (A1822/A1823),Apple,114510,13,1257995
+cross_brand,2017 9.7inch (A1822/A1823),MERGE_OR_DELETE,1257852,2017 9.7inch (A1822/A1823),OG Protector,114511,1,1257995
+cross_brand,ASUS R409C,KEEP,1257854,ASUS R409C,Inphic,114515,5,1257854
+cross_brand,ASUS R409C,MERGE_OR_DELETE,1257986,ASUS R409C,Laptop,143652,2,1257854
+cross_brand,mac  book pro,KEEP,1257987,mac  book pro,Apple,114510,78,1257987
+cross_brand,mac  book pro,MERGE_OR_DELETE,1257857,mac  book pro,Inphic,114515,12,1257987
+cross_brand,Acer Chromebook,KEEP,1258043,Acer Chromebook,Acer,143647,2,1258043
+cross_brand,Acer Chromebook,MERGE_OR_DELETE,1257860,Acer Chromebook,Inphic,114515,1,1258043
+cross_brand,Acer Chromebook,MERGE_OR_DELETE,1257988,Acer Chromebook,Laptop,143652,1,1258043
+cross_brand,microsoft Surface Go 3,KEEP,1257866,microsoft Surface Go 3,Microsoft Surface,143664,4,1257866
+cross_brand,microsoft Surface Go 3,MERGE_OR_DELETE,1258223,Microsoft Surface Go 3,Other,114517,0,1257866
+cross_brand,HP laptop,KEEP,1257869,HP laptop,HP,143639,5,1257869
+cross_brand,HP laptop,MERGE_OR_DELETE,1257989,HP laptop,Watch,114516,2,1257869
+cross_brand,MacBook Air,KEEP,1258001,MacBook Air,Apple,114510,80,1258001
+cross_brand,MacBook Air,MERGE_OR_DELETE,1257871,MacBook Air,Inphic,114515,14,1258001
+cross_brand,Toshiba Laptop,KEEP,1258027,Toshiba Laptop,Toshiba,143644,1,1258027
+cross_brand,Toshiba Laptop,MERGE_OR_DELETE,1257873,Toshiba Laptop,Laptop,143652,3,1258027
+cross_brand,Apple MacBook Air A1465,KEEP,1258002,Apple MacBook Air A1465,Apple,114510,68,1258002
+cross_brand,Apple MacBook Air A1465,MERGE_OR_DELETE,1257876,Apple MacBook Air A1465,Inphic,114515,4,1258002
+cross_brand,Acer Laptop,KEEP,1257949,Acer Laptop,Acer,143647,3,1257949
+cross_brand,Acer Laptop,MERGE_OR_DELETE,1257881,Acer Laptop,Inphic,114515,2,1257949
+cross_brand,Asus Laptop,KEEP,1257900,Asus Laptop,Asus,143638,2,1257900
+cross_brand,Asus Laptop,MERGE_OR_DELETE,1257883,Asus Laptop,Other,114517,4,1257900
+cross_brand,laptop,KEEP,1257885,laptop,Asus,143638,3,1257885
+cross_brand,laptop,MERGE_OR_DELETE,1257969,laptop,Inphic,114515,10,1257885
+cross_brand,iMac,KEEP,1258062,iMac,Apple,114510,72,1258062
+cross_brand,iMac,MERGE_OR_DELETE,1257912,IMAC,Inphic,114515,9,1258062
+cross_brand,iMac,MERGE_OR_DELETE,1257886,IMAC,Other,114517,6,1258062
+cross_brand,Macbook Pro,KEEP,1258017,Macbook Pro,Apple,114510,82,1258017
+cross_brand,Macbook Pro,MERGE_OR_DELETE,1257894,Macbook Pro,Inphic,114515,15,1258017
+cross_brand,Samsung Tablet Tab3,KEEP,1258021,Samsung Tablet Tab3,Samsung,114512,136,1258021
+cross_brand,Samsung Tablet Tab3,MERGE_OR_DELETE,1257901,Samsung Tablet Tab3,del7,143557,9,1258021
+cross_brand,Samsung Tablet SM-T530,KEEP,1258019,Samsung Tablet SM-T530,Samsung,114512,132,1258019
+cross_brand,Samsung Tablet SM-T530,MERGE_OR_DELETE,1257902,Samsung Tablet SM-T530,del7,143557,7,1258019
+cross_brand,Ipad 2018,KEEP,1257998,Ipad 2018,Apple,114510,74,1257998
+cross_brand,Ipad 2018,MERGE_OR_DELETE,1257903,Ipad 2018,OG Protector,114511,17,1257998
+cross_brand,Lenovo Chromebook,KEEP,1258028,Lenovo Chromebook,Lenovo,143654,2,1258028
+cross_brand,Lenovo Chromebook,MERGE_OR_DELETE,1257906,Lenovo Chromebook ,Inphic,114515,11,1258028
+cross_brand,Macbook Pro A1989,KEEP,1258020,Macbook Pro A1989,Apple,114510,89,1258020
+cross_brand,Macbook Pro A1989,MERGE_OR_DELETE,1257908,Macbook Pro A1989,Inphic,114515,16,1258020
+cross_brand,Dell CPU ,KEEP,1258105,Dell CPU ,Dell,143659,3,1258105
+cross_brand,Dell CPU ,MERGE_OR_DELETE,1257913,Dell CPU,Inphic,114515,6,1258105
+cross_brand,Samsung Chrombook,KEEP,1258015,Samsung Chrombook,Samsung,114512,17,1258015
+cross_brand,Samsung Chrombook,MERGE_OR_DELETE,1257923,Samsung Chrombook,del6,143640,1,1258015
+cross_brand,SM-T520,KEEP,1258013,SM-T520,Samsung,114512,139,1258013
+cross_brand,SM-T520,MERGE_OR_DELETE,1257938,SM-T520,del7,143557,11,1258013
+cross_brand,Nokia 6,KEEP,1257943,Nokia 6,Nokia,143645,2,1257943
+cross_brand,Nokia 6,MERGE_OR_DELETE,1257944,Nokia 6,Other,114517,11,1257943
+cross_brand,Samsung Tab Active 2,KEEP,1258008,Samsung Tab Active 2,Samsung,114512,126,1258008
+cross_brand,Samsung Tab Active 2,MERGE_OR_DELETE,1257947,Samsung Tab Active 2,del7,143557,3,1258008
+cross_brand,Samsung Tablet A6,KEEP,1258007,Samsung Tablet A6,Samsung,114512,127,1258007
+cross_brand,Samsung Tablet A6,MERGE_OR_DELETE,1257957,Samsung Tablet A6,del7,143557,4,1258007
+cross_brand,Samsung Tablet GT-P5210,KEEP,1258004,Samsung Tablet GT-P5210,Samsung,114512,128,1258004
+cross_brand,Samsung Tablet GT-P5210,MERGE_OR_DELETE,1257961,Samsung Tablet GT-P5210,del7,143557,5,1258004
+cross_brand,Lenovo,KEEP,1258101,Lenovo,Lenovo,143654,1,1258101
+cross_brand,Lenovo,MERGE_OR_DELETE,1258283,Lenovo,Other,114517,0,1258101
+near,Macbook Pro,KEEP,1258017,Macbook Pro,Apple,114510,82,1258017
+near,Macbook Pro,MERGE_OR_DELETE,1257987,mac  book pro,Apple,114510,78,1258017
+near,Macbook Pro,MERGE_OR_DELETE,1257894,Macbook Pro,Inphic,114515,15,1258017
+near,Macbook Pro,MERGE_OR_DELETE,1257857,mac  book pro,Inphic,114515,12,1258017
+near,Samsung  Chromebook,KEEP,1258103,Samsung  Chromebook,Samsung,114512,2,1258103
+near,Samsung  Chromebook,MERGE_OR_DELETE,1258425,Samsung Chromebook,Samsung,114512,0,1258103
+near,Samsung Galaxy Note20 Ultra,KEEP,1258124,Samsung Galaxy Note20 Ultra,Samsung,114512,40,1258124
+near,Samsung Galaxy Note20 Ultra,MERGE_OR_DELETE,1258293,Samsung Galaxy Note 20 Ultra,Samsung,114512,0,1258124
+near,iPhone 13/14,KEEP,1258338,iPhone 13/14,Apple,114510,0,1258338
+near,iPhone 13/14,MERGE_OR_DELETE,1258339,iPhone 13 / 14,Apple,114510,0,1258338
