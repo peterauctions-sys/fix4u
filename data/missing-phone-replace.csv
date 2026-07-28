@@ -1,0 +1,32 @@
+device_id,current_name,new_name,brand,action
+1258269,Samsung Galaxy S21,Samsung Galaxy S25,Samsung,RENAME
+1258278,Samsung Galaxy S21 Plus,Samsung Galaxy S25+,Samsung,RENAME
+1258276,Samsung Galaxy S21 Ultra,Samsung Galaxy S25 Edge,Samsung,RENAME
+1258306,Samsung Galaxy S22,Samsung Galaxy S25 FE,Samsung,RENAME
+1258291,Samsung Galaxy S22 Plus,Samsung Galaxy S24 FE,Samsung,RENAME
+1258285,Samsung Galaxy S22 Ultra,Samsung Galaxy Z Flip5,Samsung,RENAME
+1258296,Samsung Galaxy A12,Samsung Galaxy Z Flip6,Samsung,RENAME
+1258158,Samsung Galaxy A21s,Samsung Galaxy Z Flip7,Samsung,RENAME
+1258282,Samsung Galaxy A22 5G,Samsung Galaxy Z Fold5,Samsung,RENAME
+1258227,Samsung Galaxy A31,Samsung Galaxy Z Fold6,Samsung,RENAME
+1258321,Samsung Galaxy A53 ,Samsung Galaxy Z Fold7,Samsung,RENAME
+1258277,Samsung Galaxy M51,Samsung Galaxy Z Flip4,Samsung,RENAME
+1257919,Samsung Phone A30,Samsung Galaxy Z Fold4,Samsung,RENAME
+1258293,Samsung Galaxy Note 20 Ultra,Samsung Galaxy Z Flip3,Samsung,RENAME
+1258251,Samsung galaxy S23 Ultra (Don't Use),Samsung Galaxy Z Fold2,Samsung,RENAME
+,,Samsung Galaxy Z Flip,Samsung,CREATE
+,,Samsung Galaxy Z Flip 5G,Samsung,CREATE
+,,Samsung Galaxy A55 5G,Samsung,CREATE
+,,Samsung Galaxy A56 5G,Samsung,CREATE
+,,Samsung Galaxy A36 5G,Samsung,CREATE
+,,Samsung Galaxy Note 10 Lite,Samsung,CREATE
+,,Samsung Galaxy XCover 6 Pro,Samsung,CREATE
+1258270,Apple IPhone 12 Mini,,Apple,CLEANUP_OPTIONAL
+1258316,Apple IPhone 13 Mini ,,Apple,CLEANUP_OPTIONAL
+1258297,Apple IPhone 13 Pro,,Apple,CLEANUP_OPTIONAL
+1258338,iPhone 13/14,,Apple,CLEANUP_OPTIONAL
+1258339,iPhone 13 / 14,,Apple,CLEANUP_OPTIONAL
+1258175,Apple iPhone 14 (Don't use),,Apple,CLEANUP_OPTIONAL
+1258176,Apple iPhone 14 Plus (Don't use),,Apple,CLEANUP_OPTIONAL
+1258177,Apple iPhone 14 Pro (Don't use),,Apple,CLEANUP_OPTIONAL
+1258315,Apple iPhone 14 Pro Max (Don't use),,Apple,CLEANUP_OPTIONAL
