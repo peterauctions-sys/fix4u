@@ -164,4 +164,11 @@ Rough candidate count from audit: **~370** part titles that would benefit from t
 | Standardise Galaxy / spelling | Neutral | Fewer duplicates, cleaner staff training |
 | Keep brand on refurbished phones | Accurate product identity | Trust + SEO for used listings |
 
-No inventory names were changed for this audit.
+## Applied (2026-07-30)
+
+**417 / 417** inventory renames applied successfully via RepairDesk API.
+
+Results: `naming-apply-results.csv` / `.json`  
+Plan: `naming-apply-plan.json`
+
+Includes Samsung / Huawei / OPPO / Apple / other phone parts in `Part for Device` form, plus Genuine/OEM accessory wording cleanup.
