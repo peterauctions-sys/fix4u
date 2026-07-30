@@ -1,0 +1,1015 @@
+{
+  "total": 2927,
+  "screen_like": 694,
+  "risks": [
+    {
+      "id": "12999445",
+      "name": "Apple iPad 5 Retina Display 32GB Space Grey Refurb",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999866",
+      "name": "Apple ipad 7th & 8th Gen Touch Glass Black",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999867",
+      "name": "Apple ipad 7th & 8th Gen Touch Glass White",
+      "in_stock": "3",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999868",
+      "name": "Apple ipad 9th Gen Touch Glass White",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998718",
+      "name": "Apple iPhone 11 Back Glass",
+      "in_stock": "12",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998719",
+      "name": "Apple iPhone 11 Pro Back Glass",
+      "in_stock": "15",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998720",
+      "name": "Apple iPhone 11 Pro Max Back Glass",
+      "in_stock": "15",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998721",
+      "name": "Apple iPhone 12 Back Glass",
+      "in_stock": "10",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998722",
+      "name": "Apple iPhone 12 Mini Back Glass",
+      "in_stock": "15",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998723",
+      "name": "Apple iPhone 12 Pro Back Glass",
+      "in_stock": "6",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998724",
+      "name": "Apple iPhone 12 Pro Max Back Glass",
+      "in_stock": "10",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998712",
+      "name": "Apple iPhone 8 Back Glass",
+      "in_stock": "4",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998713",
+      "name": "Apple iPhone 8 Plus Back Glass",
+      "in_stock": "6",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998725",
+      "name": "Apple iPhone SE 2020 Back Glass",
+      "in_stock": "12",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998714",
+      "name": "Apple iPhone X Back Glass",
+      "in_stock": "13",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998717",
+      "name": "Apple iPhone XR Back Glass",
+      "in_stock": "18",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998715",
+      "name": "Apple iPhone XS Back Glass",
+      "in_stock": "20",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998716",
+      "name": "Apple iPhone XS Max Back Glass",
+      "in_stock": "9",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999149",
+      "name": "CW30 Pro original series magnetic wireless fast charging",
+      "in_stock": "5",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "12997934",
+      "name": "Genuine 8858X Battery For Dell Latitude E6430 E6520 E6530 NHXVW P8TC7 P9TJ0 48W",
+      "in_stock": "1",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827941",
+      "name": "Genuine Acer Liteon AC Adapter 19V 4.74A 5.5 2.5mm",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827895",
+      "name": "Genuine Apple 60W MagSafe Adapter for MacBook-T",
+      "in_stock": "-1",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12828240",
+      "name": "Genuine Apple MacBook Battery 13' A1185- 55Wh 10.8v",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827962",
+      "name": "Genuine HP DV2000 DV6000 4400mAh Battery",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827949",
+      "name": "Genuine HP/Compaq 18.5V - 3.5A 1.7MM Power Adapter",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827742",
+      "name": "Genuine HP/COMPAQ Power adapter 18.5V 3.5A 7.4x5mm",
+      "in_stock": "13",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827946",
+      "name": "Genuine HP/COMPAQ Power adapter 18.5V 3.5A 7.4x5mm",
+      "in_stock": "-1",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "13000748",
+      "name": "Genuine Leather Band Strap for Apple Watch Black",
+      "in_stock": "-1",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "13000729",
+      "name": "Genuine Leather Watch Band Tool Set",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "13000728",
+      "name": "Genuine Leather Watch Band Tool Set",
+      "in_stock": "-3",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "13000730",
+      "name": "Genuine Leather Watch Band Tool Set",
+      "in_stock": "-1",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "13000731",
+      "name": "Genuine Leather Watch Band Tool Set",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12998648",
+      "name": "Genuine TF03XL Battery for HP Pavilion 15-CD HSTNN-LB7J HSTNN-LB7X 920070-855",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12827940",
+      "name": "Genuine TOSHIBA Adapter 15V 5A 6.3*3.0 mm",
+      "in_stock": "0",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12828095",
+      "name": "High Audio Quality OEM Earpod Earphone for iPhone iPod iPad",
+      "in_stock": "2",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12828305",
+      "name": "High Audio Quality OEM Earpod Earphone for iPhone iPod iPad with Lightning Connector",
+      "in_stock": "5",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12998496",
+      "name": "hoco. ES39 Original Series TWS Wireless Headset",
+      "in_stock": "1",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "13000997",
+      "name": "hoco. Original Series 3.5mm Earphones with Microphone M1 Pro",
+      "in_stock": "3",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "13000994",
+      "name": "hoco. Original Series 3.5mm Earphones with Microphone M111 Pro",
+      "in_stock": "5",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "12998323",
+      "name": "HP Original TA03XL Battery 11.55V 51Wh for HP EliteBook 745 755 840 848 850 G4 HSTNN-IB7L[C76]",
+      "in_stock": "0",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "12998569",
+      "name": "iPhone X Org. Cracked Screen for Sell",
+      "in_stock": "-7",
+      "flags": [
+        "ORG"
+      ]
+    },
+    {
+      "id": "12999102",
+      "name": "iPhone XS Max Org. Cracked Screen for Sell",
+      "in_stock": "-3",
+      "flags": [
+        "ORG"
+      ]
+    },
+    {
+      "id": "12999101",
+      "name": "iPhone XS Org. Cracked Screen for Sell",
+      "in_stock": "-3",
+      "flags": [
+        "ORG"
+      ]
+    },
+    {
+      "id": "12998379",
+      "name": "LCD Screen for iPhone 11 Orginal",
+      "in_stock": "4",
+      "flags": [
+        "ORGINAL_TYPO"
+      ]
+    },
+    {
+      "id": "12999753",
+      "name": "LCD Screen for iPhone 13 Pro Orginal",
+      "in_stock": "1",
+      "flags": [
+        "ORGINAL_TYPO"
+      ]
+    },
+    {
+      "id": "12997658",
+      "name": "LCD Screen for iPhone XS Max Orginal",
+      "in_stock": "0",
+      "flags": [
+        "ORGINAL_TYPO"
+      ]
+    },
+    {
+      "id": "12997659",
+      "name": "LCD Screen for iPhone XS Orginal",
+      "in_stock": "5",
+      "flags": [
+        "ORGINAL_TYPO"
+      ]
+    },
+    {
+      "id": "12999555",
+      "name": "MacBook Air 13\" A2337 M1 Late2020 OEM Screen Assembly Grey",
+      "in_stock": "1",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13000270",
+      "name": "MacBook Air 13\" A2337 M1 Late2020 OEM Screen Assembly Rose Gold",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12999461",
+      "name": "MacBook Air 13\" A2338 M1 Late2020 OEM Screen Assembly Grey",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13000271",
+      "name": "MacBook Pro 13\" A2338 M1 Late2020 OEM Screen Assembly Silver",
+      "in_stock": "2",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001175",
+      "name": "MacBook Pro 15\" A1990 2018-2019 OEM Battery - A1953",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001140",
+      "name": "MacBook Pro 15\" A1990 2018-2019 OEM Battery - A1953",
+      "in_stock": "1",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001198",
+      "name": "MacBook Pro 15\" A1990 2018-2019 OEM Battery - A1953",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001183",
+      "name": "MacBook Pro 15\" A1990 2018-2019 OEM Battery - A1953",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001219",
+      "name": "MacBook Pro 15\" A1990 2018-2019 OEM Battery - A1953",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001178",
+      "name": "MacBook Pro 15\" A1990 2018-2019 OEM Battery - A1953",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13000408",
+      "name": "OEM Aftermarket 87W USB-C Type C Power Adapter Charger for 16\" 2019 Apple MacBook Pro with 2M Type-C Cable",
+      "in_stock": "5",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12997387",
+      "name": "OEM Apple 45W Magsafe Power Adapter for Macbook Air.Tip L A1374",
+      "in_stock": "-1",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12998693",
+      "name": "OEM HP MU06 CQ42 Battery",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12998389",
+      "name": "OEM HP ProBook 440 450 455 470 FP06 Battery",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12828130",
+      "name": "OEM Power Adapter for Apple MacBook MagSafe 2 45W",
+      "in_stock": "3",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12828128",
+      "name": "OEM Power Adapter for Apple MacBook MagSafe 2 60W",
+      "in_stock": "16",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001117",
+      "name": "OEM Samsung A32 5G LCD and Digitiser Replacement with Frame",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12998792",
+      "name": "OEM Sony VGP-BPS26 Battery",
+      "in_stock": "0",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "13001126",
+      "name": "Original Asus 19V 4.74A 5.5x2.5mm 90W Power Adapter",
+      "in_stock": "0",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "13001125",
+      "name": "Original Battery for Asus X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mah 4 Cell A41-X550",
+      "in_stock": "0",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "13001016",
+      "name": "Original Dell Power Adapter 130W USB-C Output 5V/9V/15V/20V 3A/3A/3A/3.25A/4.5A/6.5A",
+      "in_stock": "1",
+      "flags": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "12828089",
+      "name": "Quality OEM Earpod Earphone",
+      "in_stock": "-1",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12998580",
+      "name": "Quality OEM Earpod Earphone",
+      "in_stock": "15",
+      "flags": [
+        "OEM"
+      ]
+    },
+    {
+      "id": "12999496",
+      "name": "Samsung Galaxy A01 Back Glass",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999497",
+      "name": "Samsung Galaxy A02s Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999489",
+      "name": "Samsung Galaxy A11 Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999498",
+      "name": "Samsung Galaxy A12 Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999630",
+      "name": "Samsung Galaxy A13 Glass Screen Protector",
+      "in_stock": "7",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999492",
+      "name": "Samsung Galaxy A20 Back Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999494",
+      "name": "Samsung Galaxy A21s Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999487",
+      "name": "Samsung Galaxy A22 4G Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999488",
+      "name": "Samsung Galaxy A22 5G Back Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999629",
+      "name": "Samsung Galaxy A23 Glass Screen Protector",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999495",
+      "name": "Samsung Galaxy A30 Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999493",
+      "name": "Samsung Galaxy A32 5G Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999628",
+      "name": "Samsung Galaxy A33 Glass Screen Protector",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999486",
+      "name": "Samsung Galaxy A50 Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999490",
+      "name": "Samsung Galaxy A52 Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "13000182",
+      "name": "Samsung Galaxy A54 5G Back Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999491",
+      "name": "Samsung Galaxy A72 4G Back Glass",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999623",
+      "name": "Samsung Galaxy A73 Glass Screen Protector",
+      "in_stock": "3",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999346",
+      "name": "Samsung Galaxy Note10 Camera Glass Lens",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998981",
+      "name": "Samsung Galaxy Note20 Back Glass",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998976",
+      "name": "Samsung Galaxy Note20 Camera Glass Lens",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998982",
+      "name": "Samsung Galaxy Note20 Ultra Back Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998977",
+      "name": "Samsung Galaxy Note20 Ultra Camera Glass Lens",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999229",
+      "name": "Samsung Galaxy S20 FE Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998978",
+      "name": "Samsung Galaxy S21 Back Glass",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999714",
+      "name": "Samsung Galaxy S21 back glass replacement",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998973",
+      "name": "Samsung Galaxy S21 Camera Glass Lens",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999618",
+      "name": "Samsung Galaxy S21 FE Glass Screen Protector",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998979",
+      "name": "Samsung Galaxy S21 Plus Back Glass",
+      "in_stock": "4",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998974",
+      "name": "Samsung Galaxy S21 Plus Camera Glass Lens",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998980",
+      "name": "Samsung Galaxy S21 Ultra Back Glass",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998975",
+      "name": "Samsung Galaxy S21 Ultra Camera Glass Lens",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999603",
+      "name": "Samsung Galaxy S22 Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999604",
+      "name": "Samsung Galaxy S22 Plus Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999602",
+      "name": "Samsung Galaxy S22 Ultra Back Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999601",
+      "name": "Samsung Galaxy Tab A 8.0 (2017) Touch Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12828059",
+      "name": "Samsung Genuine Headset Earphone with Microphone Black or White",
+      "in_stock": "5",
+      "flags": [
+        "GENUINE"
+      ]
+    },
+    {
+      "id": "12998233",
+      "name": "Samsung Phone Note 10 Back Glass",
+      "in_stock": "12",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998672",
+      "name": "Samsung Phone Note 10 Plus Back Glass",
+      "in_stock": "1",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998231",
+      "name": "Samsung Phone Note 8 Back Glass",
+      "in_stock": "8",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998232",
+      "name": "Samsung Phone Note 9 Back Glass",
+      "in_stock": "7",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998616",
+      "name": "Samsung Phone S10 Back Glass",
+      "in_stock": "9",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998617",
+      "name": "Samsung Phone S10 Plus Back Glass",
+      "in_stock": "10",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998610",
+      "name": "Samsung Phone S10e Back Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998618",
+      "name": "Samsung Phone S20 Back Glass",
+      "in_stock": "9",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998620",
+      "name": "Samsung Phone S20 Plus Back Glass",
+      "in_stock": "11",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998619",
+      "name": "Samsung Phone S20 Ultra Back Glass",
+      "in_stock": "8",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999509",
+      "name": "Samsung S20 FE Org. Cracked Screen for Sell",
+      "in_stock": "-2",
+      "flags": [
+        "ORG",
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "13000055",
+      "name": "Samsung S22 Ultra UV Screen Protector",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "13000522",
+      "name": "Samsung s23 ultra bcak glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "13000056",
+      "name": "Samsung S23 Ultra UV Screen Protector",
+      "in_stock": "2",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12997808",
+      "name": "Samsung S8 Plus Back Glass",
+      "in_stock": "11",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12998866",
+      "name": "Samsung Tablet E SM-T560 Glass",
+      "in_stock": "0",
+      "flags": [
+        "BRAND_LEADING"
+      ]
+    },
+    {
+      "id": "12999103",
+      "name": "Screen for iPhone 11 Pro Max Org. Cracked for Sell",
+      "in_stock": "-4",
+      "flags": [
+        "ORG"
+      ]
+    },
+    {
+      "id": "12998802",
+      "name": "Screen for iPhone 11 Pro Org. Cracked for Sell",
+      "in_stock": "-6",
+      "flags": [
+        "ORG"
+      ]
+    },
+    {
+      "id": "12999537",
+      "name": "Screen for iPhone 12 Org. Cracked for Sell",
+      "in_stock": "-1",
+      "flags": [
+        "ORG"
+      ]
+    }
+  ]
+}
