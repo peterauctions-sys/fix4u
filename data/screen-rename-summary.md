@@ -15,27 +15,33 @@
 
 Results: `screen-rename-results.csv` / `.json`
 
-### Pass 2 — Remaining glass / OEM / Org claims
+### Pass 2 — Remaining glass / brand-leading titles
 - **83 / 83** updated
 
 | Issue | Example fix |
 |---|---|
-| `Orginal` typo | `LCD Screen for iPhone 11 Orginal` → `LCD Screen for iPhone 11` |
-| `Org.` cracked for sell | → `Cracked Screen for Parts — iPhone X` |
-| `OEM` MacBook/Samsung screens | → `Screen Assembly for …` / `LCD Screen for …` |
 | Brand-leading back glass | `Apple iPhone 12 Back Glass` → `Back Glass for iPhone 12` |
 | Touch / camera glass | `Touch Glass for iPad …`, `Camera Glass Lens for Samsung Galaxy …` |
 | Screen protectors | `Screen Protector for Samsung Galaxy A13` |
+| Cracked-for-parts wording | `… Org. Cracked Screen for Sell` → `Cracked Screen for Parts — …` |
 
 Results: `screen-ip-fix-results.csv` / `.json`
+
+### Pass 3 — Restore OEM grade marker
+OEM / Original / Org. / Orginal are **product grade labels** in this shop. For every screen/glass item that previously had those markers, **OEM was put back** (Original/Org → OEM).
+
+- **39 / 39** updated
+- Examples: `OEM Screen for iPhone 12 Pro`, `OEM LCD Screen for iPhone 11`, `OEM Screen Assembly for MacBook Air …`
+
+Results: `screen-oem-restore-results.csv` / `.json`
 
 ## Naming rules used (for third-party repair)
 
 1. Prefer **`{Grade} Screen for {device}`** (or Back Glass / Touch Glass / Camera Glass Lens).
-2. **TFT → RHD** (aftermarket grade label).
-3. Do **not** lead with Apple / Samsung as if the part is OEM.
-4. Do **not** use OEM / Original / Org. / Genuine in part titles unless the part is truly OEM and you intend to claim that.
-5. Empty descriptions were filled with a short **third-party compatible** note where applied.
+2. **TFT → RHD** (aftermarket grade).
+3. **OEM** kept when the item was OEM / Original / Org grade (product differentiation).
+4. Do **not** lead with Apple / Samsung as if the brand sells the part.
+5. Empty descriptions were filled with a short compatible-repair note where applied.
 
 ## Remaining infringement / wording risks (not all auto-fixed)
 
