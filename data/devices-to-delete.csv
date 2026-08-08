@@ -1,27 +1,20 @@
-id,name,group,status
-1258269,Samsung Galaxy S21,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258278,Samsung Galaxy S21 Plus,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258276,Samsung Galaxy S21 Ultra,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258306,Samsung Galaxy S22,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258291,Samsung Galaxy S22 Plus,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258285,Samsung Galaxy S22 Ultra,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258296,Samsung Galaxy A12,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258158,Samsung Galaxy A21s,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258282,Samsung Galaxy A22 5G,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258227,Samsung Galaxy A31,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258321,Samsung Galaxy A53 ,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258277,Samsung Galaxy M51,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1257919,Samsung Phone A30,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258293,Samsung Galaxy Note 20 Ultra,samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258251,Samsung galaxy S23 Ultra (Don't Use),samsung_rename_dup,NEEDS_MANUAL_DELETE
-1258270,Apple IPhone 12 Mini,apple_dup,NEEDS_MANUAL_DELETE
-1258316,Apple IPhone 13 Mini ,apple_dup,NEEDS_MANUAL_DELETE
-1258297,Apple IPhone 13 Pro,apple_dup,NEEDS_MANUAL_DELETE
-1258338,iPhone 13/14,apple_dup,NEEDS_MANUAL_DELETE
-1258339,iPhone 13 / 14,apple_dup,NEEDS_MANUAL_DELETE
-1258175,Apple iPhone 14 (Don't use),apple_dup,NEEDS_MANUAL_DELETE
-1258176,Apple iPhone 14 Plus (Don't use),apple_dup,NEEDS_MANUAL_DELETE
-1258177,Apple iPhone 14 Pro (Don't use),apple_dup,NEEDS_MANUAL_DELETE
-1258315,Apple iPhone 14 Pro Max (Don't use),apple_dup,NEEDS_MANUAL_DELETE
-1258443,__probe_should_409_or_fail__,api_junk,NEEDS_MANUAL_DELETE
-1258465,__deleted__,api_junk,NEEDS_MANUAL_DELETE
+id,name,company,sort,group_name,action,keep_id,keep_name
+1258270,Apple IPhone 12 Mini,Apple,0,Apple iPhone 12 Mini,MERGE_OR_DELETE,1258069,Apple iPhone 12 Mini
+1258316,Apple IPhone 13 Mini ,Apple,0,Apple iPhone 13 Mini,MERGE_OR_DELETE,1258110,Apple iPhone 13 Mini
+1258297,Apple IPhone 13 Pro,Apple,0,Apple iPhone 13 Pro,MERGE_OR_DELETE,1258109,Apple iPhone 13 Pro
+1258425,Samsung Chromebook,Samsung,0,Samsung  Chromebook,MERGE_OR_DELETE,1258103,Samsung  Chromebook
+1258296,Samsung Galaxy A12,Samsung,0,Samsung Galaxy A12,MERGE_OR_DELETE,1258087,Samsung Galaxy A12
+1258158,Samsung Galaxy A21s,Samsung,0,Samsung Galaxy A21S,MERGE_OR_DELETE,1258045,Samsung Galaxy A21S
+1258282,Samsung Galaxy A22 5G,Samsung,0,Samsung Galaxy A22 5G,MERGE_OR_DELETE,1258142,Samsung Galaxy A22 5G
+1258227,Samsung Galaxy A31,Samsung,0,Samsung Galaxy A31,MERGE_OR_DELETE,1258212,Samsung Galaxy A31
+1258321,Samsung Galaxy A53 ,Samsung,0,Samsung Galaxy A53,MERGE_OR_DELETE,1258173,Samsung Galaxy A53
+1258277,Samsung Galaxy M51,Samsung,0,Samsung Galaxy M51,MERGE_OR_DELETE,1258161,Samsung Galaxy M51
+1258269,Samsung Galaxy S21,Samsung,0,Samsung Galaxy S21,MERGE_OR_DELETE,1258083,Samsung Galaxy S21
+1258278,Samsung Galaxy S21 Plus,Samsung,0,Samsung Galaxy S21 Plus,MERGE_OR_DELETE,1258085,Samsung Galaxy S21 Plus
+1258276,Samsung Galaxy S21 Ultra,Samsung,0,Samsung Galaxy S21 Ultra,MERGE_OR_DELETE,1258084,Samsung Galaxy S21 Ultra
+1258306,Samsung Galaxy S22,Samsung,0,Samsung Galaxy S22,MERGE_OR_DELETE,1258165,Samsung Galaxy S22
+1258291,Samsung Galaxy S22 Plus,Samsung,0,Samsung Galaxy S22 Plus,MERGE_OR_DELETE,1258166,Samsung Galaxy S22 Plus
+1258285,Samsung Galaxy S22 Ultra,Samsung,0,Samsung Galaxy S22 Ultra,MERGE_OR_DELETE,1258162,Samsung Galaxy S22 Ultra
+1257919,Samsung Phone A30,Samsung,86,Samsung Phone A30,MERGE_OR_DELETE,1257953,Samsung Phone A30
+1258443,__probe_should_409_or_fail__,Samsung,0,__probe_should_409_or_fail__,DELETE,,
+1258465,__deleted__,Samsung,0,__deleted__,DELETE,,
