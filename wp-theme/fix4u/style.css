@@ -1,0 +1,17 @@
+/*
+Theme Name: FIX4U
+Theme URI: https://fix4u.co.nz/
+Author: FIX4U
+Author URI: https://fix4u.co.nz/
+Description: Custom FIX4U theme for phone & computer repair, trade-in, and used devices in Auckland. Manage content and branding from Appearance → Customize in wp-admin (https://fix4u.co.nz/admin).
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: fix4u
+Tags: custom-logo, custom-menu, featured-images, translation-ready, one-column
+*/
+
+/* Front-end styles live in assets/css/main.css (enqueued by functions.php). */
