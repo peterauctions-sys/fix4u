@@ -33,5 +33,5 @@ Remaining top-level: Security, Accessories, Electronic, Parts, Pre-owned Device,
 ## Logo update (2026-08-11)
 
 - Main site (`fix4u.co.nz`) homepage header/footer already use `fix4u-logo-20260811-real.png` / `-real-on-dark.png`.
-- Shop header logo updated to `fix4u-logo-20260811-real-on-dark.png` (media ids 28636/28637) via Header Builder — dark header needs on-dark variant.
+- Shop header logo updated to `fix4u-logo-20260811-real.png` (media 28637; on-dark 28636 also uploaded) via Header Builder. Header row is light grey, so the dark-text logo is required (on-dark looked like icon-only).
 - Static `index.html` / `index-zh.html` now use `images/fix4u-logo-20260811-real.png`.
