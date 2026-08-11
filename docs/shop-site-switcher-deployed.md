@@ -35,3 +35,8 @@ Remaining top-level: Security, Accessories, Electronic, Parts, Pre-owned Device,
 - Main site (`fix4u.co.nz`) homepage header/footer already use `fix4u-logo-20260811-real.png` / `-real-on-dark.png`.
 - Shop header logo updated to `fix4u-logo-20260811-real.png` (media 28637; on-dark 28636 also uploaded) via Header Builder. Header row is light grey, so the dark-text logo is required (on-dark looked like icon-only).
 - Static `index.html` / `index-zh.html` now use `images/fix4u-logo-20260811-real.png`.
+
+## Favicon (2026-08-11)
+
+Shop Site Icon set to new FIX4U mark (stacked colorful X + 4U on black), media `fix4u-favicon-20260811.png`.
+Static pages use `images/favicon-32.png` / `images/favicon-192.png` / `images/apple-touch-icon.png`.
