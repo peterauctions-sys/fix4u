@@ -21,21 +21,10 @@ One post per month, newest → oldest (Aug 2026 → Nov 2025). Each has an image
 
 Listing: https://fix4u.co.nz/blogs/
 
-## iPhone screen Repair Manuals (category: Repair Manual)
+## Repair Manuals (superseded → per-model)
 
-Series manuals covering model variants + shared repair process (diagnosis → quote → replace → test → warranty).
+The series manuals below were **replaced** by one page per model (iPhone split, iPhone 17 family, Samsung, OPPO, etc. aligned to One NZ).
 
-| Series | URL |
-|--------|-----|
-| iPhone 16 / 16 Plus / 16 Pro / 16 Pro Max | https://fix4u.co.nz/iphone-16-series-screen-repair-manual/ |
-| iPhone 15 series | https://fix4u.co.nz/iphone-15-series-screen-repair-manual/ |
-| iPhone 14 series | https://fix4u.co.nz/iphone-14-series-screen-repair-manual/ |
-| iPhone 13 series | https://fix4u.co.nz/iphone-13-series-screen-repair-manual/ |
-| iPhone 12 series | https://fix4u.co.nz/iphone-12-series-screen-repair-manual/ |
-| iPhone 11 series | https://fix4u.co.nz/iphone-11-series-screen-repair-manual/ |
-| iPhone X / XS / XR | https://fix4u.co.nz/iphone-x-xs-xr-screen-repair-manual/ |
-| iPhone SE 2nd & 3rd | https://fix4u.co.nz/iphone-se-2nd-3rd-screen-repair-manual/ |
-| iPhone 8 / 8 Plus | https://fix4u.co.nz/iphone-8-8-plus-screen-repair-manual/ |
-| iPhone 7 / 7 Plus | https://fix4u.co.nz/iphone-7-7-plus-screen-repair-manual/ |
+See **`REPAIR-MANUALS-PER-MODEL-2026.md`** for the full 137-manual inventory.
 
 Listing: https://fix4u.co.nz/repair-manual/
