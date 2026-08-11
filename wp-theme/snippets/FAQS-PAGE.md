@@ -11,6 +11,6 @@ Content:
 - Mobile phone repair FAQs
 - Computer & laptop repair FAQs
 
-Footer Quick links sitewide: `Reviews` (`#reviews`) → `FAQs` (this page).
+Footer Quick links includes `FAQs` (this page). Footer no longer lists Contact us, Repair FAQs, or Buy parts.
 
 CSS marker: `FIX4U_FAQ_PAGE`
