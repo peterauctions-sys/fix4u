@@ -1,0 +1,69 @@
+/* Shared Repair | Shop switcher — main site (active=repair). Mirror on shop with active=shop. */
+.bt-a .site-chrome {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  padding: 0 0 6px;
+}
+.bt-a header.sitehead {
+  background: transparent;
+  border-bottom: 0;
+  position: relative;
+  top: auto;
+  z-index: auto;
+  padding: 8px 0 0;
+}
+.bt-a .site-switcher {
+  background: rgba(245, 247, 250, 0.94);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+.bt-a .site-switcher .switcher-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 38px;
+  padding: 4px 0;
+}
+.bt-a .switcher-label {
+  display: none;
+}
+.bt-a .switcher-seg {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid var(--border);
+  box-shadow: 0 1px 2px rgba(38, 50, 56, 0.04);
+}
+.bt-a .switcher-seg a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 78px;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text);
+  transition: background 0.18s ease, color 0.18s ease;
+}
+.bt-a .switcher-seg a:hover {
+  color: var(--primary-deep);
+  background: #f5f9fc;
+}
+.bt-a .switcher-seg a.is-active {
+  background: var(--primary);
+  color: #fff;
+}
+.bt-a .switcher-seg a.is-active:hover {
+  background: var(--primary-deep);
+  color: #fff;
+}
+.bt-a .switcher-contact {
+  display: none;
+}
