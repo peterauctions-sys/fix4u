@@ -10,4 +10,7 @@ Cards sit in the centered page content column (`margin: auto`, ~1400).
 Inner card text is center-aligned. CTA copy uses full emails:
 `support@fix4u.co.nz` / `info@fix4u.co.nz`.
 
-CSS marker: `FIX4U_CONTACT_LAYOUT`
+Interactive Google Map embed under the three cards (`FIX4U_CONTACT_MAP`),
+with Get directions / Open in Google Maps actions.
+
+CSS markers: `FIX4U_CONTACT_LAYOUT`, `FIX4U_CONTACT_MAP`
