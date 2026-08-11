@@ -1,5 +1,7 @@
 # Shop Repair | Shop switcher — deployed
 
+> Superseded for full chrome match by `docs/shop-chrome-match-main-deployed.md` and `wp-theme/snippets/HANDOFF-shop-match-main-site.md` (centered switcher, `#E3EAF2`, transparent header logo, identical foot-bar).
+
 Live: https://shop.fix4u.co.nz/  
 Deployed: 2026-08-11 via Woodmart Header Builder (`header_695440` / Header Marketplace 2)
 
