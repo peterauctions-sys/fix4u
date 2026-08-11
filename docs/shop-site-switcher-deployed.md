@@ -29,3 +29,9 @@ Removed from **Main Product Categories** menu (`menus=114`, header bottom nav):
 - Services (`menu-item` 1961)
 
 Remaining top-level: Security, Accessories, Electronic, Parts, Pre-owned Device, Mobile Phones, Track Your Order.
+
+## Logo update (2026-08-11)
+
+- Main site (`fix4u.co.nz`) homepage header/footer already use `fix4u-logo-20260811-real.png` / `-real-on-dark.png`.
+- Shop header logo updated to `fix4u-logo-20260811-real-on-dark.png` (media ids 28636/28637) via Header Builder — dark header needs on-dark variant.
+- Static `index.html` / `index-zh.html` now use `images/fix4u-logo-20260811-real.png`.

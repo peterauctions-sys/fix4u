@@ -123,15 +123,16 @@
             padding: 15px 0;
         }
 
-        .logo {
-            font-size: 1.8rem;
-            font-weight: 800;
-            color: var(--primary);
+                .logo {
+            display: inline-flex;
+            align-items: center;
             text-decoration: none;
+            line-height: 0;
         }
-
-        .logo span {
-            color: var(--dark);
+        .logo img {
+            height: 48px;
+            width: auto;
+            display: block;
         }
 
         .nav-links {
@@ -472,7 +473,7 @@
     <header>
         <div class="container">
             <nav>
-                <a href="#" class="logo">FIX<span>4U</span></a>
+                <a href="#" class="logo" aria-label="FIX4U"><img src="images/fix4u-logo-20260811-real.png" alt="FIX4U" width="2002" height="716"></a>
                 <ul class="nav-links">
                     <li><a href="#services">服务项目</a></li>
                     <li><a href="#web-design">网页制作</a></li>
