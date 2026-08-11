@@ -22,17 +22,13 @@
 .bt-a .site-switcher .switcher-row {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 12px;
   min-height: 38px;
   padding: 4px 0;
 }
 .bt-a .switcher-label {
-  font-size: 0.72rem;
-  font-weight: 600;
-  color: var(--muted);
-  letter-spacing: 0.02em;
-  min-width: 9em;
+  display: none;
 }
 .bt-a .switcher-seg {
   display: inline-flex;
@@ -69,21 +65,5 @@
   color: #fff;
 }
 .bt-a .switcher-contact {
-  font-size: 0.78rem;
-  font-weight: 600;
-  color: var(--text);
-  min-width: 9em;
-  text-align: right;
-}
-.bt-a .switcher-contact:hover {
-  color: var(--primary);
-}
-@media (max-width: 720px) {
-  .bt-a .switcher-label,
-  .bt-a .switcher-contact {
-    display: none;
-  }
-  .bt-a .site-switcher .switcher-row {
-    justify-content: center;
-  }
+  display: none;
 }
