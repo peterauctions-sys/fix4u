@@ -31,3 +31,4 @@ Current live site uses BeTheme. Keep it installed as a fallback until you confir
 
 - `fix4u/` — theme source (upload as zip root folder name `fix4u`)
 - `dist/fix4u.zip` — ready-to-upload package
+- `snippets/` — shared HTML/CSS snippets for the live BeTheme shell (e.g. Repair | Shop switcher)
