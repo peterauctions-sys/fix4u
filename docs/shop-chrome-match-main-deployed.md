@@ -35,3 +35,10 @@ Deployed: 2026-08-11 via Woodmart Header Builder + Theme Settings + Customizer A
 - Switcher/logo: WoodMart → Header builder → Header Marketplace 2
 - Foot strip text: Theme settings → Footer → Copyrights text
 - Chrome CSS: Appearance → Customize → Additional CSS (`FIX4U_CHROME_MATCH` block)
+
+## Header ink fix (2026-08-11)
+
+Header email info-box was still on Woodmart `color-scheme-light` (white text) after the header background went light.
+
+- Header Builder infobox `22ppxhwz1fmql3xltum9`: scheme → dark; icon → `mp2-infobox-phone-clrd.svg` (media 360)
+- Theme Custom CSS `/* FIX4U_HEADER_INK */`: force dark text for info-box + account/wishlist/search; cart keeps brand blue `#1E88E5`
