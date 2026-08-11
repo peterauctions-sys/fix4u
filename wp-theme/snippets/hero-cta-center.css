@@ -1,0 +1,14 @@
+/**
+ * Fix4U — center hero/slider CTA buttons (Our services + Contact us).
+ * Injected live as /* FIX4U_HERO_CTA_CENTER */ … /* /FIX4U_HERO_CTA_CENTER */
+ */
+/* FIX4U_HERO_CTA_CENTER */
+.bt-a .hero-actions {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+/* /FIX4U_HERO_CTA_CENTER */
