@@ -52,4 +52,4 @@ Generator (idempotent state in `/tmp/rm_generate_state.json`):
 
 ## Listing
 
-https://fix4u.co.nz/repair-manual/ — grouped by brand headings (`FIX4U_RM_BRAND_HEADINGS`).
+https://fix4u.co.nz/repair-manual/ — brand folders (4 per row); see `REPAIR-MANUAL-BRAND-FOLDERS.md`.
