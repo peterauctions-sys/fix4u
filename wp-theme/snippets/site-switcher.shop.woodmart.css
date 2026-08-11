@@ -1,0 +1,120 @@
+/* FIX4U Repair | Shop switcher (shop active) — replaces dark top bar */
+.whb-top-bar {
+  background: rgba(245, 247, 250, 0.94) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid #E3E8EE !important;
+}
+.whb-top-bar .container {
+  max-width: 100%;
+  width: 100%;
+  padding: 0;
+}
+.whb-top-bar .whb-top-bar-inner {
+  height: auto !important;
+  max-height: none !important;
+  min-height: 0;
+}
+.whb-top-bar .whb-col-left {
+  width: 100%;
+  flex: 1 1 100%;
+  max-width: 100%;
+}
+.whb-top-bar .whb-col-center,
+.whb-top-bar .whb-col-right {
+  display: none !important;
+}
+.whb-top-bar .wd-header-text,
+.whb-top-bar .f4u-switcher-host {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+.whb-top-bar .wd-header-text p {
+  margin: 0;
+}
+
+.f4u-site-switcher {
+  background: transparent;
+  font-family: "Manrope", "Albert Sans", "Segoe UI", sans-serif;
+  position: relative;
+  z-index: 100;
+}
+.f4u-switcher-wrap {
+  width: min(1400px, calc(100% - 40px));
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 38px;
+  padding: 4px 0;
+}
+.f4u-switcher-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #90A4AE;
+  letter-spacing: 0.02em;
+  min-width: 9em;
+}
+.f4u-switcher-seg {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid #E3E8EE;
+  box-shadow: 0 1px 2px rgba(38, 50, 56, 0.04);
+}
+.f4u-switcher-seg a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 78px;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #546E7A !important;
+  text-decoration: none !important;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+.f4u-switcher-seg a:hover {
+  color: #1565C0 !important;
+  background: #F5F9FC;
+}
+.f4u-switcher-seg a.is-active {
+  background: #1E88E5;
+  color: #fff !important;
+}
+.f4u-switcher-seg a.is-active:hover {
+  background: #1565C0;
+  color: #fff !important;
+}
+.f4u-switcher-contact {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #546E7A !important;
+  min-width: 9em;
+  text-align: right;
+  text-decoration: none !important;
+}
+.f4u-switcher-contact:hover {
+  color: #1E88E5 !important;
+}
+@media (max-width: 720px) {
+  .f4u-switcher-label,
+  .f4u-switcher-contact {
+    display: none;
+  }
+  .f4u-switcher-wrap {
+    justify-content: center;
+  }
+}
+/* Mobile column uses same switcher */
+.whb-top-bar .whb-col-mobile {
+  width: 100%;
+  flex: 1 1 100%;
+}
