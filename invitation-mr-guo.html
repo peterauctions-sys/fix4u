@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NZCBIA Invitation — MR. Guo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Great+Vibes&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --navy: #0b1a3a;
+      --navy-deep: #071228;
+      --gold: #d4b896;
+      --gold-soft: #c9a87c;
+      --white: #f5f7fb;
+      --muted: rgba(245, 247, 251, 0.88);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 900px;
+      height: 1350px;
+      overflow: hidden;
+      background: #000;
+    }
+
+    .card {
+      position: relative;
+      width: 900px;
+      height: 1350px;
+      padding: 52px;
+      background:
+        radial-gradient(ellipse 80% 55% at 50% 18%, rgba(70, 110, 180, 0.28), transparent 60%),
+        radial-gradient(ellipse 70% 50% at 70% 75%, rgba(40, 70, 140, 0.22), transparent 55%),
+        radial-gradient(circle at 20% 80%, rgba(90, 130, 200, 0.12), transparent 40%),
+        linear-gradient(180deg, #102048 0%, var(--navy) 35%, var(--navy-deep) 100%);
+      color: var(--white);
+      font-family: "Montserrat", sans-serif;
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: 28px;
+      border: 1px solid rgba(212, 184, 150, 0.75);
+      pointer-events: none;
+    }
+
+    .card::after {
+      content: "";
+      position: absolute;
+      inset: 34px;
+      border: 1px solid rgba(212, 184, 150, 0.35);
+      pointer-events: none;
+    }
+
+    .stars {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .stars span {
+      position: absolute;
+      width: 2px;
+      height: 2px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.85);
+      box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+    }
+
+    .glow {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(18px);
+      pointer-events: none;
+    }
+
+    .content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 36px 48px 28px;
+    }
+
+    .title {
+      font-family: "Cormorant Garamond", serif;
+      font-size: 78px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      color: var(--gold);
+      text-transform: uppercase;
+      line-height: 1;
+      margin-top: 18px;
+      padding-left: 0.18em;
+    }
+
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 18px 0 28px;
+      color: var(--gold);
+    }
+
+    .divider .line {
+      width: 88px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    }
+
+    .divider .diamond {
+      width: 9px;
+      height: 9px;
+      transform: rotate(45deg);
+      border: 1px solid var(--gold);
+      background: rgba(212, 184, 150, 0.35);
+    }
+
+    .divider .dot {
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: var(--gold);
+      opacity: 0.7;
+    }
+
+    .event {
+      font-size: 25px;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      line-height: 1.35;
+      margin-bottom: 28px;
+      max-width: 640px;
+    }
+
+    .meta {
+      font-size: 17px;
+      font-weight: 400;
+      color: var(--muted);
+      line-height: 1.75;
+      margin-bottom: 8px;
+    }
+
+    .meta strong {
+      font-weight: 500;
+      color: var(--white);
+    }
+
+    .guest {
+      margin: 34px 0 30px;
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      color: #fff;
+      text-shadow: 0 0 18px rgba(200, 220, 255, 0.25);
+    }
+
+    .message {
+      font-size: 15.5px;
+      font-weight: 300;
+      line-height: 1.7;
+      color: var(--muted);
+      max-width: 620px;
+      margin-bottom: 34px;
+    }
+
+    .closing {
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .signature {
+      font-family: "Great Vibes", cursive;
+      font-size: 54px;
+      color: #5b8fd9;
+      line-height: 1;
+      margin: 4px 0 2px;
+      transform: rotate(-4deg);
+    }
+
+    .sign-name {
+      font-size: 16px;
+      font-weight: 600;
+      margin-top: 4px;
+    }
+
+    .sign-title {
+      font-size: 13px;
+      font-weight: 300;
+      color: rgba(245, 247, 251, 0.75);
+      max-width: 420px;
+      line-height: 1.45;
+      margin-top: 4px;
+    }
+
+    .logo-wrap {
+      margin-top: auto;
+      padding-top: 28px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .logo {
+      width: 92px;
+      height: 92px;
+      border-radius: 50%;
+      border: 2px solid rgba(212, 184, 150, 0.85);
+      background:
+        radial-gradient(circle at 50% 42%, #1a3a6e 0%, #0b1a3a 70%);
+      display: grid;
+      place-items: center;
+      position: relative;
+      box-shadow: 0 0 0 4px rgba(11, 26, 58, 0.8), 0 0 24px rgba(90, 140, 220, 0.25);
+    }
+
+    .logo-inner {
+      width: 78px;
+      height: 78px;
+      border-radius: 50%;
+      border: 1px solid rgba(212, 184, 150, 0.45);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2px;
+    }
+
+    .logo-mark {
+      width: 28px;
+      height: 22px;
+      border: 1.5px solid var(--gold);
+      border-radius: 2px 2px 0 0;
+      position: relative;
+    }
+
+    .logo-mark::before {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: -8px;
+      width: 18px;
+      height: 10px;
+      border-left: 1.5px solid var(--gold);
+      border-right: 1.5px solid var(--gold);
+      border-top: 1.5px solid var(--gold);
+      transform: translateX(-50%) skewX(-18deg);
+    }
+
+    .logo-text {
+      font-size: 6.5px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: var(--gold);
+      text-align: center;
+      line-height: 1.15;
+      max-width: 64px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="stars" id="stars"></div>
+    <div class="glow" style="width:120px;height:120px;left:12%;top:22%;background:rgba(120,160,230,.12);"></div>
+    <div class="glow" style="width:160px;height:160px;right:10%;top:48%;background:rgba(100,140,210,.10);"></div>
+    <div class="glow" style="width:90px;height:90px;left:18%;bottom:18%;background:rgba(140,180,255,.08);"></div>
+
+    <div class="content">
+      <h1 class="title">Invitation</h1>
+
+      <div class="divider" aria-hidden="true">
+        <span class="dot"></span>
+        <span class="line"></span>
+        <span class="diamond"></span>
+        <span class="line"></span>
+        <span class="dot"></span>
+      </div>
+
+      <p class="event">NZCBIA Gala Dinner &amp;<br />Excellence Awards Ceremony</p>
+
+      <p class="meta"><strong>14 August 2026 | Friday</strong></p>
+      <p class="meta">The Great Room, Cordis Hotel, Grafton, Auckland</p>
+      <p class="meta">6:00 PM - Pre-Dinner Drinks</p>
+      <p class="meta">7:00 PM - Dinner Begins</p>
+      <p class="meta">Dress Code: Business Attire, Black Tie Optional</p>
+
+      <p class="guest">MR.&nbsp;Guo</p>
+
+      <p class="message">
+        You are cordially invited to the 2026 NZCBIA Gala Dinner &amp; NZCBIA Excellence Awards Ceremony.
+        We look forward to celebrating this year's outstanding achievements and contributions with you.
+        Kindly RSVP by 31st July 2026 to info@nzcbia.org.nz
+      </p>
+
+      <p class="closing">Yours sincerely,</p>
+      <p class="signature">Frank</p>
+      <p class="sign-name">Frank Xu</p>
+      <p class="sign-title">President, New Zealand Chinese Building Industry Association</p>
+
+      <div class="logo-wrap">
+        <div class="logo" aria-label="NZ Chinese Building Industry Association">
+          <div class="logo-inner">
+            <div class="logo-mark"></div>
+            <div class="logo-text">NZ CHINESE BUILDING INDUSTRY ASSOCIATION</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const stars = document.getElementById("stars");
+    for (let i = 0; i < 90; i++) {
+      const s = document.createElement("span");
+      const size = Math.random() < 0.2 ? 3 : 1.5;
+      s.style.width = size + "px";
+      s.style.height = size + "px";
+      s.style.left = Math.random() * 100 + "%";
+      s.style.top = Math.random() * 100 + "%";
+      s.style.opacity = (0.35 + Math.random() * 0.65).toFixed(2);
+      stars.appendChild(s);
+    }
+  </script>
+</body>
+</html>
