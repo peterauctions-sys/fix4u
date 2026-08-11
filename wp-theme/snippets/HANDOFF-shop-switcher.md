@@ -1,5 +1,9 @@
 # Handoff: Repair | Shop switcher for shop.fix4u.co.nz
 
+> **Superseded for full chrome match.**  
+> Use **`HANDOFF-shop-match-main-site.md`** for switcher + header + footer company strip.  
+> This file remains as a shorter switcher-only note (some colors below are outdated vs live `#E3EAF2` strip).
+
 Main site (`fix4u.co.nz`) already has this switcher live. Mirror it on the shop (Woodmart) with **Shop** active.
 
 Source agent: https://cursor.com/agents/bc-968985d2-dd55-44ae-9f65-7de3608192aa  
