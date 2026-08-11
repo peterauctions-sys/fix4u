@@ -1,0 +1,38 @@
+/**
+ * Fix4U — remove BeTheme blank-template side gutters
+ * so .bt-a atmospheric background is edge-to-edge.
+ *
+ * Injected live as /* FIX4U_FULL_BLEED */ … /* /FIX4U_FULL_BLEED */
+ * next to FIX4U_UNLOCK on blank-template pages.
+ */
+/* FIX4U_FULL_BLEED */
+html,
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden;
+}
+
+body.template-blank #Content,
+body.template-blank #Content .section,
+body.template-blank #Content .section_wrapper,
+body.template-blank #Content .the_content_wrapper,
+body.template-blank .content_wrapper,
+body.template-blank .section_wrapper {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  width: 100% !important;
+  max-width: none !important;
+  float: none !important;
+}
+
+body.template-blank .bt-a {
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  box-sizing: border-box !important;
+}
+/* /FIX4U_FULL_BLEED */
