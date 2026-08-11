@@ -1,0 +1,95 @@
+/* FIX4U shop chrome match — switcher / top bar (handoff: HANDOFF-shop-match-main-site.md) */
+.whb-top-bar {
+  background: #E3EAF2 !important;
+  border-bottom: 1px solid #D5DEE8 !important;
+  backdrop-filter: none !important;
+}
+.whb-top-bar .container {
+  max-width: 100%;
+  width: 100%;
+  padding: 0;
+}
+.whb-top-bar .whb-top-bar-inner {
+  height: auto !important;
+  max-height: none !important;
+  min-height: 0;
+}
+.whb-top-bar .whb-col-left,
+.whb-top-bar .whb-col-mobile {
+  width: 100%;
+  flex: 1 1 100%;
+  max-width: 100%;
+}
+.whb-top-bar .whb-col-center,
+.whb-top-bar .whb-col-right {
+  display: none !important;
+}
+.whb-top-bar .wd-header-text,
+.whb-top-bar .f4u-switcher-host {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+.whb-top-bar .wd-header-text p {
+  margin: 0;
+}
+
+.f4u-site-switcher {
+  width: 100%;
+  background: #E3EAF2;
+  border-bottom: 1px solid #D5DEE8;
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  position: relative;
+  z-index: 1000;
+}
+.f4u-switcher-wrap {
+  width: min(1400px, calc(100% - 40px));
+  max-width: min(1400px, calc(100% - 40px));
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 6px 0;
+  box-sizing: border-box;
+}
+.f4u-switcher-label,
+.f4u-switcher-contact {
+  display: none !important;
+}
+.f4u-switcher-seg {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  border: 1px solid #C9D6E3;
+  box-shadow: 0 1px 2px rgba(38, 50, 56, 0.04);
+}
+.f4u-switcher-seg a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 78px;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #546E7A !important;
+  text-decoration: none !important;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+.f4u-switcher-seg a:hover {
+  color: #1565C0 !important;
+  background: #F5F9FC !important;
+}
+.f4u-switcher-seg a.is-active {
+  background: #1E88E5 !important;
+  color: #fff !important;
+}
+.f4u-switcher-seg a.is-active:hover {
+  background: #1565C0 !important;
+  color: #fff !important;
+}
