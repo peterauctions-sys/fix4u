@@ -6,7 +6,8 @@
 2. **Repair support** — `support@fix4u.co.nz` (repairs / technical support), WeChat, WhatsApp, book repair  
 3. **Sales & wholesale** — `info@fix4u.co.nz` (sales / wholesale / trade), shop, franchise  
 
-Card content is center-aligned. CTA copy uses full emails:
+Cards sit in the centered page content column (`margin: auto`, ~1400).
+Inner card text is center-aligned. CTA copy uses full emails:
 `support@fix4u.co.nz` / `info@fix4u.co.nz`.
 
 CSS marker: `FIX4U_CONTACT_LAYOUT`
