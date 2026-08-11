@@ -20,3 +20,12 @@ Deployed: 2026-08-11 via Woodmart Header Builder (`header_695440` / Header Marke
 ## Edit later
 
 WoodMart → Header builder → Header Marketplace 2 → Top bar Text/HTML (`f4u-switcher-host`).
+
+## Main menu cleanup (2026-08-11)
+
+Removed from **Main Product Categories** menu (`menus=114`, header bottom nav):
+
+- Top Deals (`menu-item` 1779)
+- Services (`menu-item` 1961)
+
+Remaining top-level: Security, Accessories, Electronic, Parts, Pre-owned Device, Mobile Phones, Track Your Order.
