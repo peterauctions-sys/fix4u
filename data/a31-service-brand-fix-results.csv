@@ -1,0 +1,14 @@
+id,name,old_brand,old_device_name,old_device,needs_update,success,message,new_brand,new_device_name,category_name
+12999031,Samsung Galaxy A31 Glass Replacement,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+12999419,Samsung Galaxy A31 Labor,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+13000134,Samsung A31 Charging Port Replacement,Samsung,old del 3,1258226,True,True,Item was updated successfully,Samsung,Samsung Phone Galaxy A31,Mobile
+13000140,Samsung A31 inspection,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+12998586,Samsung Galaxy A31 Screen Replacement,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+12999216,Samsung Galaxy A31 OLED Screen Replacement,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+12999350,Samsung Galaxy A31 Camera Lens Replacement,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+12999367,Samsung Galaxy A31 Charging Port Replacement,Samsung,Samsung Phone Galaxy A31,1258051,False,True,already_ok,,,Mobile
+12999752,Samsung A31 Screen replacement,,,,True,True,Item was updated successfully,Samsung,Samsung Phone Galaxy A31,Laptop
+12999790,Samsung A31 Labour,,,,True,True,Item was updated successfully,Samsung,Samsung Phone Galaxy A31,Laptop
+12999803,Samsung Galaxy A31 Chargerport Replacement,,,,True,True,Item was updated successfully,Samsung,Samsung Phone Galaxy A31,Laptop
+12999881,Samsung Glaxy A31 Lcd Replacement,,,,True,True,Item was updated successfully,Samsung,Samsung Phone Galaxy A31,Laptop
+13000697,Samsung Galaxy A31 Motherboard Repair,Samsung,,,True,True,Item was updated successfully,Samsung,Samsung Phone Galaxy A31,Mobile
