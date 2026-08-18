@@ -1,0 +1,10 @@
+id,name,status
+13001239,Samsung A31 Screen replacement,CREATED_UNDER_MOBILE
+13001240,Samsung A31 Labour,CREATED_UNDER_MOBILE
+13001241,Samsung Galaxy A31 Chargerport Replacement,CREATED_UNDER_MOBILE
+13001242,Samsung Glaxy A31 Lcd Replacement,CREATED_UNDER_MOBILE
+12999752,[OLD-Laptop] Samsung A31 Screen replacement,RENAMED_OLD_LAPTOP_DELETE_IN_UI
+12999790,[OLD-Laptop] Samsung A31 Labour,RENAMED_OLD_LAPTOP_DELETE_IN_UI
+12999803,[OLD-Laptop] Samsung Galaxy A31 Chargerport Replacement,RENAMED_OLD_LAPTOP_DELETE_IN_UI
+12999881,[OLD-Laptop] Samsung Glaxy A31 Lcd Replacement,RENAMED_OLD_LAPTOP_DELETE_IN_UI
+13001238,[DELETE] __probe_a31_mobile_svc__,PROBE_DELETE_IN_UI

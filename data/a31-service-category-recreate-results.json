@@ -1,0 +1,46 @@
+[
+  {
+    "old_id": "12999752",
+    "old_name": "Samsung A31 Screen replacement",
+    "new_id": "13001239",
+    "new_name": "Samsung A31 Screen replacement",
+    "price": "0.00",
+    "create_success": true,
+    "create_message": "Item added successfully",
+    "old_renamed": true,
+    "old_rename_message": "Item was updated successfully"
+  },
+  {
+    "old_id": "12999790",
+    "old_name": "Samsung A31 Labour",
+    "new_id": "13001240",
+    "new_name": "Samsung A31 Labour",
+    "price": "0.00",
+    "create_success": true,
+    "create_message": "Item added successfully",
+    "old_renamed": true,
+    "old_rename_message": "Item was updated successfully"
+  },
+  {
+    "old_id": "12999803",
+    "old_name": "Samsung Galaxy A31 Chargerport Replacement",
+    "new_id": "13001241",
+    "new_name": "Samsung Galaxy A31 Chargerport Replacement",
+    "price": "0.00",
+    "create_success": true,
+    "create_message": "Item added successfully",
+    "old_renamed": true,
+    "old_rename_message": "Item was updated successfully"
+  },
+  {
+    "old_id": "12999881",
+    "old_name": "Samsung Glaxy A31 Lcd Replacement",
+    "new_id": "13001242",
+    "new_name": "Samsung Glaxy A31 Lcd Replacement",
+    "price": "0.00",
+    "create_success": true,
+    "create_message": "Item added successfully",
+    "old_renamed": true,
+    "old_rename_message": "Item was updated successfully"
+  }
+]
