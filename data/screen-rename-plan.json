@@ -1,0 +1,2386 @@
+[
+  {
+    "id": "13000954",
+    "old_name": "Apple iPhone 15 Plus TFT Screen",
+    "new_name": "RHD Screen for iPhone 15 Plus",
+    "reason": "tft",
+    "stock": "1",
+    "sku": "PHSA0195"
+  },
+  {
+    "id": "13000934",
+    "old_name": "Apple iPhone 15 TFT Screen",
+    "new_name": "RHD Screen for iPhone 15",
+    "reason": "tft",
+    "stock": "1",
+    "sku": "PHSA0192"
+  },
+  {
+    "id": "13000210",
+    "old_name": "IPhone  13 pro aftermarket tft screen",
+    "new_name": "RHD Screen for iPhone 13 Pro",
+    "reason": "tft",
+    "stock": "1",
+    "sku": "PHSA0177"
+  },
+  {
+    "id": "12998269",
+    "old_name": "IPhone 11 Aftermarket LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone 11",
+    "reason": "tft",
+    "stock": "0",
+    "sku": "PHSA0097"
+  },
+  {
+    "id": "12998337",
+    "old_name": "IPhone 11 Pro Aftermarket LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone 11 Pro",
+    "reason": "tft",
+    "stock": "3",
+    "sku": "PHSA0098"
+  },
+  {
+    "id": "12998353",
+    "old_name": "iPhone 11 Pro Max Aftermarket LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone 11 Pro Max",
+    "reason": "tft",
+    "stock": "4",
+    "sku": "PHSA0099"
+  },
+  {
+    "id": "12998917",
+    "old_name": "iPhone 12 / 12 Pro Aftermarket TFT LCD Screen",
+    "new_name": "RHD Screen for iPhone 12 / 12 Pro",
+    "reason": "tft",
+    "stock": "2",
+    "sku": "PHSA0103"
+  },
+  {
+    "id": "12998915",
+    "old_name": "iPhone 12 Pro Max Aftermarket LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone 12 Pro Max",
+    "reason": "tft",
+    "stock": "-2",
+    "sku": "PHSA0101"
+  },
+  {
+    "id": "12999633",
+    "old_name": "iPhone 13 TFT Aftermarket LCD Screen",
+    "new_name": "RHD Screen for iPhone 13",
+    "reason": "tft",
+    "stock": "-1",
+    "sku": "PHP13003"
+  },
+  {
+    "id": "13001224",
+    "old_name": "iPhone 16 Pro Aftermarket TFT Screen",
+    "new_name": "RHD Screen for iPhone 16 Pro",
+    "reason": "tft",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001203",
+    "old_name": "iPhone 16 Pro Aftermarket TFT Screen",
+    "new_name": "RHD Screen for iPhone 16 Pro",
+    "reason": "tft",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001187",
+    "old_name": "iPhone 16 Pro Aftermarket TFT Screen",
+    "new_name": "RHD Screen for iPhone 16 Pro",
+    "reason": "tft",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001108",
+    "old_name": "iPhone 16 Pro Aftermarket TFT Screen",
+    "new_name": "RHD Screen for iPhone 16 Pro",
+    "reason": "tft",
+    "stock": "0",
+    "sku": "PHSA0200"
+  },
+  {
+    "id": "13000359",
+    "old_name": "iPhone SE 2020 2022 Aftermarket TFT LCD Screen",
+    "new_name": "RHD Screen for iPhone SE 2020 2022",
+    "reason": "tft",
+    "stock": "-2",
+    "sku": "PHSA0201"
+  },
+  {
+    "id": "12828119",
+    "old_name": "iPhone X Aftermarket LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone X",
+    "reason": "tft",
+    "stock": "-1",
+    "sku": "PHSA0080"
+  },
+  {
+    "id": "12997980",
+    "old_name": "iPhone XR LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone XR",
+    "reason": "tft",
+    "stock": "-1",
+    "sku": "PHSA0122"
+  },
+  {
+    "id": "12998246",
+    "old_name": "iPhone XR TFT Screen (Don't Use This)",
+    "new_name": "RHD Screen for iPhone XR",
+    "reason": "tft",
+    "stock": "11",
+    "sku": "PHPX0025"
+  },
+  {
+    "id": "12998247",
+    "old_name": "iPhone XS LCD Screen- TFT",
+    "new_name": "RHD Screen for iPhone XS",
+    "reason": "tft",
+    "stock": "-2",
+    "sku": "PHSA0125"
+  },
+  {
+    "id": "12998248",
+    "old_name": "iPhone XS Max Aftermarket LCD Screen TFT",
+    "new_name": "RHD Screen for iPhone XS Max",
+    "reason": "tft",
+    "stock": "2",
+    "sku": "PHSA0126"
+  },
+  {
+    "id": "12999106",
+    "old_name": "Samsung Galaxy A32 5G TFT Screen",
+    "new_name": "RHD Screen for Samsung Galaxy A32 5G",
+    "reason": "tft",
+    "stock": "1",
+    "sku": "PHSS0129"
+  },
+  {
+    "id": "12999807",
+    "old_name": "Apple ipad 9th Gen Touch Glass Screen Black",
+    "new_name": "Touch Glass for iPad 9th Gen Black",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0114"
+  },
+  {
+    "id": "12999808",
+    "old_name": "Apple ipad Mini 4 Lcd Screen",
+    "new_name": "LCD Screen for iPad mini 4",
+    "reason": "apple_prefix",
+    "stock": "2",
+    "sku": "PHSA0115"
+  },
+  {
+    "id": "12998800",
+    "old_name": "Apple iPhone 11 Pro Screen",
+    "new_name": "Screen for iPhone 11 Pro",
+    "reason": "apple_prefix",
+    "stock": "5",
+    "sku": "PHPX0049"
+  },
+  {
+    "id": "13000531",
+    "old_name": "Apple iPhone 12 Pro OEM Screen",
+    "new_name": "Screen for iPhone 12 Pro",
+    "reason": "apple_prefix",
+    "stock": "-1",
+    "sku": "PHSA0191"
+  },
+  {
+    "id": "12999859",
+    "old_name": "Apple iphone 13 OEM Screen",
+    "new_name": "Screen for iPhone 13",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0116"
+  },
+  {
+    "id": "13001115",
+    "old_name": "Apple iPhone 13 OLED Screen",
+    "new_name": "OLED Screen for iPhone 13",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0222"
+  },
+  {
+    "id": "12999781",
+    "old_name": "Apple iphone 13 Pro Max OEM Screen",
+    "new_name": "Screen for iPhone 13 Pro Max",
+    "reason": "apple_prefix",
+    "stock": "9",
+    "sku": "PHP70044"
+  },
+  {
+    "id": "13001022",
+    "old_name": "Apple iPhone 13 Pro Max OLED Screen",
+    "new_name": "OLED Screen for iPhone 13 Pro Max",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0196"
+  },
+  {
+    "id": "13001063",
+    "old_name": "Apple iPhone 16 Pro Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 16 Pro",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0197"
+  },
+  {
+    "id": "13001103",
+    "old_name": "Apple iPhone 16e Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 16e",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0198"
+  },
+  {
+    "id": "13001107",
+    "old_name": "Apple iPhone 17 Pro Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 17 Pro",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0199"
+  },
+  {
+    "id": "12828242",
+    "old_name": "Apple iPhone 5S Screen SE Screen Black [ORG]",
+    "new_name": "Screen for iPhone 5S SE Black",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0023"
+  },
+  {
+    "id": "12828241",
+    "old_name": "Apple iPhone 5S Screen SE Screen White [ORG]",
+    "new_name": "Screen for iPhone 5S SE White",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0024"
+  },
+  {
+    "id": "12828209",
+    "old_name": "Apple iPhone 6 Plus Screen Black [ORG]",
+    "new_name": "Screen for iPhone 6 Plus Black",
+    "reason": "apple_prefix",
+    "stock": "1",
+    "sku": "PHSA0056"
+  },
+  {
+    "id": "12827836",
+    "old_name": "Apple iPhone 6 Plus Screen White [ORG]",
+    "new_name": "Screen for iPhone 6 Plus White",
+    "reason": "apple_prefix",
+    "stock": "1",
+    "sku": "PHSA0057"
+  },
+  {
+    "id": "12828222",
+    "old_name": "Apple iPhone 6 Screen Black [ORG]",
+    "new_name": "Screen for iPhone 6 Black",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0054"
+  },
+  {
+    "id": "12828221",
+    "old_name": "Apple iPhone 6 Screen White [ORG]",
+    "new_name": "Screen for iPhone 6 White",
+    "reason": "apple_prefix",
+    "stock": "4",
+    "sku": "PHSA0055"
+  },
+  {
+    "id": "12828163",
+    "old_name": "Apple iPhone 6S Plus Screen Black [ORG]",
+    "new_name": "Screen for iPhone 6S Plus Black",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0060"
+  },
+  {
+    "id": "12828162",
+    "old_name": "Apple iPhone 6S Plus Screen White [ORG]",
+    "new_name": "Screen for iPhone 6S Plus White",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0061"
+  },
+  {
+    "id": "12827820",
+    "old_name": "Apple iPhone 6S Screen Black [ORG]",
+    "new_name": "Screen for iPhone 6S Black",
+    "reason": "apple_prefix",
+    "stock": "2",
+    "sku": "PHSA0058"
+  },
+  {
+    "id": "12828127",
+    "old_name": "Apple iPhone 6S Screen White [ORG]",
+    "new_name": "Screen for iPhone 6S White",
+    "reason": "apple_prefix",
+    "stock": "-1",
+    "sku": "PHSA0059"
+  },
+  {
+    "id": "12828164",
+    "old_name": "Apple iPhone 7 Plus Screen Black [ORG]",
+    "new_name": "Screen for iPhone 7 Plus Black",
+    "reason": "apple_prefix",
+    "stock": "3",
+    "sku": "PHSA0067"
+  },
+  {
+    "id": "12828165",
+    "old_name": "Apple iPhone 7 Plus Screen White [ORG]",
+    "new_name": "Screen for iPhone 7 Plus White",
+    "reason": "apple_prefix",
+    "stock": "1",
+    "sku": "PHSA0068"
+  },
+  {
+    "id": "12827790",
+    "old_name": "Apple iPhone 7 Screen Black [ORG]",
+    "new_name": "Screen for iPhone 7 Black",
+    "reason": "apple_prefix",
+    "stock": "1",
+    "sku": "PHSA0065"
+  },
+  {
+    "id": "12827791",
+    "old_name": "Apple iPhone 7 Screen White [ORG]",
+    "new_name": "Screen for iPhone 7 White",
+    "reason": "apple_prefix",
+    "stock": "8",
+    "sku": "PHSA0066"
+  },
+  {
+    "id": "12827535",
+    "old_name": "Apple iPhone 8 Screen Black [ORG]",
+    "new_name": "Screen for iPhone 8 Black",
+    "reason": "apple_prefix",
+    "stock": "3",
+    "sku": "PHSA0083"
+  },
+  {
+    "id": "12828112",
+    "old_name": "Apple iPhone X Screen [ORG]",
+    "new_name": "Screen for iPhone X",
+    "reason": "apple_prefix",
+    "stock": "2",
+    "sku": "PHSA0081"
+  },
+  {
+    "id": "12999300",
+    "old_name": "Apple MacBook Pro 13 inch Year 2020 A2251 Screen Assembly",
+    "new_name": "Screen Assembly for MacBook Pro 13 inch Year 2020 A2251",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "LPS00054"
+  },
+  {
+    "id": "12999108",
+    "old_name": "Apple MacBook Pro 13-inch A1706/A1708 Screen Assembly Silver",
+    "new_name": "Screen Assembly for MacBook Pro 13-inch A1706/A1708 Silver",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "LPS00049"
+  },
+  {
+    "id": "12998379",
+    "old_name": "iPhone 11 Orginal LCD Screen",
+    "new_name": "LCD Screen for iPhone 11 Orginal",
+    "reason": "iphone_prefix",
+    "stock": "4",
+    "sku": "PHSA0100"
+  },
+  {
+    "id": "12999684",
+    "old_name": "iPhone 11 Pro Max OEM Screen",
+    "new_name": "Screen for iPhone 11 Pro Max",
+    "reason": "iphone_prefix",
+    "stock": "-1",
+    "sku": "PHSA0108"
+  },
+  {
+    "id": "12999103",
+    "old_name": "iPhone 11 Pro Max Org. Cracked Screen for Sell",
+    "new_name": "Screen for iPhone 11 Pro Max Org. Cracked for Sell",
+    "reason": "iphone_prefix",
+    "stock": "-4",
+    "sku": "PHSC0005"
+  },
+  {
+    "id": "12999658",
+    "old_name": "iPhone 11 Pro OLED Screen",
+    "new_name": "OLED Screen for iPhone 11 Pro",
+    "reason": "iphone_prefix",
+    "stock": "1",
+    "sku": "PHSA0107"
+  },
+  {
+    "id": "12998802",
+    "old_name": "iPhone 11 Pro Org. Cracked Screen for Sell",
+    "new_name": "Screen for iPhone 11 Pro Org. Cracked for Sell",
+    "reason": "iphone_prefix",
+    "stock": "-6",
+    "sku": "PHSC0002"
+  },
+  {
+    "id": "12998918",
+    "old_name": "iPhone 12 Mini LCD Screen",
+    "new_name": "LCD Screen for iPhone 12 mini",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0104"
+  },
+  {
+    "id": "12999537",
+    "old_name": "iPhone 12 Org. Cracked Screen for Sell",
+    "new_name": "Screen for iPhone 12 Org. Cracked for Sell",
+    "reason": "iphone_prefix",
+    "stock": "-1",
+    "sku": "PHSC0007"
+  },
+  {
+    "id": "12998916",
+    "old_name": "iPhone 12 Pro Screen (Don't use this, use iPhone 12 SKU)",
+    "new_name": "Screen for iPhone 12 Pro",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0102"
+  },
+  {
+    "id": "13001186",
+    "old_name": "iPhone 13 OLED Screen",
+    "new_name": "OLED Screen for iPhone 13",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001202",
+    "old_name": "iPhone 13 OLED Screen",
+    "new_name": "OLED Screen for iPhone 13",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001223",
+    "old_name": "iPhone 13 OLED Screen",
+    "new_name": "OLED Screen for iPhone 13",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "12999860",
+    "old_name": "iPhone 13 Pro Max LCD Screen",
+    "new_name": "LCD Screen for iPhone 13 Pro Max",
+    "reason": "iphone_prefix",
+    "stock": "2",
+    "sku": "PHSA0117"
+  },
+  {
+    "id": "12999753",
+    "old_name": "iPhone 13 Pro Orginal LCD Screen",
+    "new_name": "LCD Screen for iPhone 13 Pro Orginal",
+    "reason": "iphone_prefix",
+    "stock": "1",
+    "sku": "PHSA0109"
+  },
+  {
+    "id": "13001216",
+    "old_name": "iPhone 16 Pro Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 16 Pro",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001226",
+    "old_name": "iPhone 16e Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 16e",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001205",
+    "old_name": "iPhone 16e Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 16e",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001188",
+    "old_name": "iPhone 17 Pro Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 17 Pro",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001225",
+    "old_name": "iPhone 17 Pro Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 17 Pro",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "13001204",
+    "old_name": "iPhone 17 Pro Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 17 Pro",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "12828342",
+    "old_name": "iPhone 3G Screen Black",
+    "new_name": "Screen for iPhone 3G Black",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0009"
+  },
+  {
+    "id": "12828340",
+    "old_name": "iPhone 3G Screen White",
+    "new_name": "Screen for iPhone 3G White",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0010"
+  },
+  {
+    "id": "12827554",
+    "old_name": "iPhone 3GS Mid Chassis Bezel (Touch Screen Frame)",
+    "new_name": "Screen for iPhone 3GS Mid Chassis Bezel (Touch Frame)",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHP30003"
+  },
+  {
+    "id": "12828298",
+    "old_name": "iPhone 3GS Screen Black",
+    "new_name": "Screen for iPhone 3GS Black",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0012"
+  },
+  {
+    "id": "12828296",
+    "old_name": "iPhone 3GS Screen White",
+    "new_name": "Screen for iPhone 3GS White",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0013"
+  },
+  {
+    "id": "12827910",
+    "old_name": "iPhone 4 Screen Black",
+    "new_name": "Screen for iPhone 4 Black",
+    "reason": "iphone_prefix",
+    "stock": "1",
+    "sku": "PHSA0014"
+  },
+  {
+    "id": "12827912",
+    "old_name": "iPhone 4 Screen White",
+    "new_name": "Screen for iPhone 4 White",
+    "reason": "iphone_prefix",
+    "stock": "7",
+    "sku": "PHSA0015"
+  },
+  {
+    "id": "12827909",
+    "old_name": "iPhone 4S Screen Black",
+    "new_name": "Screen for iPhone 4S Black",
+    "reason": "iphone_prefix",
+    "stock": "1",
+    "sku": "PHSA0016"
+  },
+  {
+    "id": "12827907",
+    "old_name": "iPhone 4S Screen White",
+    "new_name": "Screen for iPhone 4S White",
+    "reason": "iphone_prefix",
+    "stock": "6",
+    "sku": "PHSA0017"
+  },
+  {
+    "id": "12827898",
+    "old_name": "iPhone 5 Screen Black",
+    "new_name": "Screen for iPhone 5 Black",
+    "reason": "iphone_prefix",
+    "stock": "5",
+    "sku": "PHSA0018"
+  },
+  {
+    "id": "12827900",
+    "old_name": "iPhone 5 Screen White",
+    "new_name": "Screen for iPhone 5 White",
+    "reason": "iphone_prefix",
+    "stock": "10",
+    "sku": "PHSA0019"
+  },
+  {
+    "id": "12827901",
+    "old_name": "iPhone 5C Screen Black",
+    "new_name": "Screen for iPhone 5C Black",
+    "reason": "iphone_prefix",
+    "stock": "8",
+    "sku": "PHSA0020"
+  },
+  {
+    "id": "12827897",
+    "old_name": "iPhone 5S Screen Black",
+    "new_name": "Screen for iPhone 5S Black",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0021"
+  },
+  {
+    "id": "12827899",
+    "old_name": "iPhone 5S Screen White",
+    "new_name": "Screen for iPhone 5S White",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0022"
+  },
+  {
+    "id": "12827888",
+    "old_name": "iPhone 6 LCD Screen Black",
+    "new_name": "LCD Screen for iPhone 6 Black",
+    "reason": "iphone_prefix",
+    "stock": "4",
+    "sku": "PHSA0025"
+  },
+  {
+    "id": "12827886",
+    "old_name": "iPhone 6 LCD Screen White",
+    "new_name": "LCD Screen for iPhone 6 White",
+    "reason": "iphone_prefix",
+    "stock": "6",
+    "sku": "PHSA0026"
+  },
+  {
+    "id": "12827882",
+    "old_name": "iPhone 6 Plus LCD Screen White",
+    "new_name": "LCD Screen for iPhone 6 Plus White",
+    "reason": "iphone_prefix",
+    "stock": "4",
+    "sku": "PHSA0039"
+  },
+  {
+    "id": "12827883",
+    "old_name": "iPhone 6 Plus Screen Black",
+    "new_name": "Screen for iPhone 6 Plus Black",
+    "reason": "iphone_prefix",
+    "stock": "1",
+    "sku": "PHSA0038"
+  },
+  {
+    "id": "12827848",
+    "old_name": "iPhone 6S Plus Screen Black",
+    "new_name": "Screen for iPhone 6S Plus Black",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0027"
+  },
+  {
+    "id": "12827847",
+    "old_name": "iPhone 6S Plus Screen White",
+    "new_name": "Screen for iPhone 6S Plus White",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0028"
+  },
+  {
+    "id": "12827869",
+    "old_name": "iPhone 6S Screen Black",
+    "new_name": "Screen for iPhone 6S Black",
+    "reason": "iphone_prefix",
+    "stock": "1",
+    "sku": "PHSA0029"
+  },
+  {
+    "id": "12827870",
+    "old_name": "iPhone 6S Screen White",
+    "new_name": "Screen for iPhone 6S White",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0030"
+  },
+  {
+    "id": "12827841",
+    "old_name": "iPhone 7 LCD Screen Black",
+    "new_name": "LCD Screen for iPhone 7 Black",
+    "reason": "iphone_prefix",
+    "stock": "8",
+    "sku": "PHSA0072"
+  },
+  {
+    "id": "12827840",
+    "old_name": "iPhone 7 LCD Screen White",
+    "new_name": "LCD Screen for iPhone 7 White",
+    "reason": "iphone_prefix",
+    "stock": "4",
+    "sku": "PHSA0073"
+  },
+  {
+    "id": "12827830",
+    "old_name": "iPhone 7 Plus Black LCD Screen",
+    "new_name": "LCD Screen for iPhone 7 Plus Black",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0074"
+  },
+  {
+    "id": "12827831",
+    "old_name": "iPhone 7 Plus White LCD Screen",
+    "new_name": "LCD Screen for iPhone 7 Plus White",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0075"
+  },
+  {
+    "id": "12827832",
+    "old_name": "iPhone 8 LCD Screen Black",
+    "new_name": "LCD Screen for iPhone 8 Black",
+    "reason": "iphone_prefix",
+    "stock": "3",
+    "sku": "PHSA0076"
+  },
+  {
+    "id": "12827534",
+    "old_name": "iPhone 8 LCD Screen White",
+    "new_name": "LCD Screen for iPhone 8 White",
+    "reason": "iphone_prefix",
+    "stock": "8",
+    "sku": "PHSA0084"
+  },
+  {
+    "id": "12827828",
+    "old_name": "iPhone 8 Plus Black LCD Screen",
+    "new_name": "LCD Screen for iPhone 8 Plus Black",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0078"
+  },
+  {
+    "id": "12827537",
+    "old_name": "iPhone 8 Plus LCD Screen Black",
+    "new_name": "LCD Screen for iPhone 8 Plus Black",
+    "reason": "iphone_prefix",
+    "stock": "5",
+    "sku": "PHSA0085"
+  },
+  {
+    "id": "12827536",
+    "old_name": "iPhone 8 Plus LCD Screen White",
+    "new_name": "LCD Screen for iPhone 8 Plus White",
+    "reason": "iphone_prefix",
+    "stock": "5",
+    "sku": "PHSA0086"
+  },
+  {
+    "id": "12827827",
+    "old_name": "iPhone 8 Plus White LCD Screen",
+    "new_name": "LCD Screen for iPhone 8 Plus White",
+    "reason": "iphone_prefix",
+    "stock": "-1",
+    "sku": "PHSA0079"
+  },
+  {
+    "id": "12828252",
+    "old_name": "iPhone Screen Easy Removal Opening Tool",
+    "new_name": "Screen for iPhone Easy Removal Opening Tool",
+    "reason": "iphone_prefix",
+    "stock": "-1",
+    "sku": "TOL00002"
+  },
+  {
+    "id": "12998569",
+    "old_name": "iPhone X Org. Cracked Screen for Sell",
+    "new_name": "Screen for iPhone X Org. Cracked for Sell",
+    "reason": "iphone_prefix",
+    "stock": "-7",
+    "sku": "PHSC0001"
+  },
+  {
+    "id": "12828116",
+    "old_name": "iPhone X Screen OLED",
+    "new_name": "OLED Screen for iPhone X",
+    "reason": "iphone_prefix",
+    "stock": "-6",
+    "sku": "PHSA0082"
+  },
+  {
+    "id": "12998615",
+    "old_name": "iPhone XR Screen",
+    "new_name": "Screen for iPhone XR",
+    "reason": "iphone_prefix",
+    "stock": "12",
+    "sku": "PHSA0127"
+  },
+  {
+    "id": "12998005",
+    "old_name": "iPhone XR Screen OLED",
+    "new_name": "OLED Screen for iPhone XR",
+    "reason": "iphone_prefix",
+    "stock": "-1",
+    "sku": ""
+  },
+  {
+    "id": "12997659",
+    "old_name": "iPhone XS LCD Screen Orginal",
+    "new_name": "LCD Screen for iPhone XS Orginal",
+    "reason": "iphone_prefix",
+    "stock": "5",
+    "sku": "PHSA0091"
+  },
+  {
+    "id": "12997658",
+    "old_name": "iPhone XS Max LCD Screen Orginal",
+    "new_name": "LCD Screen for iPhone XS Max Orginal",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0090"
+  },
+  {
+    "id": "12999102",
+    "old_name": "iPhone XS Max Org. Cracked Screen for Sell",
+    "new_name": "Screen for iPhone XS Max Org. Cracked for Sell",
+    "reason": "iphone_prefix",
+    "stock": "-3",
+    "sku": "PHSC0004"
+  },
+  {
+    "id": "12998007",
+    "old_name": "iPhone XS Max Screen OLED",
+    "new_name": "OLED Screen for iPhone XS Max",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0124"
+  },
+  {
+    "id": "12999101",
+    "old_name": "iPhone XS Org. Cracked Screen for Sell",
+    "new_name": "Screen for iPhone XS Org. Cracked for Sell",
+    "reason": "iphone_prefix",
+    "stock": "-3",
+    "sku": "PHSC0003"
+  },
+  {
+    "id": "12998006",
+    "old_name": "iPhone XS Screen OLED",
+    "new_name": "OLED Screen for iPhone XS",
+    "reason": "iphone_prefix",
+    "stock": "2",
+    "sku": "PHSA0123"
+  },
+  {
+    "id": "13000227",
+    "old_name": "Samsung A05 screen",
+    "new_name": "Screen for Samsung A05",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0200"
+  },
+  {
+    "id": "12997838",
+    "old_name": "Samsung A10 Screen",
+    "new_name": "Screen for Samsung A10",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHPS0061"
+  },
+  {
+    "id": "12998221",
+    "old_name": "Samsung A10s Screen",
+    "new_name": "Screen for Samsung A10s",
+    "reason": "samsung_prefix",
+    "stock": "5",
+    "sku": "PHPS0063"
+  },
+  {
+    "id": "12999046",
+    "old_name": "Samsung A12 LCD Screen",
+    "new_name": "LCD Screen for Samsung A12",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0124"
+  },
+  {
+    "id": "12997956",
+    "old_name": "Samsung A20 Screen Replacement",
+    "new_name": "Screen for Samsung A20",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHAS0223"
+  },
+  {
+    "id": "12998416",
+    "old_name": "Samsung A21S Screen",
+    "new_name": "Screen for Samsung A21S",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHSS0102"
+  },
+  {
+    "id": "12998222",
+    "old_name": "Samsung A30 Screen",
+    "new_name": "Screen for Samsung A30",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHPS0065"
+  },
+  {
+    "id": "12998708",
+    "old_name": "Samsung A31 LCD Screen",
+    "new_name": "LCD Screen for Samsung A31",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHPS0091"
+  },
+  {
+    "id": "13000459",
+    "old_name": "Samsung A34 OEM screen with frame",
+    "new_name": "Screen for Samsung A34 with Frame",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHSA0185"
+  },
+  {
+    "id": "13000411",
+    "old_name": "Samsung A34 OLED screen with frame",
+    "new_name": "OLED Screen for Samsung A34 with Frame",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSA0180"
+  },
+  {
+    "id": "13000031",
+    "old_name": "Samsung A50 LCD Screen",
+    "new_name": "LCD Screen for Samsung A50",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSA0165"
+  },
+  {
+    "id": "12998223",
+    "old_name": "Samsung A50 Screen",
+    "new_name": "Screen for Samsung A50",
+    "reason": "samsung_prefix",
+    "stock": "-2",
+    "sku": "PHPS0066"
+  },
+  {
+    "id": "12998961",
+    "old_name": "Samsung A52 LCD Screen",
+    "new_name": "LCD Screen for Samsung A52",
+    "reason": "samsung_prefix",
+    "stock": "-3",
+    "sku": "PHSS0113"
+  },
+  {
+    "id": "13000462",
+    "old_name": "Samsung A52 OEM screen with frame",
+    "new_name": "Screen for Samsung A52 with Frame",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSA0186"
+  },
+  {
+    "id": "12998224",
+    "old_name": "Samsung A70 Screen",
+    "new_name": "Screen for Samsung A70",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHPS0067"
+  },
+  {
+    "id": "12998962",
+    "old_name": "Samsung Galaxy A01 Screen",
+    "new_name": "Screen for Samsung Galaxy A01",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHSS0114"
+  },
+  {
+    "id": "12998963",
+    "old_name": "Samsung Galaxy A02 Screen",
+    "new_name": "Screen for Samsung Galaxy A02",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0115"
+  },
+  {
+    "id": "12999065",
+    "old_name": "Samsung Galaxy A02S Screen",
+    "new_name": "Screen for Samsung Galaxy A02S",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0127"
+  },
+  {
+    "id": "12999335",
+    "old_name": "Samsung Galaxy A02s/A03/A03s LCD Screen",
+    "new_name": "LCD Screen for Samsung Galaxy A02s/A03/A03s",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0134"
+  },
+  {
+    "id": "12999316",
+    "old_name": "Samsung Galaxy A03/ A12 Nacho screen",
+    "new_name": "Screen for Samsung Galaxy A03/ A12 Nacho",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0133"
+  },
+  {
+    "id": "12999699",
+    "old_name": "Samsung Galaxy A04 Screen",
+    "new_name": "Screen for Samsung Galaxy A04",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0150"
+  },
+  {
+    "id": "12998650",
+    "old_name": "Samsung Galaxy A10 Screen with Frame",
+    "new_name": "Screen for Samsung Galaxy A10 with Frame",
+    "reason": "samsung_prefix",
+    "stock": "8",
+    "sku": "PHSS0105"
+  },
+  {
+    "id": "12998259",
+    "old_name": "Samsung Galaxy A11 Screen",
+    "new_name": "Screen for Samsung Galaxy A11",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHPS0074"
+  },
+  {
+    "id": "12999935",
+    "old_name": "Samsung Galaxy A13 Screen",
+    "new_name": "Screen for Samsung Galaxy A13",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0153"
+  },
+  {
+    "id": "12999792",
+    "old_name": "Samsung Galaxy A14 5G Screen",
+    "new_name": "Screen for Samsung Galaxy A14 5G",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0152"
+  },
+  {
+    "id": "12999107",
+    "old_name": "Samsung Galaxy A20 OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A20",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0130"
+  },
+  {
+    "id": "12999821",
+    "old_name": "Samsung Galaxy A21s  Screen",
+    "new_name": "Screen for Samsung Galaxy A21s",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHPS0187"
+  },
+  {
+    "id": "12998959",
+    "old_name": "Samsung Galaxy A22 (5G) Screen",
+    "new_name": "Screen for Samsung Galaxy A22 (5G)",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0111"
+  },
+  {
+    "id": "12999472",
+    "old_name": "Samsung Galaxy A22 4G Screen",
+    "new_name": "Screen for Samsung Galaxy A22 4G",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHSS0141"
+  },
+  {
+    "id": "12999667",
+    "old_name": "Samsung Galaxy A23 Screen",
+    "new_name": "Screen for Samsung Galaxy A23",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0147"
+  },
+  {
+    "id": "12999006",
+    "old_name": "Samsung Galaxy A3 (2017) Screen",
+    "new_name": "Screen for Samsung Galaxy A3 (2017)",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0121"
+  },
+  {
+    "id": "12998968",
+    "old_name": "Samsung Galaxy A30 OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A30",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0120"
+  },
+  {
+    "id": "12998966",
+    "old_name": "Samsung Galaxy A31 OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A31",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0118"
+  },
+  {
+    "id": "12998964",
+    "old_name": "Samsung Galaxy A32 4G Screen",
+    "new_name": "Screen for Samsung Galaxy A32 4G",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0116"
+  },
+  {
+    "id": "12999382",
+    "old_name": "Samsung Galaxy A32 5G Screen ",
+    "new_name": "Screen for Samsung Galaxy A32 5G",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0136"
+  },
+  {
+    "id": "12998709",
+    "old_name": "Samsung Galaxy A51 OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A51",
+    "reason": "samsung_prefix",
+    "stock": "-2",
+    "sku": "PHPS0092"
+  },
+  {
+    "id": "12999706",
+    "old_name": "Samsung Galaxy A52s Screen",
+    "new_name": "Screen for Samsung Galaxy A52s",
+    "reason": "samsung_prefix",
+    "stock": "-2",
+    "sku": "PHSS0151"
+  },
+  {
+    "id": "12999586",
+    "old_name": "Samsung Galaxy A53 5G Screen",
+    "new_name": "Screen for Samsung Galaxy A53 5G",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0144"
+  },
+  {
+    "id": "12999694",
+    "old_name": "Samsung Galaxy A7 (2017) Screen",
+    "new_name": "Screen for Samsung Galaxy A7 (2017)",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0148"
+  },
+  {
+    "id": "12999105",
+    "old_name": "Samsung Galaxy A70 OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A70",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0128"
+  },
+  {
+    "id": "12999479",
+    "old_name": "Samsung Galaxy A71 4G OEM Screen",
+    "new_name": "Screen for Samsung Galaxy A71 4G",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0142"
+  },
+  {
+    "id": "12999697",
+    "old_name": "Samsung Galaxy A71 4G OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A71 4G",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0149"
+  },
+  {
+    "id": "12998965",
+    "old_name": "Samsung Galaxy A71 OLED Screen",
+    "new_name": "OLED Screen for Samsung Galaxy A71",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0117"
+  },
+  {
+    "id": "12998960",
+    "old_name": "Samsung Galaxy A72 Screen",
+    "new_name": "Screen for Samsung Galaxy A72",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0112"
+  },
+  {
+    "id": "12827846",
+    "old_name": "Samsung Galaxy J5 Prime Screen Assembly no Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy J5 Prime no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "4",
+    "sku": "PHSS0089"
+  },
+  {
+    "id": "12828126",
+    "old_name": "Samsung Galaxy J5 Prime Screen Assembly no Frame Gold",
+    "new_name": "Screen Assembly for Samsung Galaxy J5 Prime no Frame Gold",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0091"
+  },
+  {
+    "id": "12827845",
+    "old_name": "Samsung Galaxy J5 Prime Screen Assembly no Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy J5 Prime no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0090"
+  },
+  {
+    "id": "12998814",
+    "old_name": "Samsung Galaxy J5 Pro Screen",
+    "new_name": "Screen for Samsung Galaxy J5 Pro",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0107"
+  },
+  {
+    "id": "13000030",
+    "old_name": "Samsung Galaxy J5 Pro SM-J530 LCD screen",
+    "new_name": "LCD Screen for Samsung Galaxy J5 Pro SM-J530",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHPS0199"
+  },
+  {
+    "id": "12999848",
+    "old_name": "Samsung Galaxy M22 M225F  Screen with Frame",
+    "new_name": "Screen for Samsung Galaxy M22 M225F with Frame",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHPS0189"
+  },
+  {
+    "id": "12999844",
+    "old_name": "Samsung Galaxy M32 M325F  Screen with Frame",
+    "new_name": "Screen for Samsung Galaxy M32 M325F with Frame",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHPS0188"
+  },
+  {
+    "id": "12828175",
+    "old_name": "Samsung Galaxy Note 1 Screen without Frame Black",
+    "new_name": "Screen for Samsung Galaxy Note 1 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0001"
+  },
+  {
+    "id": "12828174",
+    "old_name": "Samsung Galaxy Note 1 Screen without Frame White",
+    "new_name": "Screen for Samsung Galaxy Note 1 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0002"
+  },
+  {
+    "id": "12828159",
+    "old_name": "Samsung Galaxy Note 2 N7100 Screen Assembly with Frame Black ",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 2 N7100 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHSS0003"
+  },
+  {
+    "id": "12828158",
+    "old_name": "Samsung Galaxy Note 2 N7100 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 2 N7100 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0073"
+  },
+  {
+    "id": "12828170",
+    "old_name": "Samsung Galaxy Note 2 N7105 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 2 N7105 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0004"
+  },
+  {
+    "id": "12828169",
+    "old_name": "Samsung Galaxy Note 2 N7105 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 2 N7105 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0005"
+  },
+  {
+    "id": "12828156",
+    "old_name": "Samsung Galaxy Note 2 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 2 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0006"
+  },
+  {
+    "id": "12827794",
+    "old_name": "Samsung Galaxy Note 2 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 2 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "6",
+    "sku": "PHSS0007"
+  },
+  {
+    "id": "12827550",
+    "old_name": "Samsung Galaxy Note 2 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy Note 2 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0008"
+  },
+  {
+    "id": "12828047",
+    "old_name": "Samsung Galaxy Note 2 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy Note 2 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0009"
+  },
+  {
+    "id": "12827613",
+    "old_name": "Samsung Galaxy Note 2 Screen Glass Lens Blue",
+    "new_name": "Screen for Samsung Galaxy Note 2 Glass Lens Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0010"
+  },
+  {
+    "id": "12827611",
+    "old_name": "Samsung Galaxy Note 2 Screen Glass Lens Grey",
+    "new_name": "Screen for Samsung Galaxy Note 2 Glass Lens Grey",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0011"
+  },
+  {
+    "id": "12827610",
+    "old_name": "Samsung Galaxy Note 2 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy Note 2 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0013"
+  },
+  {
+    "id": "12827549",
+    "old_name": "Samsung Galaxy Note 2 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy Note 2 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0012"
+  },
+  {
+    "id": "12828146",
+    "old_name": "Samsung Galaxy Note 3 N900 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 3 N900 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0014"
+  },
+  {
+    "id": "12828154",
+    "old_name": "Samsung Galaxy Note 3 N900 Screen Assembly with Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 3 N900 with Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0015"
+  },
+  {
+    "id": "12828153",
+    "old_name": "Samsung Galaxy Note 3 N900 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 3 N900 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0016"
+  },
+  {
+    "id": "12828147",
+    "old_name": "Samsung Galaxy Note 3 N900 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 3 N900 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0017"
+  },
+  {
+    "id": "12828186",
+    "old_name": "Samsung Galaxy Note 3 N9005 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 3 N9005 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "4",
+    "sku": "PHSS0018"
+  },
+  {
+    "id": "12828172",
+    "old_name": "Samsung Galaxy Note 3 N9005 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 3 N9005 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0019"
+  },
+  {
+    "id": "12827645",
+    "old_name": "Samsung Galaxy Note 3 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy Note 3 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0020"
+  },
+  {
+    "id": "12827644",
+    "old_name": "Samsung Galaxy Note 3 Screen Glass Lens Blue",
+    "new_name": "Screen for Samsung Galaxy Note 3 Glass Lens Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0021"
+  },
+  {
+    "id": "12827614",
+    "old_name": "Samsung Galaxy Note 3 Screen Glass Lens Gery",
+    "new_name": "Screen for Samsung Galaxy Note 3 Glass Lens Gery",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0022"
+  },
+  {
+    "id": "12827643",
+    "old_name": "Samsung Galaxy Note 3 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy Note 3 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0023"
+  },
+  {
+    "id": "12827784",
+    "old_name": "Samsung Galaxy Note 4 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 4 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0024"
+  },
+  {
+    "id": "12828144",
+    "old_name": "Samsung Galaxy Note 4 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy Note 4 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0025"
+  },
+  {
+    "id": "12827628",
+    "old_name": "Samsung Galaxy Note 4 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy Note 4 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0026"
+  },
+  {
+    "id": "12827594",
+    "old_name": "Samsung Galaxy Note 4 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy Note 4 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0027"
+  },
+  {
+    "id": "12998818",
+    "old_name": "Samsung Galaxy Note 9 Screen",
+    "new_name": "Screen for Samsung Galaxy Note 9",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHPS0110"
+  },
+  {
+    "id": "12999385",
+    "old_name": "Samsung Galaxy Note10 Plus Screen",
+    "new_name": "Screen for Samsung Galaxy Note10 Plus",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0137"
+  },
+  {
+    "id": "12999403",
+    "old_name": "Samsung Galaxy Note20 Screen",
+    "new_name": "Screen for Samsung Galaxy Note20",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0138"
+  },
+  {
+    "id": "12998893",
+    "old_name": "Samsung Galaxy Note20 Ultra Screen",
+    "new_name": "Screen for Samsung Galaxy Note20 Ultra",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0110"
+  },
+  {
+    "id": "12999345",
+    "old_name": "Samsung Galaxy Note8 Screen",
+    "new_name": "Screen for Samsung Galaxy Note8",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0135"
+  },
+  {
+    "id": "12827544",
+    "old_name": "Samsung Galaxy S Duos S7562 Touch Screen - Black",
+    "new_name": "Screen for Samsung Galaxy S Duos S7562 Touch Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0028"
+  },
+  {
+    "id": "12999062",
+    "old_name": "Samsung Galaxy S10 Plus Screen",
+    "new_name": "Screen for Samsung Galaxy S10 Plus",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0126"
+  },
+  {
+    "id": "12828198",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S2 i9100 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0029"
+  },
+  {
+    "id": "12828197",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Assembly with Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S2 i9100 with Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "BATS0010"
+  },
+  {
+    "id": "12828196",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S2 i9100 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "5",
+    "sku": "PHSS0030"
+  },
+  {
+    "id": "12828206",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S2 i9100 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0031"
+  },
+  {
+    "id": "12828185",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Assembly without Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S2 i9100 no Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0034"
+  },
+  {
+    "id": "12828207",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S2 i9100 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0035"
+  },
+  {
+    "id": "12828052",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy S2 i9100 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0072"
+  },
+  {
+    "id": "12827609",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Glass Lens Blue",
+    "new_name": "Screen for Samsung Galaxy S2 i9100 Glass Lens Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0036"
+  },
+  {
+    "id": "12828046",
+    "old_name": "Samsung Galaxy S2 i9100 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy S2 i9100 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0037"
+  },
+  {
+    "id": "12999007",
+    "old_name": "Samsung Galaxy S20 FE Screen",
+    "new_name": "Screen for Samsung Galaxy S20 FE",
+    "reason": "samsung_prefix",
+    "stock": "-3",
+    "sku": "PHSS0122"
+  },
+  {
+    "id": "12999012",
+    "old_name": "Samsung Galaxy S20 Plus Screen",
+    "new_name": "Screen for Samsung Galaxy S20 Plus",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0123"
+  },
+  {
+    "id": "12998824",
+    "old_name": "Samsung Galaxy S20 Screen",
+    "new_name": "Screen for Samsung Galaxy S20",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0108"
+  },
+  {
+    "id": "12998700",
+    "old_name": "Samsung Galaxy S20 Ultra Screen",
+    "new_name": "Screen for Samsung Galaxy S20 Ultra",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0106"
+  },
+  {
+    "id": "12999232",
+    "old_name": "Samsung Galaxy S21 Plus Screen",
+    "new_name": "Screen for Samsung Galaxy S21 Plus",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHSS0131"
+  },
+  {
+    "id": "12999611",
+    "old_name": "Samsung Galaxy S21 Screen",
+    "new_name": "Screen for Samsung Galaxy S21",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0145"
+  },
+  {
+    "id": "12999915",
+    "old_name": "Samsung Galaxy S21FE  Lcd Screen",
+    "new_name": "LCD Screen for Samsung Galaxy S21FE",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHPS0195"
+  },
+  {
+    "id": "12999909",
+    "old_name": "Samsung Galaxy S22 Lcd Screen",
+    "new_name": "LCD Screen for Samsung Galaxy S22",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHPS0192"
+  },
+  {
+    "id": "12999519",
+    "old_name": "Samsung Galaxy S22 Ultra Screen",
+    "new_name": "Screen for Samsung Galaxy S22 Ultra",
+    "reason": "samsung_prefix",
+    "stock": "-4",
+    "sku": "PHSS0143"
+  },
+  {
+    "id": "12999910",
+    "old_name": "Samsung Galaxy S23 Lcd Screen",
+    "new_name": "LCD Screen for Samsung Galaxy S23",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHPS0193"
+  },
+  {
+    "id": "12999911",
+    "old_name": "Samsung Galaxy S23 Ultra  Lcd Screen",
+    "new_name": "LCD Screen for Samsung Galaxy S23 Ultra",
+    "reason": "samsung_prefix",
+    "stock": "-2",
+    "sku": "PHPS0194"
+  },
+  {
+    "id": "12827835",
+    "old_name": "Samsung Galaxy S3 i9300 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 i9300 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0038"
+  },
+  {
+    "id": "12828176",
+    "old_name": "Samsung Galaxy S3 i9300 Screen Assembly with Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 i9300 with Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0039"
+  },
+  {
+    "id": "12828168",
+    "old_name": "Samsung Galaxy S3 i9300 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 i9300 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0040"
+  },
+  {
+    "id": "12827863",
+    "old_name": "Samsung Galaxy S3 i9300 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 i9300 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "4",
+    "sku": "PHSS0041"
+  },
+  {
+    "id": "12828181",
+    "old_name": "Samsung Galaxy S3 i9300 Screen Assembly without Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 i9300 no Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0042"
+  },
+  {
+    "id": "12827884",
+    "old_name": "Samsung Galaxy S3 i9300 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 i9300 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "5",
+    "sku": "PHSS0043"
+  },
+  {
+    "id": "12828210",
+    "old_name": "Samsung Galaxy S3 mini Screen Assembly with Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 mini with Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0044"
+  },
+  {
+    "id": "12827891",
+    "old_name": "Samsung Galaxy S3 mini Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S3 mini with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0045"
+  },
+  {
+    "id": "12827642",
+    "old_name": "Samsung Galaxy S3 mini Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy S3 mini Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0046"
+  },
+  {
+    "id": "12827608",
+    "old_name": "Samsung Galaxy S3 mini Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy S3 mini Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0047"
+  },
+  {
+    "id": "12827892",
+    "old_name": "Samsung Galaxy S3 mini Screen without Frame White",
+    "new_name": "Screen for Samsung Galaxy S3 mini no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0048"
+  },
+  {
+    "id": "12828044",
+    "old_name": "Samsung Galaxy S3 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy S3 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0076"
+  },
+  {
+    "id": "12827607",
+    "old_name": "Samsung Galaxy S3 Screen Glass Lens Blue",
+    "new_name": "Screen for Samsung Galaxy S3 Glass Lens Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0077"
+  },
+  {
+    "id": "12827641",
+    "old_name": "Samsung Galaxy S3 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy S3 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS00075"
+  },
+  {
+    "id": "12828161",
+    "old_name": "Samsung Galaxy S4 i9500 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9500 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0078"
+  },
+  {
+    "id": "12827834",
+    "old_name": "Samsung Galaxy S4 i9500 Screen Assembly with Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9500 with Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0049"
+  },
+  {
+    "id": "12827849",
+    "old_name": "Samsung Galaxy S4 i9500 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9500 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0050"
+  },
+  {
+    "id": "12828160",
+    "old_name": "Samsung Galaxy S4 i9505 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9505 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0051"
+  },
+  {
+    "id": "12827822",
+    "old_name": "Samsung Galaxy S4 i9505 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9505 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHSS0053"
+  },
+  {
+    "id": "12828178",
+    "old_name": "Samsung Galaxy S4 i9506 Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9506 with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0085"
+  },
+  {
+    "id": "12828179",
+    "old_name": "Samsung Galaxy S4 i9506 Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 i9506 with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0084"
+  },
+  {
+    "id": "12828189",
+    "old_name": "Samsung Galaxy S4 mini Screen Assembly with Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 mini with Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0054"
+  },
+  {
+    "id": "12828184",
+    "old_name": "Samsung Galaxy S4 mini Screen Assembly with Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 mini with Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0055"
+  },
+  {
+    "id": "12827606",
+    "old_name": "Samsung Galaxy S4 mini Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy S4 mini Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0056"
+  },
+  {
+    "id": "12827605",
+    "old_name": "Samsung Galaxy S4 mini Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy S4 mini Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0057"
+  },
+  {
+    "id": "12828203",
+    "old_name": "Samsung Galaxy S4 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0058"
+  },
+  {
+    "id": "12828202",
+    "old_name": "Samsung Galaxy S4 Screen Assembly without Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 no Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0059"
+  },
+  {
+    "id": "12828205",
+    "old_name": "Samsung Galaxy S4 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S4 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0060"
+  },
+  {
+    "id": "12828039",
+    "old_name": "Samsung Galaxy S4 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy S4 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0061"
+  },
+  {
+    "id": "12827639",
+    "old_name": "Samsung Galaxy S4 Screen Glass Lens Blue",
+    "new_name": "Screen for Samsung Galaxy S4 Glass Lens Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0080"
+  },
+  {
+    "id": "12828045",
+    "old_name": "Samsung Galaxy S4 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy S4 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0079"
+  },
+  {
+    "id": "12827815",
+    "old_name": "Samsung Galaxy S5 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S5 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0062"
+  },
+  {
+    "id": "12827814",
+    "old_name": "Samsung Galaxy S5 Screen Assembly without Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S5 no Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0063"
+  },
+  {
+    "id": "12827816",
+    "old_name": "Samsung Galaxy S5 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S5 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "4",
+    "sku": "PHSS0064"
+  },
+  {
+    "id": "12827604",
+    "old_name": "Samsung Galaxy S5 Screen Glass Lens Black",
+    "new_name": "Screen for Samsung Galaxy S5 Glass Lens Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0065"
+  },
+  {
+    "id": "12827621",
+    "old_name": "Samsung Galaxy S5 Screen Glass Lens White",
+    "new_name": "Screen for Samsung Galaxy S5 Glass Lens White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0066"
+  },
+  {
+    "id": "12828139",
+    "old_name": "Samsung Galaxy S6 Edge Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S6 Edge no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0082"
+  },
+  {
+    "id": "12827789",
+    "old_name": "Samsung Galaxy S6 Screen Assembly without Frame Blue",
+    "new_name": "Screen Assembly for Samsung Galaxy S6 no Frame Blue",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0067"
+  },
+  {
+    "id": "12827785",
+    "old_name": "Samsung Galaxy S6 Screen Assembly without Frame Gold",
+    "new_name": "Screen Assembly for Samsung Galaxy S6 no Frame Gold",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0081"
+  },
+  {
+    "id": "12827788",
+    "old_name": "Samsung Galaxy S6 Screen Assembly without Frame White",
+    "new_name": "Screen Assembly for Samsung Galaxy S6 no Frame White",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0068"
+  },
+  {
+    "id": "12827760",
+    "old_name": "Samsung Galaxy S7 Edge Screen Assembly with Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S7 Edge with Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHSS0087"
+  },
+  {
+    "id": "12827763",
+    "old_name": "Samsung Galaxy S7 Edge Screen Assembly with Frame Gold",
+    "new_name": "Screen Assembly for Samsung Galaxy S7 Edge with Frame Gold",
+    "reason": "samsung_prefix",
+    "stock": "5",
+    "sku": "PHSS0088"
+  },
+  {
+    "id": "12828157",
+    "old_name": "Samsung Galaxy S7 Screen Assembly without Frame Black",
+    "new_name": "Screen Assembly for Samsung Galaxy S7 no Frame Black",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHSS0083"
+  },
+  {
+    "id": "12828152",
+    "old_name": "Samsung Galaxy S7 Screen Assembly without Frame Gold",
+    "new_name": "Screen Assembly for Samsung Galaxy S7 no Frame Gold",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0086"
+  },
+  {
+    "id": "12827783",
+    "old_name": "Samsung Galaxy S7 Screen Assembly without Frame Silver",
+    "new_name": "Screen Assembly for Samsung Galaxy S7 no Frame Silver",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0092"
+  },
+  {
+    "id": "12998243",
+    "old_name": "Samsung Galaxy S8 Plus Screen",
+    "new_name": "Screen for Samsung Galaxy S8 Plus",
+    "reason": "samsung_prefix",
+    "stock": "6",
+    "sku": "PHSS0099"
+  },
+  {
+    "id": "12827532",
+    "old_name": "Samsung Galaxy S8 Screen",
+    "new_name": "Screen for Samsung Galaxy S8",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0097"
+  },
+  {
+    "id": "12999054",
+    "old_name": "Samsung Galaxy S8 Second Hand Screen (Black Dot)",
+    "new_name": "Screen for Samsung Galaxy S8 Second Hand ( Dot) Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0125"
+  },
+  {
+    "id": "12998244",
+    "old_name": "Samsung Galaxy S9 Plus Screen",
+    "new_name": "Screen for Samsung Galaxy S9 Plus",
+    "reason": "samsung_prefix",
+    "stock": "3",
+    "sku": "PHSS0100"
+  },
+  {
+    "id": "12998242",
+    "old_name": "Samsung Galaxy S9 Screen",
+    "new_name": "Screen for Samsung Galaxy S9",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0098"
+  },
+  {
+    "id": "12828173",
+    "old_name": "Samsung Galaxy Tab 3 SM-T310 Screen Assembly",
+    "new_name": "Screen Assembly for Samsung Galaxy Tab 3 SM-T310",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0069"
+  },
+  {
+    "id": "12999577",
+    "old_name": "Samsung Galaxy Tab A 8.0 (2017) Screen",
+    "new_name": "Screen for Samsung Galaxy Tab A 8.0 (2017)",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "TABP004"
+  },
+  {
+    "id": "12999887",
+    "old_name": "Samsung Galaxy Tab A7 Lcd Screen",
+    "new_name": "LCD Screen for Samsung Galaxy Tab A7",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "TABP006"
+  },
+  {
+    "id": "12999530",
+    "old_name": "Samsung Galaxy Tab SM-T330 Touch Screen WHITE",
+    "new_name": "Screen for Samsung Galaxy Tab SM-T330 Touch White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "TABP002"
+  },
+  {
+    "id": "12827906",
+    "old_name": "Samsung Galaxy Xcover 3 Touch Screen",
+    "new_name": "Screen for Samsung Galaxy Xcover 3 Touch",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0093"
+  },
+  {
+    "id": "12827905",
+    "old_name": "Samsung Galaxy Xcover 4 Touch Screen",
+    "new_name": "Screen for Samsung Galaxy Xcover 4 Touch",
+    "reason": "samsung_prefix",
+    "stock": "2",
+    "sku": "PHSS0095"
+  },
+  {
+    "id": "12999660",
+    "old_name": "Samsung Galaxy Xcover Pro Screen",
+    "new_name": "Screen for Samsung Galaxy Xcover Pro",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0146"
+  },
+  {
+    "id": "12998045",
+    "old_name": "Samsung J4 plus Screen ",
+    "new_name": "Screen for Samsung J4 Plus",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": ""
+  },
+  {
+    "id": "12998241",
+    "old_name": "Samsung J7 Pro Screen",
+    "new_name": "Screen for Samsung J7 Pro",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHPS0073"
+  },
+  {
+    "id": "12998417",
+    "old_name": "Samsung Phone S10 Screen",
+    "new_name": "Screen for Samsung Phone S10",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0103"
+  },
+  {
+    "id": "12999509",
+    "old_name": "Samsung S20 FE Org. Cracked Screen for Sell",
+    "new_name": "Screen for Samsung S20 FE Org. Cracked for Sell",
+    "reason": "samsung_prefix",
+    "stock": "-2",
+    "sku": "PHSC0006"
+  },
+  {
+    "id": "12999263",
+    "old_name": "Samsung S21 Ultra LCD Screen",
+    "new_name": "LCD Screen for Samsung S21 Ultra",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHSS0132"
+  },
+  {
+    "id": "13000254",
+    "old_name": "SAMSUNG S22PUS LCD  SCREEN REPLACMENT",
+    "new_name": "LCD Screen for Samsung S22PUS",
+    "reason": "samsung_prefix",
+    "stock": "-1",
+    "sku": "PHPS0293"
+  },
+  {
+    "id": "12828289",
+    "old_name": "Samsung Tab 3 SM-T310 Touch Screen Black",
+    "new_name": "Screen for Samsung Tab 3 SM-T310 Touch Black",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0070"
+  },
+  {
+    "id": "12828288",
+    "old_name": "Samsung Tab 3 SM-T310 Touch Screen White",
+    "new_name": "Screen for Samsung Tab 3 SM-T310 Touch White",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0071"
+  },
+  {
+    "id": "12998808",
+    "old_name": "Samsung Tablet SM-T290/T295 screen",
+    "new_name": "Screen for Samsung Tablet SM-T290/T295",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "TABP001"
+  },
+  {
+    "id": "12999937",
+    "old_name": "Apple ipad 12.9\" Lcd",
+    "new_name": "LCD Screen for iPad 12.9\"",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0130"
+  },
+  {
+    "id": "12999914",
+    "old_name": "Apple ipad 9th Gen Lcd",
+    "new_name": "LCD Screen for iPad 9th Gen",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0128"
+  },
+  {
+    "id": "12999791",
+    "old_name": "Apple Ipad Air 3rd Gen A2152 LCD",
+    "new_name": "LCD Screen for iPad Air 3rd Gen A2152",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0112"
+  },
+  {
+    "id": "12999785",
+    "old_name": "Apple Ipad Pro 10.5\" A1709 LCD",
+    "new_name": "LCD Screen for iPad Pro 10.5\" A1709",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0111"
+  },
+  {
+    "id": "12999938",
+    "old_name": "Apple ipad pro 11\" LCD",
+    "new_name": "LCD Screen for iPad Pro 11\"",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0131"
+  },
+  {
+    "id": "12999927",
+    "old_name": "Apple ipad pro 9.7\" Lcd",
+    "new_name": "LCD Screen for iPad Pro 9.7\"",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "PHSA0129"
+  },
+  {
+    "id": "13000008",
+    "old_name": "Apple Macbook A2681 LCD Replacement",
+    "new_name": "LCD Screen for MacBook A2681",
+    "reason": "apple_prefix",
+    "stock": "0",
+    "sku": "LPS00091"
+  },
+  {
+    "id": "12999543",
+    "old_name": "Apple MacBook Pro A2159 2018 2019 A1989 A2289 LCD",
+    "new_name": "LCD Screen for MacBook Pro A2159 2018 2019 A1989 A2289",
+    "reason": "apple_prefix",
+    "stock": "1",
+    "sku": "LPS00063"
+  },
+  {
+    "id": "13000213",
+    "old_name": "iphone 13 mini lcd",
+    "new_name": "LCD Screen for iPhone 13 mini",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "12828297",
+    "old_name": "iPhone 3G LCD",
+    "new_name": "LCD Screen for iPhone 3G",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0008"
+  },
+  {
+    "id": "12827966",
+    "old_name": "iPhone 3GS LCD",
+    "new_name": "LCD Screen for iPhone 3GS",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": "PHSA0011"
+  },
+  {
+    "id": "12827868",
+    "old_name": "Samsung Galaxy Xcover 3 LCD",
+    "new_name": "LCD Screen for Samsung Galaxy Xcover 3",
+    "reason": "samsung_prefix",
+    "stock": "0",
+    "sku": "PHSS0094"
+  },
+  {
+    "id": "12828133",
+    "old_name": "Samsung Galaxy Xcover 4 LCD",
+    "new_name": "LCD Screen for Samsung Galaxy Xcover 4",
+    "reason": "samsung_prefix",
+    "stock": "1",
+    "sku": "PHSS0096"
+  },
+  {
+    "id": "13001189",
+    "old_name": "iPhone 16e Aftermarket OLED Screen",
+    "new_name": "OLED Screen for iPhone 16e",
+    "reason": "iphone_prefix",
+    "stock": "0",
+    "sku": ""
+  },
+  {
+    "id": "12999445",
+    "old_name": "Apple iPad 5 Retina Display 32GB Space Grey Refurb",
+    "new_name": "Screen for iPad 5 Retina 32GB Space Grey Refurb Space Gray",
+    "reason": "apple_prefix",
+    "stock": "1",
+    "sku": "STA00044"
+  }
+]

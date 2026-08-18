@@ -1,0 +1,3765 @@
+[
+  {
+    "id": "12999701",
+    "old_name": "Apple iPhone 12 / 12 Pro Battery",
+    "new_name": "Battery for iPhone 12 / 12 Pro",
+    "stock": 6.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999400",
+    "old_name": "Apple iPhone 12 Mini Battery",
+    "new_name": "Battery for iPhone 12 mini",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999702",
+    "old_name": "Apple iPhone 12 Pro Battery",
+    "new_name": "Battery for iPhone 12 Pro",
+    "stock": -4.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000291",
+    "old_name": "Apple iPhone 13 Mini Battery",
+    "new_name": "Battery for iPhone 13 mini",
+    "stock": 0.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999890",
+    "old_name": "Apple iPhone 13 Pro Battery",
+    "new_name": "Battery for iPhone 13 Pro",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999775",
+    "old_name": "Apple iPhone 13 Pro Max Battery",
+    "new_name": "Battery for iPhone 13 Pro Max",
+    "stock": -2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999475",
+    "old_name": "Apple iPhone 13 Pro/13 Pro Max Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 13 Pro/13 Pro Max",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999474",
+    "old_name": "Apple iPhone 13/13 Mini Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 13/13 mini",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000953",
+    "old_name": "Apple iPhone 14 Pro Battery",
+    "new_name": "Battery for iPhone 14 Pro",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000970",
+    "old_name": "Apple iPhone 14 Pro Max Battery",
+    "new_name": "Battery for iPhone 14 Pro Max",
+    "stock": 1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999856",
+    "old_name": "Apple iPhone 14 Pro/14 Pro Max Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 14 Pro/14 Pro Max",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999691",
+    "old_name": "Apple iPhone 14 Pro/14 Pro Max Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 14 Pro/14 Pro Max",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999690",
+    "old_name": "Apple iPhone 14/14 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 14/14 Plus",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000962",
+    "old_name": "Apple iPhone 15 Battery",
+    "new_name": "Battery for iPhone 15",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000956",
+    "old_name": "Apple iPhone 15 Pro Battery",
+    "new_name": "Battery for iPhone 15 Pro",
+    "stock": 1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001101",
+    "old_name": "Apple iPhone 15 Pro Max Battery",
+    "new_name": "Battery for iPhone 15 Pro Max",
+    "stock": 0.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998637",
+    "old_name": "Apple iPhone SE 2020 Battery",
+    "new_name": "Battery for iPhone SE 2020",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001222",
+    "old_name": "Asus X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mAh 4-Cell A41-X550 Battery",
+    "new_name": "Battery for ASUS X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mAh 4-Cell A41-X550",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001201",
+    "old_name": "Asus X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mAh 4-Cell A41-X550 Battery",
+    "new_name": "Battery for ASUS X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mAh 4-Cell A41-X550",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999224",
+    "old_name": "Battery Samsung Galaxy Tab A 9.7 T550 T555C P555C P550 6000 mAh EB-BT550ABA",
+    "new_name": "Battery for Samsung Galaxy Tab A 9.7 T550 T555C P555C P550",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999664",
+    "old_name": "Google Pixel 1st Gen S1 B2PW4100 Battery",
+    "new_name": "Battery for Google Pixel 1st Gen S1 B2PW4100",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999416",
+    "old_name": "Google Pixel 3 Battery",
+    "new_name": "Battery for Google Pixel 3",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999870",
+    "old_name": "Google Pixel 5A Lcd Screen",
+    "new_name": "LCD Screen for Google Pixel 5A",
+    "stock": -1.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827993",
+    "old_name": "High Capacity Samsung S4 mini Battery 2850mAh",
+    "new_name": "Battery for Samsung S4 mini",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999199",
+    "old_name": "Huawei Mate 10 Battery",
+    "new_name": "Battery for Huawei Mate 10",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998215",
+    "old_name": "Huawei Mate 10 Charging Port",
+    "new_name": "Charging Port for Huawei Mate 10",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998497",
+    "old_name": "Huawei Mate 10 Pro Back Glass",
+    "new_name": "Back Glass for Huawei Mate 10 Pro",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997993",
+    "old_name": "Huawei Mate 10 Pro Battery",
+    "new_name": "Battery for Huawei Mate 10 Pro",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997837",
+    "old_name": "Huawei Mate 10 Pro Charging Port",
+    "new_name": "Charging Port for Huawei Mate 10 Pro",
+    "stock": -1.0,
+    "category": "Mobile Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999364",
+    "old_name": "Huawei Mate 10 Pro Screen",
+    "new_name": "Screen for Huawei Mate 10 Pro",
+    "stock": 2.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998065",
+    "old_name": "Huawei Mate 10 Screen",
+    "new_name": "Screen for Huawei Mate 10",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999057",
+    "old_name": "Huawei Mate 20 Pro Screen",
+    "new_name": "Screen for Huawei Mate 20 Pro",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998226",
+    "old_name": "Huawei Mate 8 Screen",
+    "new_name": "Screen for Huawei Mate 8",
+    "stock": 2.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998118",
+    "old_name": "Huawei Mate 9 Battery",
+    "new_name": "Battery for Huawei Mate 9",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997836",
+    "old_name": "Huawei Mate 9 Charging Port",
+    "new_name": "Charging Port for Huawei Mate 9",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997965",
+    "old_name": "Huawei Nexus 6 plus Battery",
+    "new_name": "Battery for Huawei Nexus 6 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998208",
+    "old_name": "Huawei Nexus 6 plus Camera Lens",
+    "new_name": "Camera Glass Lens for Huawei Nexus 6 Plus",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999362",
+    "old_name": "Huawei Nova 2i Battery",
+    "new_name": "Battery for Huawei Nova 2i",
+    "stock": -2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998216",
+    "old_name": "Huawei Nova 2i Charging Port",
+    "new_name": "Charging Port for Huawei Nova 2i",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998214",
+    "old_name": "Huawei Nova 2i Screen",
+    "new_name": "Screen for Huawei Nova 2i",
+    "stock": 3.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998664",
+    "old_name": "Huawei Nova 3i Battery",
+    "new_name": "Battery for Huawei Nova 3i",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998217",
+    "old_name": "Huawei Nova 3i Charging Port",
+    "new_name": "Charging Port for Huawei Nova 3i",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998218",
+    "old_name": "Huawei Nova 3i Screen",
+    "new_name": "Screen for Huawei Nova 3i",
+    "stock": 3.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998542",
+    "old_name": "Huawei Nova 5T Back Glass",
+    "new_name": "Back Glass for Huawei Nova 5T",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998691",
+    "old_name": "Huawei Nova 5T Charging Port",
+    "new_name": "Charging Port for Huawei Nova 5T",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998539",
+    "old_name": "Huawei Nova 5T Screen with Frame",
+    "new_name": "Screen for Huawei Nova 5T with Frame",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999310",
+    "old_name": "Huawei P10 Battery",
+    "new_name": "Battery for Huawei P10",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998230",
+    "old_name": "Huawei P10 Lite Screen",
+    "new_name": "Screen for Huawei P10 Lite",
+    "stock": 3.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998219",
+    "old_name": "Huawei P20 Lite / Nova 3E Screen",
+    "new_name": "Screen for Huawei P20 Lite / Nova 3E",
+    "stock": 4.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998576",
+    "old_name": "Huawei P20 Pro Screen",
+    "new_name": "Screen for Huawei P20 Pro",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998229",
+    "old_name": "Huawei P20 Screen",
+    "new_name": "Screen for Huawei P20",
+    "stock": 4.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999323",
+    "old_name": "Huawei P30 OLED Screen",
+    "new_name": "OLED Screen for Huawei P30",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999348",
+    "old_name": "Huawei P30 Pro / Mate 20 Pro Battery",
+    "new_name": "Battery for Huawei P30 Pro / Mate 20 Pro",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998228",
+    "old_name": "Huawei P8 Lite Screen",
+    "new_name": "Screen for Huawei P8 Lite",
+    "stock": 3.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998227",
+    "old_name": "Huawei P8 Screen",
+    "new_name": "Screen for Huawei P8",
+    "stock": 3.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998165",
+    "old_name": "Huawei P9 Plus Screen",
+    "new_name": "Screen for Huawei P9 Plus",
+    "stock": 1.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999470",
+    "old_name": "Huawei Phone Huawei P30 lite/Nova 4E Screen",
+    "new_name": "Screen for Huawei P30 Lite/Nova 4E",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999243",
+    "old_name": "Huawei Phone Mate 20 Screen",
+    "new_name": "Screen for Huawei Mate 20",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998986",
+    "old_name": "Huawei Phone P20 Charging Port",
+    "new_name": "Charging Port for Huawei P20",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999371",
+    "old_name": "Huawei Phone P30 Back Glass",
+    "new_name": "Back Glass for Huawei P30",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999305",
+    "old_name": "Huawei Phone P30 Lite Back Glass",
+    "new_name": "Back Glass for Huawei P30 Lite",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999398",
+    "old_name": "Huawei Phone P30 Pro Back Glass",
+    "new_name": "Back Glass for Huawei P30 Pro",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998996",
+    "old_name": "Huawei Phone P30 Pro Charging Port",
+    "new_name": "Charging Port for Huawei P30 Pro",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999397",
+    "old_name": "Huawei Phone P30 Pro Screen",
+    "new_name": "Screen for Huawei P30 Pro",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998810",
+    "old_name": "Huawei Phone P30 Screen",
+    "new_name": "Screen for Huawei P30",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828272",
+    "old_name": "Huawei Phone P9 / Honor 8 / P9 Lite / P10 / P20 Lite Battery",
+    "new_name": "Battery for Huawei P9 / Honor 8 / P9 Lite / P10 / P20 Lite",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997937",
+    "old_name": "Huawei Y8 / Y7 Prime / Y7 Pro 2019 Screen",
+    "new_name": "Screen for Huawei Y8 / Y7 Prime / Y7 Pro 2019",
+    "stock": 1.0,
+    "category": "Mobile Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997954",
+    "old_name": "Huawei Y9 2019 Screen",
+    "new_name": "Screen for Huawei Y9 2019",
+    "stock": 3.0,
+    "category": "Mobile Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998511",
+    "old_name": "Huawei Y9 Prime 2019 Screen",
+    "new_name": "Screen for Huawei Y9 Prime 2019",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828259",
+    "old_name": "iPad 2 Battery",
+    "new_name": "Battery for iPad 2",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828320",
+    "old_name": "iPad 2 Home Button Plastic Piece Black",
+    "new_name": "Home Button for iPad 2 Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827572",
+    "old_name": "iPad 2 Home Button Plastic Piece White",
+    "new_name": "Home Button for iPad 2 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827873",
+    "old_name": "iPad 2 Touch Screen Black",
+    "new_name": "Touch Glass for iPad 2 Black",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828261",
+    "old_name": "iPad 2 Touch Screen White",
+    "new_name": "Touch Glass for iPad 2 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997843",
+    "old_name": "iPad 2017 (5th Gen) battery",
+    "new_name": "Battery for iPad 2017 (5th Gen)",
+    "stock": 1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997683",
+    "old_name": "iPad 2017 (5th Gen) Charging Port",
+    "new_name": "Charging Port for iPad 2017 (5th Gen)",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997673",
+    "old_name": "iPad 2017 Home Button Flex black",
+    "new_name": "Home Button for iPad 2017 Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997674",
+    "old_name": "iPad 2017 Home Button Flex White",
+    "new_name": "Home Button for iPad 2017 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997844",
+    "old_name": "iPad 2018 (6th Gen) battery",
+    "new_name": "Battery for iPad 2018 (6th Gen)",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997684",
+    "old_name": "iPad 2018 (6th Gen) Charging Port",
+    "new_name": "Charging Port for iPad 2018 (6th Gen)",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997675",
+    "old_name": "iPad 2018 Home Button Flex black",
+    "new_name": "Home Button for iPad 2018 Black",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997676",
+    "old_name": "iPad 2018 Home Button Flex White",
+    "new_name": "Home Button for iPad 2018 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828247",
+    "old_name": "iPad 3 Battery iPad 4 Battery",
+    "new_name": "Battery for 3 iPad 4",
+    "stock": 1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828293",
+    "old_name": "iPad 3 Charging Port",
+    "new_name": "Charging Port for iPad 3",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827872",
+    "old_name": "iPad 3 Touch Screen / iPad 4 Touch Screen Black",
+    "new_name": "Touch Glass for 3 Touch Screen / iPad 4 Black",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827871",
+    "old_name": "iPad 3 Touch Screen / iPad 4 Touch Screen White",
+    "new_name": "Touch Glass for 3 Touch Screen / iPad 4 White",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827950",
+    "old_name": "iPad 4 Charging Port",
+    "new_name": "Charging Port for iPad 4",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000387",
+    "old_name": "iPad 7th gen lcd screen",
+    "new_name": "LCD Screen for iPad 7th gen",
+    "stock": 0.0,
+    "category": "iPad Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828251",
+    "old_name": "iPad Air 1 Battery",
+    "new_name": "Battery for iPad Air 1",
+    "stock": 3.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997681",
+    "old_name": "iPad Air 1 Charging Port",
+    "new_name": "Charging Port for iPad Air 1",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997842",
+    "old_name": "iPad Air 2 Battery",
+    "new_name": "Battery for iPad Air 2",
+    "stock": 0.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997682",
+    "old_name": "iPad Air 2 Charging Port",
+    "new_name": "Charging Port for iPad Air 2",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997671",
+    "old_name": "iPad Air 2 Home Button Flex black",
+    "new_name": "Home Button for iPad Air 2 Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997672",
+    "old_name": "iPad Air 2 Home Button Flex White",
+    "new_name": "Home Button for iPad Air 2 White",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000287",
+    "old_name": "IPAD AIR 4 BATTERY REPLACMENT",
+    "new_name": "Battery for iPad Air 4",
+    "stock": 1.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000174",
+    "old_name": "iPad Air 4th (2020) A2316 LCD Screen",
+    "new_name": "LCD Screen for iPad Air 4th (2020) A2316",
+    "stock": 1.0,
+    "category": "iPad Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997670",
+    "old_name": "iPad Air Home Button Flex black",
+    "new_name": "Home Button for iPad Air Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827553",
+    "old_name": "iPad Air Home Button Flex White",
+    "new_name": "Home Button for iPad Air White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827953",
+    "old_name": "iPad Air Touch Screen Black",
+    "new_name": "Touch Glass for iPad Air Black",
+    "stock": -1.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828264",
+    "old_name": "iPad Air Touch Screen White",
+    "new_name": "Touch Glass for iPad Air White",
+    "stock": 1.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828278",
+    "old_name": "iPad mini 1 Battery",
+    "new_name": "Battery for iPad mini 1",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828258",
+    "old_name": "iPad mini 2 Battery / iPad mini 3 Battery",
+    "new_name": "Battery for mini 2 / iPad mini 3",
+    "stock": 0.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827582",
+    "old_name": "iPad mini 2 Charging Port / iPad mini 3 Charging Port",
+    "new_name": "Charging Port for mini 2 Charging Port / iPad mini 3",
+    "stock": 1.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997668",
+    "old_name": "iPad Mini 3 Home Button Flex Black",
+    "new_name": "Home Button for iPad mini 3 Black",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997666",
+    "old_name": "iPad Mini 3 Home Button Flex White",
+    "new_name": "Home Button for iPad mini 3 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828232",
+    "old_name": "iPad mini 3 Touch Screen with Home Button IC Black",
+    "new_name": "Touch Glass for iPad mini 3 Black",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828245",
+    "old_name": "iPad mini 3 Touch Screen with Home Button IC White",
+    "new_name": "Touch Glass for iPad mini 3 White",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997841",
+    "old_name": "iPad mini 4 Battery",
+    "new_name": "Battery for iPad mini 4",
+    "stock": 1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997680",
+    "old_name": "iPad Mini 4 Charging Port",
+    "new_name": "Charging Port for iPad mini 4",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997669",
+    "old_name": "iPad Mini 4 Home Button Flex Black",
+    "new_name": "Home Button for iPad mini 4 Black",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997667",
+    "old_name": "iPad Mini 4 Home Button Flex White",
+    "new_name": "Home Button for iPad mini 4 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827612",
+    "old_name": "iPad mini Home Button Plastic Piece Black",
+    "new_name": "Home Button for iPad mini Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827665",
+    "old_name": "iPad mini Home Button Plastic Piece White",
+    "new_name": "Home Button for iPad mini White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828263",
+    "old_name": "iPad mini Touch Screen with Home Button IC Black",
+    "new_name": "Touch Glass for iPad mini Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828262",
+    "old_name": "iPad mini Touch Screen with Home Button IC White",
+    "new_name": "Touch Glass for iPad mini White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997846",
+    "old_name": "iPad Pro 10.5 battery",
+    "new_name": "Battery for iPad Pro 10.5",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997686",
+    "old_name": "iPad Pro 10.5 Charging Port",
+    "new_name": "Charging Port for iPad Pro 10.5",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997845",
+    "old_name": "iPad Pro 9.7 battery",
+    "new_name": "Battery for iPad Pro 9.7",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997685",
+    "old_name": "iPad Pro 9.7 Charging Port",
+    "new_name": "Charging Port for iPad Pro 9.7",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997677",
+    "old_name": "iPad Pro 9.7 Home Button Flex black",
+    "new_name": "Home Button for iPad Pro 9.7 Black",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997678",
+    "old_name": "iPad Pro 9.7 Home Button Flex White",
+    "new_name": "Home Button for iPad Pro 9.7 White",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998988",
+    "old_name": "iPhone 11 Battery",
+    "new_name": "Battery for iPhone 11",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998566",
+    "old_name": "iPhone 11 Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 11",
+    "stock": -3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998943",
+    "old_name": "iPhone 11 Charging Port",
+    "new_name": "Charging Port for iPhone 11",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998952",
+    "old_name": "iPhone 11 Earspeaker",
+    "new_name": "Ear Speaker for iPhone 11",
+    "stock": -2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001033",
+    "old_name": "iPhone 11 Loudspeaker",
+    "new_name": "Loud Speaker for iPhone 11",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998989",
+    "old_name": "iPhone 11 Pro Battery",
+    "new_name": "Battery for iPhone 11 Pro",
+    "stock": 4.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998737",
+    "old_name": "iPhone 11 Pro Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 11 Pro",
+    "stock": 8.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998942",
+    "old_name": "iPhone 11 Pro Charging Port",
+    "new_name": "Charging Port for iPhone 11 Pro",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998951",
+    "old_name": "iPhone 11 Pro Earspeaker",
+    "new_name": "Ear Speaker for iPhone 11 Pro",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998728",
+    "old_name": "iPhone 11 Pro Max Battery",
+    "new_name": "Battery for iPhone 11 Pro Max",
+    "stock": 4.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998552",
+    "old_name": "iPhone 11 Pro Max Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 11 Pro Max",
+    "stock": 7.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998941",
+    "old_name": "iPhone 11 Pro Max Charging Port",
+    "new_name": "Charging Port for iPhone 11 Pro Max",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998950",
+    "old_name": "iPhone 11 Pro Max Earspeaker",
+    "new_name": "Ear Speaker for iPhone 11 Pro Max",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998955",
+    "old_name": "iPhone 12 Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 12",
+    "stock": 8.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999883",
+    "old_name": "Iphone 12 Earspeaker",
+    "new_name": "Ear Speaker for iPhone 12",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998956",
+    "old_name": "iPhone 12 Mini Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 12 mini",
+    "stock": 7.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999399",
+    "old_name": "iPhone 12 Mini Charging Port",
+    "new_name": "Charging Port for iPhone 12 mini",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998954",
+    "old_name": "iPhone 12 Pro Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 12 Pro",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998953",
+    "old_name": "iPhone 12 Pro Max Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 12 Pro Max",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999864",
+    "old_name": "iPhone 13 Back Glass",
+    "new_name": "Back Glass for iPhone 13",
+    "stock": 11.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000290",
+    "old_name": "IPHONE 13 BATTERY",
+    "new_name": "Battery for iPhone 13",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999865",
+    "old_name": "Iphone 13 pro Back Glass",
+    "new_name": "Back Glass for iPhone 13 Pro",
+    "stock": 8.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999863",
+    "old_name": "Iphone 14  Back Glass",
+    "new_name": "Back Glass for iPhone 14",
+    "stock": 9.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000178",
+    "old_name": "iPhone 14 black back glass with parts",
+    "new_name": "Back Glass for iPhone 14 black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999857",
+    "old_name": "iphone 14 Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 14",
+    "stock": 2.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001147",
+    "old_name": "iPhone 14 Plus Aftermarket Battery",
+    "new_name": "Aftermarket Battery for iPhone 14 Plus Aftermarket",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001197",
+    "old_name": "iPhone 14 Plus Aftermarket Battery",
+    "new_name": "Aftermarket Battery for iPhone 14 Plus Aftermarket",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001182",
+    "old_name": "iPhone 14 Plus Aftermarket Battery",
+    "new_name": "Aftermarket Battery for iPhone 14 Plus Aftermarket",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001177",
+    "old_name": "iPhone 14 Plus Aftermarket Battery",
+    "new_name": "Aftermarket Battery for iPhone 14 Plus Aftermarket",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001174",
+    "old_name": "iPhone 14 Plus Aftermarket Battery",
+    "new_name": "Aftermarket Battery for iPhone 14 Plus Aftermarket",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001218",
+    "old_name": "iPhone 14 Plus Aftermarket Battery",
+    "new_name": "Aftermarket Battery for iPhone 14 Plus Aftermarket",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999862",
+    "old_name": "Iphone 14 pro  Back Glass",
+    "new_name": "Back Glass for iPhone 14 Pro",
+    "stock": 8.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999861",
+    "old_name": "Iphone 14 pro max Back Glass",
+    "new_name": "Back Glass for iPhone 14 Pro Max",
+    "stock": 7.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000414",
+    "old_name": "IPhone 15 plus back glass with parts",
+    "new_name": "Back Glass for iPhone 15 Plus",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000519",
+    "old_name": "IPhone 15 pro back glass",
+    "new_name": "Back Glass for iPhone 15 Pro",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001207",
+    "old_name": "iPhone 15 Pro Max Battery",
+    "new_name": "Battery for iPhone 15 Pro Max",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001191",
+    "old_name": "iPhone 15 Pro Max Battery",
+    "new_name": "Battery for iPhone 15 Pro Max",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827578",
+    "old_name": "iPhone 3GS Battery",
+    "new_name": "Battery for iPhone 3GS",
+    "stock": 0.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827664",
+    "old_name": "iPhone 3GS Home Button Flex",
+    "new_name": "Home Button for iPhone 3GS",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827731",
+    "old_name": "iPhone 3GS Plastic Home Button Black",
+    "new_name": "Home Button for iPhone 3GS Plastic Black",
+    "stock": 0.0,
+    "category": "Accessories",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827730",
+    "old_name": "iPhone 3GS Plastic Home Button White",
+    "new_name": "Home Button for iPhone 3GS Plastic White",
+    "stock": 0.0,
+    "category": "Accessories",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828375",
+    "old_name": "iPhone 4 Battery",
+    "new_name": "Battery for iPhone 4",
+    "stock": 1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828390",
+    "old_name": "iPhone 4 Home Button Flex",
+    "new_name": "Home Button for iPhone 4",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827522",
+    "old_name": "iPhone 4 Home Button Plastic Piece Black",
+    "new_name": "Home Button for iPhone 4 Black",
+    "stock": 53.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828394",
+    "old_name": "iPhone 4 Home Button Plastic Piece White",
+    "new_name": "Home Button for iPhone 4 White",
+    "stock": 20.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828363",
+    "old_name": "iPhone 4 Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 4",
+    "stock": 15.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827655",
+    "old_name": "iPhone 4S Battery",
+    "new_name": "Battery for iPhone 4S",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828096",
+    "old_name": "iPhone 4S Home Button Flex",
+    "new_name": "Home Button for iPhone 4S",
+    "stock": 67.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827680",
+    "old_name": "iPhone 4S Home Button Plastic Piece Black",
+    "new_name": "Home Button for iPhone 4S Black",
+    "stock": 50.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827710",
+    "old_name": "iPhone 4S Home Button Plastic Piece White",
+    "new_name": "Home Button for iPhone 4S White",
+    "stock": 19.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827998",
+    "old_name": "iPhone 5 Battery",
+    "new_name": "Battery for iPhone 5",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828392",
+    "old_name": "iPhone 5 Home Button Flex",
+    "new_name": "Home Button for iPhone 5",
+    "stock": 6.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827688",
+    "old_name": "iPhone 5 Home Button Plastic Piece Black",
+    "new_name": "Home Button for iPhone 5 Black",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827709",
+    "old_name": "iPhone 5 Home Button Plastic Piece White",
+    "new_name": "Home Button for iPhone 5 White",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828352",
+    "old_name": "iPhone 5 Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 5",
+    "stock": 23.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827926",
+    "old_name": "iPhone 5S Battery",
+    "new_name": "Battery for iPhone 5S",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827558",
+    "old_name": "iPhone 5S Home Button Fingerprint Sensor Flex with Plastic Home Button Black",
+    "new_name": "Home Button for iPhone 5S Home Button Fingerprint Sensor Flex with Plastic Black",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827556",
+    "old_name": "iPhone 5S Home Button Fingerprint Sensor Flex with Plastic Home Button White",
+    "new_name": "Home Button for iPhone 5S Home Button Fingerprint Sensor Flex with Plastic White",
+    "stock": -2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828383",
+    "old_name": "iPhone 5S Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 5S",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827913",
+    "old_name": "iPhone 6 Battery",
+    "new_name": "Battery for iPhone 6",
+    "stock": 3.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827933",
+    "old_name": "iPhone 6 Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 6",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828353",
+    "old_name": "iPhone 6 Home Button Flex",
+    "new_name": "Home Button for iPhone 6",
+    "stock": 7.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827656",
+    "old_name": "iPhone 6 Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 6",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827911",
+    "old_name": "iPhone 6 Plus Battery",
+    "new_name": "Battery for iPhone 6 Plus",
+    "stock": 4.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827598",
+    "old_name": "iPhone 6 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 6 Plus",
+    "stock": 7.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828370",
+    "old_name": "iPhone 6 Plus Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 6 Plus",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828286",
+    "old_name": "iPhone 6S Battery",
+    "new_name": "Battery for iPhone 6S",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997412",
+    "old_name": "iPhone 6s camera lens",
+    "new_name": "Camera Glass Lens for iPhone 6S",
+    "stock": 6.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827924",
+    "old_name": "iPhone 6S Home Button Flex",
+    "new_name": "Home Button for iPhone 6S",
+    "stock": 20.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827627",
+    "old_name": "iPhone 6S Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 6S",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827896",
+    "old_name": "iPhone 6S Plus Battery",
+    "new_name": "Battery for iPhone 6S Plus",
+    "stock": 9.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997367",
+    "old_name": "iPhone 6S Plus camera lens",
+    "new_name": "Camera Glass Lens for iPhone 6S Plus",
+    "stock": 9.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828382",
+    "old_name": "iPhone 6S Plus Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 6S Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828249",
+    "old_name": "iPhone 7 Battery",
+    "new_name": "Battery for iPhone 7",
+    "stock": 2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827631",
+    "old_name": "iPhone 7 Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 7",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998236",
+    "old_name": "iPhone 7 Home Button",
+    "new_name": "Home Button for iPhone 7",
+    "stock": 16.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997544",
+    "old_name": "iPhone 7 Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 7",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828270",
+    "old_name": "iPhone 7 Plus Battery",
+    "new_name": "Battery for iPhone 7 Plus",
+    "stock": 3.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827619",
+    "old_name": "iPhone 7 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone 7 Plus",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998237",
+    "old_name": "iPhone 7 Plus Home Button",
+    "new_name": "Home Button for iPhone 7 Plus",
+    "stock": 18.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827923",
+    "old_name": "iPhone 7 Plus Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 7 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827531",
+    "old_name": "iPhone 8 Back Glass",
+    "new_name": "Back Glass for iPhone 8",
+    "stock": -2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997578",
+    "old_name": "iPhone 8 Battery",
+    "new_name": "Battery for iPhone 8",
+    "stock": 0.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998238",
+    "old_name": "iPhone 8 Home Button",
+    "new_name": "Home Button for iPhone 8",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997718",
+    "old_name": "iPhone 8 Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 8",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998940",
+    "old_name": "iPhone 8 Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 8",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997577",
+    "old_name": "iPhone 8 Plus Battery",
+    "new_name": "Battery for iPhone 8 Plus",
+    "stock": 3.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998239",
+    "old_name": "iPhone 8 Plus Home Button",
+    "new_name": "Home Button for iPhone 8 Plus",
+    "stock": 12.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997696",
+    "old_name": "iPhone 8 Plus Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 8 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998939",
+    "old_name": "iPhone 8 Plus Loud Speaker",
+    "new_name": "Loud Speaker for iPhone 8 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999877",
+    "old_name": "Iphone SE 2020 Chargerport",
+    "new_name": "Charging Port for iPhone SE 2020",
+    "stock": -2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828291",
+    "old_name": "iPhone SE Battery",
+    "new_name": "Battery for iPhone SE",
+    "stock": -2.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997697",
+    "old_name": "iPhone SE Loud Speaker",
+    "new_name": "Loud Speaker for iPhone SE",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827530",
+    "old_name": "iPhone X Back Glass",
+    "new_name": "Back Glass for iPhone X",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997435",
+    "old_name": "iPhone X Battery",
+    "new_name": "Battery for iPhone X",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998923",
+    "old_name": "iPhone X Loudspeaker",
+    "new_name": "Loud Speaker for iPhone X",
+    "stock": 2.0,
+    "category": "Laptop Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997455",
+    "old_name": "iPhone X Loudspeaker",
+    "new_name": "Loud Speaker for iPhone X",
+    "stock": 2.0,
+    "category": "Laptop Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997498",
+    "old_name": "iPhone XR Rear Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone XR",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "OK+polish"
+  },
+  {
+    "id": "12997497",
+    "old_name": "iPhone Xs / Xs Max Rear Camera Lens",
+    "new_name": "Camera Glass Lens for iPhone Xs / Xs Max",
+    "stock": -4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "OK+polish"
+  },
+  {
+    "id": "12998987",
+    "old_name": "iPhone XS Battery",
+    "new_name": "Battery for iPhone XS",
+    "stock": -1.0,
+    "category": "Mobile phone Batteries",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997698",
+    "old_name": "iPhone XS Loud Speaker",
+    "new_name": "Loud Speaker for iPhone XS",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997699",
+    "old_name": "iPhone XS MAX Loud Speaker",
+    "new_name": "Loud Speaker for iPhone XS Max",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999796",
+    "old_name": "Lenovo Ideapad Flex 5  15ALC05 LCD BAck Cover",
+    "new_name": "Back Cover for Lenovo Ideapad Flex 5 15ALC05 LCD",
+    "stock": 0.0,
+    "category": "Laptop Screen",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998598",
+    "old_name": "LG G6 Camera Lens",
+    "new_name": "Camera Glass Lens for LG G6",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998410",
+    "old_name": "LG G6 Screen",
+    "new_name": "Screen for LG G6",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999312",
+    "old_name": "Motorola Moto G8 Charging Port",
+    "new_name": "Charging Port for Motorola Moto G8",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999587",
+    "old_name": "Nokia 3 Screen",
+    "new_name": "Screen for Nokia 3",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998027",
+    "old_name": "Nokia 6 Charging Port",
+    "new_name": "Charging Port for Nokia 6",
+    "stock": 0.0,
+    "category": "-Discontinued",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998730",
+    "old_name": "Nokia 7 Plus Charging Port",
+    "new_name": "Charging Port for Nokia 7 Plus",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998869",
+    "old_name": "Nokia 8.1 Screen",
+    "new_name": "Screen for Nokia 8.1",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998902",
+    "old_name": "Oneplus 5 Battery",
+    "new_name": "Battery for OnePlus 5",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998901",
+    "old_name": "Oneplus 5 Screen",
+    "new_name": "Screen for OnePlus 5",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000038",
+    "old_name": "OnePlus 6 LCD Screen",
+    "new_name": "LCD Screen for OnePlus 6",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999797",
+    "old_name": "Oppo A53 LCd Screen",
+    "new_name": "LCD Screen for OPPO A53",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000684",
+    "old_name": "OPPO A54S Screen",
+    "new_name": "Screen for OPPO A54S",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999885",
+    "old_name": "Oppo A77 5G  Screen with Frame",
+    "new_name": "Screen for OPPO A77 5G with Frame",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999897",
+    "old_name": "Oppo Find X3 lite  Charging Port",
+    "new_name": "Charging Port for OPPO Find X3 Lite",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999748",
+    "old_name": "Oppo Find X3 Lite screen",
+    "new_name": "Screen for OPPO Find X3 Lite",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000146",
+    "old_name": "Oppo Find X5 Pro 5G LCD Screen",
+    "new_name": "LCD Screen for OPPO Find X5 Pro 5G",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999379",
+    "old_name": "Oppo Phone A5/A9 2020 Battery",
+    "new_name": "Battery for OPPO A5/A9 2020",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999565",
+    "old_name": "Oppo Phone A52 Screen",
+    "new_name": "Screen for OPPO A52",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999562",
+    "old_name": "Oppo Phone A54 5G Charging Port",
+    "new_name": "Charging Port for OPPO A54 5G",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999040",
+    "old_name": "Oppo Phone A7/AX7 Screen",
+    "new_name": "Screen for OPPO A7/AX7",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999473",
+    "old_name": "Oppo Phone A9 2019 Screen",
+    "new_name": "Screen for OPPO A9 2019",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998820",
+    "old_name": "Oppo Phone A9 2020 / A11X SCreen",
+    "new_name": "Screen for OPPO A9 2020 / A11X",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998914",
+    "old_name": "Oppo Phone A91 Screen",
+    "new_name": "Screen for OPPO A91",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999730",
+    "old_name": "Oppo Phone A94 5G Screen",
+    "new_name": "Screen for OPPO A94 5G",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999308",
+    "old_name": "Oppo Phone R11s Screen",
+    "new_name": "Screen for OPPO R11s",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998331",
+    "old_name": "Oppo R15 Pro Screen",
+    "new_name": "Screen for OPPO R15 Pro",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000016",
+    "old_name": "Samsung A04 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A04",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000351",
+    "old_name": "Samsung A34 charging port",
+    "new_name": "Charging Port for Samsung Galaxy A34",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000108",
+    "old_name": "Samsung A73 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A73",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999013",
+    "old_name": "Samsung Galaxy A02s Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A02s",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999410",
+    "old_name": "Samsung Galaxy A03/A12 Nacho Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A03/A12 Nacho",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999409",
+    "old_name": "Samsung Galaxy A03s Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A03s",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999541",
+    "old_name": "Samsung Galaxy A10 Back Battery Cover",
+    "new_name": "Back Cover for Samsung Galaxy A10",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998584",
+    "old_name": "Samsung Galaxy A10 Battery",
+    "new_name": "Battery for Samsung Galaxy A10",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998546",
+    "old_name": "Samsung Galaxy A10 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A10",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998770",
+    "old_name": "Samsung Galaxy A10 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A10",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999512",
+    "old_name": "Samsung Galaxy A11 Battery",
+    "new_name": "Battery for Samsung Galaxy A11",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999355",
+    "old_name": "Samsung Galaxy A11 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A11",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999895",
+    "old_name": "Samsung Galaxy A11 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A11",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999357",
+    "old_name": "Samsung Galaxy A12 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A12",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999588",
+    "old_name": "Samsung Galaxy A12 EarSpeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A12",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999936",
+    "old_name": "Samsung Galaxy A12 Loudspeaker",
+    "new_name": "Loud Speaker for Samsung Galaxy A12",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999999",
+    "old_name": "Samsung Galaxy A13 chargerport",
+    "new_name": "Charging Port for Samsung Galaxy A13",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998443",
+    "old_name": "Samsung Galaxy A20 Battery",
+    "new_name": "Battery for Samsung Galaxy A20",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998767",
+    "old_name": "Samsung Galaxy A20 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A20",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998771",
+    "old_name": "Samsung Galaxy A20 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A20",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999356",
+    "old_name": "Samsung Galaxy A21 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A21",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999049",
+    "old_name": "Samsung Galaxy A21S Battery",
+    "new_name": "Battery for Samsung Galaxy A21S",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998769",
+    "old_name": "Samsung Galaxy A21S Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A21S",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999710",
+    "old_name": "Samsung Galaxy A21s ear speaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A21s",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998775",
+    "old_name": "Samsung Galaxy A21S Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A21S",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999682",
+    "old_name": "Samsung Galaxy A22 5G Battery",
+    "new_name": "Battery for Samsung Galaxy A22 5G",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999407",
+    "old_name": "Samsung Galaxy A22 5G Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A22 5G",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999685",
+    "old_name": "Samsung Galaxy A23 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy A23",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999689",
+    "old_name": "Samsung Galaxy A23 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A23",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998641",
+    "old_name": "Samsung Galaxy A3 2017 A320 Battery",
+    "new_name": "Battery for Samsung Galaxy A3 2017 A320",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998995",
+    "old_name": "Samsung Galaxy A30 Battery",
+    "new_name": "Battery for Samsung Galaxy A30",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998772",
+    "old_name": "Samsung Galaxy A30 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A30",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998768",
+    "old_name": "Samsung Galaxy A30Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A30",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999347",
+    "old_name": "Samsung Galaxy A31 Back Cover",
+    "new_name": "Back Cover for Samsung Galaxy A31",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999386",
+    "old_name": "Samsung Galaxy A31 Battery",
+    "new_name": "Battery for Samsung Galaxy A31",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999353",
+    "old_name": "Samsung Galaxy A31 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A31",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999360",
+    "old_name": "Samsung Galaxy A32 4G Back Cover",
+    "new_name": "Back Cover for Samsung Galaxy A32 4G",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999408",
+    "old_name": "Samsung Galaxy A32 5G Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A32 5G",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999680",
+    "old_name": "Samsung Galaxy A33 5G Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A33 5G",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999686",
+    "old_name": "Samsung Galaxy A33 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy A33",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999047",
+    "old_name": "Samsung Galaxy A50 Battery",
+    "new_name": "Battery for Samsung Galaxy A50",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998733",
+    "old_name": "Samsung Galaxy A50 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A50",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998773",
+    "old_name": "Samsung Galaxy A50 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A50",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999481",
+    "old_name": "Samsung Galaxy A51 Battery",
+    "new_name": "Battery for Samsung Galaxy A51",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999354",
+    "old_name": "Samsung Galaxy A51 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A51",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999104",
+    "old_name": "Samsung Galaxy A51 Middle Frame with Power Button",
+    "new_name": "Middle Frame for Samsung Galaxy A51",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999840",
+    "old_name": "Samsung Galaxy A52 5g Chargerport",
+    "new_name": "Charging Port for Samsung Galaxy A52 5g",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999687",
+    "old_name": "Samsung Galaxy A53 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy A53",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999048",
+    "old_name": "Samsung Galaxy A70 Battery",
+    "new_name": "Battery for Samsung Galaxy A70",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998086",
+    "old_name": "Samsung Galaxy A70 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A70",
+    "stock": 4.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998774",
+    "old_name": "Samsung Galaxy A70 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A70",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999521",
+    "old_name": "Samsung Galaxy A71 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A71",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999688",
+    "old_name": "Samsung Galaxy A73 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy A73",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998537",
+    "old_name": "Samsung Galaxy A8 Plus Battery",
+    "new_name": "Battery for Samsung Galaxy A8 Plus",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999678",
+    "old_name": "Samsung Galaxy A90 5G Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy A90 5G",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999646",
+    "old_name": "Samsung Galaxy M51 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy M51",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828313",
+    "old_name": "Samsung Galaxy Nexus i9250 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Nexus i9250",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828135",
+    "old_name": "Samsung Galaxy Note 1 Battery",
+    "new_name": "Battery for Samsung Galaxy Note 1",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998765",
+    "old_name": "Samsung Galaxy Note 10 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Note 10",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998766",
+    "old_name": "Samsung Galaxy Note 10 Plus Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Note 10 Plus",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828371",
+    "old_name": "Samsung Galaxy Note 2 Battery",
+    "new_name": "Battery for Samsung Galaxy Note 2",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828377",
+    "old_name": "Samsung Galaxy Note 2 N7100 Middle Frame",
+    "new_name": "Middle Frame for Samsung Galaxy Note 2 N7100",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827583",
+    "old_name": "Samsung Galaxy Note 2 N7100 USB Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Note 2 N7100 USB",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828374",
+    "old_name": "Samsung Galaxy Note 2 N7105 Middle Frame",
+    "new_name": "Middle Frame for Samsung Galaxy Note 2 N7105",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827585",
+    "old_name": "Samsung Galaxy Note 2 N7105 USB Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Note 2 N7105 USB",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828369",
+    "old_name": "Samsung Galaxy Note 3 Battery",
+    "new_name": "Battery for Samsung Galaxy Note 3",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828321",
+    "old_name": "Samsung Galaxy Note 3 N900 USB Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Note 3 N900 USB",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828357",
+    "old_name": "Samsung Galaxy Note 4 Battery",
+    "new_name": "Battery for Samsung Galaxy Note 4",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997999",
+    "old_name": "Samsung Galaxy Note 5 Battery",
+    "new_name": "Battery for Samsung Galaxy Note 5",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999696",
+    "old_name": "Samsung Galaxy Note 5 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy Note 5",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998089",
+    "old_name": "Samsung Galaxy Note 8 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy Note 8",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998590",
+    "old_name": "Samsung Galaxy Note 8 Ear Speaker",
+    "new_name": "Ear Speaker for Samsung Galaxy Note 8",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998088",
+    "old_name": "Samsung Galaxy Note 9 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy Note 9",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998993",
+    "old_name": "Samsung Galaxy Note8 Battery",
+    "new_name": "Battery for Samsung Galaxy Note8",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998994",
+    "old_name": "Samsung Galaxy Note9 Battery",
+    "new_name": "Battery for Samsung Galaxy Note9",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998991",
+    "old_name": "Samsung Galaxy S10 Battery",
+    "new_name": "Battery for Samsung Galaxy S10",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999578",
+    "old_name": "Samsung Galaxy S10 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S10",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998992",
+    "old_name": "Samsung Galaxy S10 Plus Battery",
+    "new_name": "Battery for Samsung Galaxy S10 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999579",
+    "old_name": "Samsung Galaxy S10 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S10 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999559",
+    "old_name": "Samsung Galaxy S10E Battery",
+    "new_name": "Battery for Samsung Galaxy S10E",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828311",
+    "old_name": "Samsung Galaxy S2 i9100 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S2 i9100",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828351",
+    "old_name": "Samsung Galaxy S2 i9100 Loud Speaker",
+    "new_name": "Loud Speaker for Samsung Galaxy S2 i9100",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828309",
+    "old_name": "Samsung Galaxy S2 i9100G Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S2 i9100G",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828310",
+    "old_name": "Samsung Galaxy S2 i9105 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S2 i9105",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999647",
+    "old_name": "Samsung Galaxy S20 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S20",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998763",
+    "old_name": "Samsung Galaxy S20 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S20",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998643",
+    "old_name": "Samsung Galaxy S20 FE Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S20 FE",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998969",
+    "old_name": "Samsung Galaxy S20 Plus Battery",
+    "new_name": "Battery for Samsung Galaxy S20 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999642",
+    "old_name": "Samsung Galaxy S20 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S20 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998736",
+    "old_name": "Samsung Galaxy S20 Plus Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S20 Plus",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999648",
+    "old_name": "Samsung Galaxy S20 Ultra Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S20 Ultra",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998764",
+    "old_name": "Samsung Galaxy S20 Ultra Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S20 Ultra",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998822",
+    "old_name": "Samsung Galaxy S20FE Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S20 FE",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999418",
+    "old_name": "Samsung Galaxy S21 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S21",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999619",
+    "old_name": "Samsung Galaxy S21 FE Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S21 FE",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999544",
+    "old_name": "Samsung Galaxy S22 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S22",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999545",
+    "old_name": "Samsung Galaxy S22 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S22 Plus",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999546",
+    "old_name": "Samsung Galaxy S22 Ultra Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S22 Ultra",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827593",
+    "old_name": "Samsung Galaxy S3 Back Cover",
+    "new_name": "Back Cover for Samsung Galaxy S3",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828312",
+    "old_name": "Samsung Galaxy S3 Battery",
+    "new_name": "Battery for Samsung Galaxy S3",
+    "stock": 6.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828337",
+    "old_name": "Samsung Galaxy S4 Battery",
+    "new_name": "Battery for Samsung Galaxy S4",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828356",
+    "old_name": "Samsung Galaxy S4 i9500 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S4 i9500",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828355",
+    "old_name": "Samsung Galaxy S4 i9505 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S4 i9505",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828295",
+    "old_name": "Samsung Galaxy S5 Battery",
+    "new_name": "Battery for Samsung Galaxy S5",
+    "stock": 12.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827591",
+    "old_name": "Samsung Galaxy S5 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S5",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828280",
+    "old_name": "Samsung Galaxy S6 Battery",
+    "new_name": "Battery for Samsung Galaxy S6",
+    "stock": 6.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827636",
+    "old_name": "Samsung Galaxy S6 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S6",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998135",
+    "old_name": "Samsung Galaxy S6 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S6",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828292",
+    "old_name": "Samsung Galaxy S6 Edge Battery",
+    "new_name": "Battery for Samsung Galaxy S6 Edge",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827638",
+    "old_name": "Samsung Galaxy S6 Edge Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S6 Edge",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998675",
+    "old_name": "Samsung Galaxy S6 Edge Plus Battery",
+    "new_name": "Battery for Samsung Galaxy S6 Edge Plus",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998121",
+    "old_name": "Samsung Galaxy S6 Edge Plus Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S6 Edge Plus",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827887",
+    "old_name": "Samsung Galaxy S7 Battery",
+    "new_name": "Battery for Samsung Galaxy S7",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827576",
+    "old_name": "Samsung Galaxy S7 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S7",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828283",
+    "old_name": "Samsung Galaxy S7 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S7",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828347",
+    "old_name": "Samsung Galaxy S7 Edge Back Cover",
+    "new_name": "Back Cover for Samsung Galaxy S7 Edge",
+    "stock": 12.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827932",
+    "old_name": "Samsung Galaxy S7 Edge Battery",
+    "new_name": "Battery for Samsung Galaxy S7 Edge",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827626",
+    "old_name": "Samsung Galaxy S7 Edge Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S7 Edge",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827904",
+    "old_name": "Samsung Galaxy S8 Back Cover",
+    "new_name": "Back Cover for Samsung Galaxy S8",
+    "stock": 6.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998159",
+    "old_name": "Samsung Galaxy S8 Battery",
+    "new_name": "Battery for Samsung Galaxy S8",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998568",
+    "old_name": "Samsung Galaxy S8 Ear Speaker",
+    "new_name": "Ear Speaker for Samsung Galaxy S8",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998160",
+    "old_name": "Samsung Galaxy S8 Plus Battery",
+    "new_name": "Battery for Samsung Galaxy S8 Plus",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998776",
+    "old_name": "Samsung Galaxy S8 Plus Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy S8 Plus",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998110",
+    "old_name": "Samsung Galaxy S9 Battery",
+    "new_name": "Battery for Samsung Galaxy S9",
+    "stock": -1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998132",
+    "old_name": "Samsung Galaxy S9 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S9",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998682",
+    "old_name": "Samsung Galaxy S9 Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy S9",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998166",
+    "old_name": "Samsung Galaxy S9 Finger Print Button",
+    "new_name": "Fingerprint Button for Samsung Galaxy S9",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998161",
+    "old_name": "Samsung Galaxy S9 Plus Battery",
+    "new_name": "Battery for Samsung Galaxy S9 Plus",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998131",
+    "old_name": "Samsung Galaxy S9 Plus Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S9 Plus",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998777",
+    "old_name": "Samsung Galaxy S9 Plus Earspeaker",
+    "new_name": "Ear Speaker for Samsung Galaxy S9 Plus",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999373",
+    "old_name": "SAMSUNG GALAXY TAB 10.5'' (SM-T800) BATTERY",
+    "new_name": "Battery for Samsung Galaxy Tab 10.5'' (SM-T800)",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999532",
+    "old_name": "Samsung Galaxy Tab A 10.1 (2016) SM-T580 SM-T585 Battery",
+    "new_name": "Battery for Samsung Galaxy Tab A 10.1 (2016) SM-T580 SM-T585",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999476",
+    "old_name": "Samsung Galaxy Tab S2 9.7 (SM-T813) Battery",
+    "new_name": "Battery for Samsung Galaxy Tab S2 9.7 (SM-T813)",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000685",
+    "old_name": "Samsung Galaxy Tab S6 Lite SM-P610, SM-P615 Battery",
+    "new_name": "Battery for Samsung Galaxy Tab S6 Lite SM-P610, SM-P615",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000000",
+    "old_name": "Samsung J2 pro Battery",
+    "new_name": "Battery for Samsung J2 Pro",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998536",
+    "old_name": "Samsung J3 Battery",
+    "new_name": "Battery for Samsung J3",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000241",
+    "old_name": "Samsung Note 10 battery",
+    "new_name": "Battery for Samsung Galaxy Note 10",
+    "stock": 0.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000286",
+    "old_name": "Samsung Note 20 battery",
+    "new_name": "Battery for Samsung Galaxy Note 20",
+    "stock": 2.0,
+    "category": "",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998603",
+    "old_name": "Samsung Phone A70 Ear Speaker",
+    "new_name": "Ear Speaker for Samsung Galaxy A70",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998611",
+    "old_name": "Samsung Phone S10e Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S10e",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998120",
+    "old_name": "Samsung Phone S8 Plus Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S8 Plus",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998234",
+    "old_name": "Samsung Phone S8/S8 Plus Home Button (FingerPrint)",
+    "new_name": "Home Button for Samsung Galaxy S8/S8 Plus",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998235",
+    "old_name": "Samsung Phone S9/S9 Plus Home Button (FingerPrint)",
+    "new_name": "Home Button for Samsung Galaxy S9/S9 Plus",
+    "stock": 5.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000240",
+    "old_name": "Samsung S20 FE battery",
+    "new_name": "Battery for Samsung Galaxy S20 FE",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000177",
+    "old_name": "Samsung S21 Plus Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S21 Plus",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998134",
+    "old_name": "Samsung S7 Edge Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S7 Edge",
+    "stock": 2.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998046",
+    "old_name": "Samsung S8 Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S8",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998133",
+    "old_name": "Samsung S8 Plus Charging Port",
+    "new_name": "Charging Port for Samsung Galaxy S8 Plus",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998078",
+    "old_name": "Samsung S9 Camera Lens",
+    "new_name": "Camera Glass Lens for Samsung Galaxy S9",
+    "stock": 3.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999908",
+    "old_name": "Samsung Tab SM T800 CHARGING PORT",
+    "new_name": "Charging Port for Samsung Galaxy Tab SM T800",
+    "stock": 1.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998827",
+    "old_name": "Samsung Tablet SM-T350/355 Battery",
+    "new_name": "Battery for Samsung Galaxy Tablet SM-T350/355",
+    "stock": 0.0,
+    "category": "Mobile Phone Parts",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999924",
+    "old_name": "Vivo S16 LCD Screen",
+    "new_name": "LCD Screen for Vivo S16",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998021",
+    "old_name": "Xiaomi Pocophone F1 Screen",
+    "new_name": "Screen for Xiaomi Pocophone F1",
+    "stock": 0.0,
+    "category": "Mobile Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999786",
+    "old_name": "Xiaomi Redmi 11 5G LCD Screen with frame",
+    "new_name": "LCD Screen for Xiaomi Redmi 11 5G with Frame",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999341",
+    "old_name": "Xiaomi Redmi 9T LCD Screen",
+    "new_name": "LCD Screen for Xiaomi Redmi 9T",
+    "stock": -1.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998092",
+    "old_name": "Xiaomi Redmi Note 5 Screen",
+    "new_name": "Screen for Xiaomi Redmi Note 5",
+    "stock": 0.0,
+    "category": "Mobile Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998474",
+    "old_name": "Xiaomi Redmi Note 7 Screen",
+    "new_name": "Screen for Xiaomi Redmi Note 7",
+    "stock": 0.0,
+    "category": "OLD-Phone Screens",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827895",
+    "old_name": "Genuine Apple 60W MagSafe Adapter for MacBook-T",
+    "new_name": "OEM Power Adapter for MacBook MagSafe 60W",
+    "stock": -1.0,
+    "category": "Laptop Parts",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828240",
+    "old_name": "Genuine Apple MacBook Battery 13' A1185- 55Wh 10.8v",
+    "new_name": "OEM Battery for MacBook 13\" A1185 55Wh",
+    "stock": 0.0,
+    "category": "Laptop Parts",
+    "kind": "accessory",
+    "success": true,
+    "message": "OK+polish"
+  },
+  {
+    "id": "12997387",
+    "old_name": "OEM Apple 45W Magsafe Power Adapter for Macbook Air.Tip L A1374",
+    "new_name": "OEM Power Adapter for MacBook Air MagSafe 45W",
+    "stock": -1.0,
+    "category": "Laptop Parts",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000408",
+    "old_name": "OEM Aftermarket 87W USB-C Type C Power Adapter Charger for 16\" 2019 Apple MacBook Pro with 2M Type-C Cable",
+    "new_name": "Aftermarket Power Adapter for MacBook Pro USB-C 87W",
+    "stock": 5.0,
+    "category": "Laptop power adapters",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828059",
+    "old_name": "Samsung Genuine Headset Earphone with Microphone Black or White",
+    "new_name": "OEM Headset for Samsung phones Black or White",
+    "stock": 5.0,
+    "category": "Electronic Products",
+    "kind": "accessory",
+    "success": true,
+    "message": "OK+polish"
+  },
+  {
+    "id": "12828095",
+    "old_name": "High Audio Quality OEM Earpod Earphone for iPhone iPod iPad",
+    "new_name": "OEM Earphones for iPhone / iPod / iPad",
+    "stock": 2.0,
+    "category": "Electronic Products",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828305",
+    "old_name": "High Audio Quality OEM Earpod Earphone for iPhone iPod iPad with Lightning Connector",
+    "new_name": "OEM Earphones for iPhone / iPad Lightning",
+    "stock": 5.0,
+    "category": "Electronic Products",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828089",
+    "old_name": "Quality OEM Earpod Earphone",
+    "new_name": "OEM Earphones for iPhone / iPod / iPad",
+    "stock": -1.0,
+    "category": "Electronic Products",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998580",
+    "old_name": "Quality OEM Earpod Earphone",
+    "new_name": "OEM Earphones for iPhone / iPod / iPad",
+    "stock": 15.0,
+    "category": "Electronic Products",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000748",
+    "old_name": "Genuine Leather Band Strap for Apple Watch Black",
+    "new_name": "Leather Band for Apple Watch Black",
+    "stock": -1.0,
+    "category": "",
+    "kind": "accessory",
+    "success": true,
+    "message": "Item was updated successfully"
+  }
+]

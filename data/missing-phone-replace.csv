@@ -1,0 +1,23 @@
+old_device_id,old_name,target_name,new_device_id,api_action,manual_rename_needed
+1258269,Samsung Galaxy S21,Samsung Galaxy S25,1258444,CREATED_NEW_MODEL,YES
+1258278,Samsung Galaxy S21 Plus,Samsung Galaxy S25+,1258445,CREATED_NEW_MODEL,YES
+1258276,Samsung Galaxy S21 Ultra,Samsung Galaxy S25 Edge,1258446,CREATED_NEW_MODEL,YES
+1258306,Samsung Galaxy S22,Samsung Galaxy S25 FE,1258447,CREATED_NEW_MODEL,YES
+1258291,Samsung Galaxy S22 Plus,Samsung Galaxy S24 FE,1258448,CREATED_NEW_MODEL,YES
+1258285,Samsung Galaxy S22 Ultra,Samsung Galaxy Z Flip5,1258449,CREATED_NEW_MODEL,YES
+1258296,Samsung Galaxy A12,Samsung Galaxy Z Flip6,1258450,CREATED_NEW_MODEL,YES
+1258158,Samsung Galaxy A21s,Samsung Galaxy Z Flip7,1258451,CREATED_NEW_MODEL,YES
+1258282,Samsung Galaxy A22 5G,Samsung Galaxy Z Fold5,1258452,CREATED_NEW_MODEL,YES
+1258227,Samsung Galaxy A31,Samsung Galaxy Z Fold6,1258453,CREATED_NEW_MODEL,YES
+1258321,Samsung Galaxy A53 ,Samsung Galaxy Z Fold7,1258454,CREATED_NEW_MODEL,YES
+1258277,Samsung Galaxy M51,Samsung Galaxy Z Flip4,1258455,CREATED_NEW_MODEL,YES
+1257919,Samsung Phone A30,Samsung Galaxy Z Fold4,1258456,CREATED_NEW_MODEL,YES
+1258293,Samsung Galaxy Note 20 Ultra,Samsung Galaxy Z Flip3,1258457,CREATED_NEW_MODEL,YES
+1258251,Samsung galaxy S23 Ultra (Don't Use),Samsung Galaxy Z Fold2,1258442,CREATED_NEW_MODEL,YES
+,,Samsung Galaxy Z Flip,1258458,CREATED_NEW_MODEL,NO
+,,Samsung Galaxy Z Flip 5G,1258459,CREATED_NEW_MODEL,NO
+,,Samsung Galaxy A55 5G,1258460,CREATED_NEW_MODEL,NO
+,,Samsung Galaxy A56 5G,1258461,CREATED_NEW_MODEL,NO
+,,Samsung Galaxy A36 5G,1258462,CREATED_NEW_MODEL,NO
+,,Samsung Galaxy Note 10 Lite,1258463,CREATED_NEW_MODEL,NO
+,,Samsung Galaxy XCover 6 Pro,1258464,CREATED_NEW_MODEL,NO

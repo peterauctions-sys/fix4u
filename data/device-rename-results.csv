@@ -1,0 +1,23 @@
+name,action,id,message
+Samsung Galaxy S25,CREATE,1258444,Device added successfully
+Samsung Galaxy S25+,CREATE,1258445,Device added successfully
+Samsung Galaxy S25 Edge,CREATE,1258446,Device added successfully
+Samsung Galaxy S25 FE,CREATE,1258447,Device added successfully
+Samsung Galaxy S24 FE,CREATE,1258448,Device added successfully
+Samsung Galaxy Z Flip5,CREATE,1258449,Device added successfully
+Samsung Galaxy Z Flip6,CREATE,1258450,Device added successfully
+Samsung Galaxy Z Flip7,CREATE,1258451,Device added successfully
+Samsung Galaxy Z Fold5,CREATE,1258452,Device added successfully
+Samsung Galaxy Z Fold6,CREATE,1258453,Device added successfully
+Samsung Galaxy Z Fold7,CREATE,1258454,Device added successfully
+Samsung Galaxy Z Flip4,CREATE,1258455,Device added successfully
+Samsung Galaxy Z Fold4,CREATE,1258456,Device added successfully
+Samsung Galaxy Z Flip3,CREATE,1258457,Device added successfully
+Samsung Galaxy Z Fold2,EXISTS,1258442,already exists
+Samsung Galaxy Z Flip,CREATE,1258458,Device added successfully
+Samsung Galaxy Z Flip 5G,CREATE,1258459,Device added successfully
+Samsung Galaxy A55 5G,CREATE,1258460,Device added successfully
+Samsung Galaxy A56 5G,CREATE,1258461,Device added successfully
+Samsung Galaxy A36 5G,CREATE,1258462,Device added successfully
+Samsung Galaxy Note 10 Lite,CREATE,1258463,Device added successfully
+Samsung Galaxy XCover 6 Pro,CREATE,1258464,Device added successfully
