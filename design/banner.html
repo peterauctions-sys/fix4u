@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>梨园雅韵 · 新西兰戏曲俱乐部 · 易拉宝 850×2000mm</title>
+<style>
+  /* Original embedded typefaces recovered from the source PDF */
+  @font-face { font-family: 'Calli';   src: url('fonts/web/NHYKGR_HelloFont-ID-WenRenBangShu.ttf'); }
+  @font-face { font-family: 'WenFeng'; src: url('fonts/web/KDCSXR_HelloFont-ID-WenFeng.ttf'); }
+  @font-face { font-family: 'Seal';    src: url('fonts/web/VWILNG_HelloFont-ID-WenFeng.ttf'); }
+
+  :root {
+    --paper:      #F8F5ED;
+    --paper-warm: #F1EBDC;
+    --paper-edge: #E5DCC8;
+    --ink:        #14110F;
+    --ink-soft:   #3B3531;
+    --seal:       #B00F26;
+  }
+
+  @page { size: 850mm 2000mm; margin: 0; }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 850mm; height: 2000mm; }
+
+  body {
+    font-family: 'WenFeng', 'Noto Serif CJK SC', serif;
+    color: var(--ink);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .banner {
+    position: relative;
+    width: 850mm;
+    height: 2000mm;
+    overflow: hidden;
+    background:
+      radial-gradient(120% 50% at 50% 0%,  rgba(255,255,255,.9) 0%, rgba(255,255,255,0) 58%),
+      radial-gradient(85% 34% at 50% 58%,  rgba(255,254,250,.92) 0%, rgba(255,254,250,0) 72%),
+      linear-gradient(178deg, var(--paper) 0%, var(--paper-warm) 56%, var(--paper-edge) 100%);
+  }
+
+  /* fine paper fibre so large flat areas do not band in print */
+  .fibre {
+    position: absolute; inset: 0;
+    opacity: .45;
+    mix-blend-mode: multiply;
+    background-image:
+      repeating-linear-gradient(94deg, rgba(120,105,85,.04) 0 .5mm, rgba(120,105,85,0) .5mm 2.6mm),
+      repeating-linear-gradient(3deg,  rgba(120,105,85,.03) 0 .4mm, rgba(120,105,85,0) .4mm 3.4mm);
+  }
+
+  .vignette {
+    position: absolute; inset: 0;
+    background: radial-gradient(112% 60% at 50% 44%, rgba(0,0,0,0) 56%, rgba(60,48,32,.08) 100%);
+  }
+
+  .layer { position: absolute; left: 0; right: 0; }
+
+  /* keeps letter-spaced centred lines optically centred */
+  .ls { display: inline-block; }
+
+  /* hairline frame that ties the whole composition together */
+  .frame { position: absolute; inset: 0; }
+  .frame span {
+    position: absolute;
+    background: rgba(20,17,15,.20);
+  }
+  .frame .v { width: .7mm; top: 300mm; bottom: 372mm; }
+  .frame .v-l { left: 40mm; }
+  .frame .v-r { right: 40mm; }
+  .frame .cap {
+    width: 26mm; height: .7mm;
+  }
+  .frame .cap-bl { left: 40mm;  bottom: 372mm; }
+  .frame .cap-br { right: 40mm; bottom: 372mm; }
+
+  /* ---------- 1. opera mask frieze ---------- */
+  .masks {
+    top: 96mm;
+    height: 152mm;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 26mm;
+  }
+  .masks img {
+    height: 152mm;
+    width: auto;
+    filter: drop-shadow(0 3mm 6mm rgba(40,28,16,.22));
+  }
+
+  /* ---------- 2. divider ---------- */
+  .rule {
+    top: 296mm;
+    height: 8mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10mm;
+  }
+  .rule i {
+    display: block;
+    height: .7mm;
+    width: 371mm;
+    background: rgba(20,17,15,.20);
+  }
+  .rule i.r { transform: scaleX(-1); }
+  .rule b {
+    width: 8mm; height: 8mm;
+    background: var(--seal);
+    transform: rotate(45deg);
+  }
+
+  /* ---------- 3. club name ---------- */
+  .club {
+    top: 338mm;
+    text-align: center;
+    font-size: 84mm;
+    line-height: 1;
+    white-space: nowrap;
+  }
+  .club .ls { letter-spacing: 5mm; margin-right: -5mm; }
+
+  .latin {
+    top: 470mm;
+    text-align: center;
+    font-size: 31mm;
+    line-height: 1;
+    white-space: nowrap;
+    color: var(--ink-soft);
+  }
+  .latin .ls { letter-spacing: 2.4mm; margin-right: -2.4mm; }
+
+  /* ---------- 4. hero ---------- */
+  .hero { top: 540mm; height: 786mm; }
+
+  .halo {
+    position: absolute;
+    left: 48%; top: 45%;
+    width: 800mm; height: 800mm;
+    transform: translate(-50%, -50%);
+    background: radial-gradient(circle, rgba(255,255,255,.8) 0%, rgba(255,255,255,.28) 46%, rgba(255,255,255,0) 68%);
+  }
+
+  .face {
+    position: absolute;
+    left: 34mm;
+    top: 24mm;
+    height: 726mm;
+    width: auto;
+  }
+
+  .calli {
+    position: absolute;
+    right: 124mm;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14mm;
+    font-family: 'Calli', serif;
+    font-size: 166mm;
+    line-height: .9;
+    color: var(--ink);
+  }
+  .calli span { display: block; }
+
+  .seal {
+    position: absolute;
+    right: 44mm;
+    top: 622mm;
+    width: 104mm;
+    height: 104mm;
+  }
+  .seal img { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .seal em {
+    position: absolute; inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5mm;
+    font-family: 'Seal', sans-serif;
+    font-style: normal;
+    font-size: 28mm;
+    line-height: 1;
+    color: #FFFFFF;
+  }
+  .seal em span { letter-spacing: 1.2mm; margin-right: -1.2mm; }
+
+  /* ---------- 5. ink landscape ---------- */
+  .scape { top: 1252mm; height: 412mm; }
+
+  .scape .m-left {
+    position: absolute;
+    left: 44mm; bottom: 30mm;
+    height: 352mm;
+    opacity: .94;
+  }
+  .scape .m-right {
+    position: absolute;
+    right: 34mm; bottom: 26mm;
+    height: 306mm;
+    opacity: .9;
+  }
+  .scape .mist {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 172mm;
+    background: linear-gradient(180deg, rgba(244,239,229,0) 0%, rgba(244,239,229,.5) 58%, rgba(242,236,224,.92) 100%);
+    z-index: 3;
+  }
+  .birds {
+    position: absolute;
+    left: 50%; top: 108mm;
+    transform: translateX(-50%);
+    width: 168mm;
+    opacity: .8;
+    z-index: 4;
+  }
+
+  /* ---------- 6. address block ---------- */
+  .foot {
+    top: 1648mm;
+    height: 152mm;
+    background: linear-gradient(180deg, #1F1B18 0%, #14110F 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8mm;
+  }
+  .foot::before {
+    content: '';
+    position: absolute;
+    left: 0; right: 0; top: 0;
+    height: 4mm;
+    background: var(--seal);
+  }
+  .foot p {
+    font-size: 31mm;
+    line-height: 1;
+    color: #FBF7EF;
+    white-space: nowrap;
+  }
+  .foot p .ls { letter-spacing: 1mm; margin-right: -1mm; }
+  .foot p.two { color: #E7DECD; }
+</style>
+</head>
+<body>
+<div class="banner">
+  <div class="fibre"></div>
+
+  <div class="frame">
+    <span class="v v-l"></span>
+    <span class="v v-r"></span>
+    <span class="cap cap-bl"></span>
+    <span class="cap cap-br"></span>
+  </div>
+
+  <!-- 1. opera mask frieze -->
+  <div class="layer masks">
+    <img src="assets/masks/mask_01.png" alt="">
+    <img src="assets/masks/mask_03.png" alt="">
+    <img src="assets/masks/mask_02.png" alt="">
+    <img src="assets/masks/mask_11.png" alt="">
+    <img src="assets/masks/mask_10.png" alt="">
+  </div>
+
+  <!-- 2. divider -->
+  <div class="layer rule"><i></i><b></b><i class="r"></i></div>
+
+  <!-- 3. name block -->
+  <div class="layer club"><span class="ls">新西兰戏曲俱乐部</span></div>
+  <div class="layer latin"><span class="ls">Liyuan yayun New Zealand Opera Club</span></div>
+
+  <!-- 4. hero -->
+  <div class="layer hero">
+    <div class="halo"></div>
+    <img class="face" src="assets/opera_face.png" alt="">
+    <div class="calli">
+      <span>梨</span><span>园</span><span>雅</span><span>韵</span>
+    </div>
+    <div class="seal">
+      <img src="assets/square.png" alt="">
+      <em><span>NZ</span><span>AKL</span></em>
+    </div>
+  </div>
+
+  <!-- 5. ink landscape -->
+  <div class="layer scape">
+    <img class="m-left"  src="assets/mountain_a.png" alt="">
+    <img class="m-right" src="assets/mountain_b.png" alt="">
+    <svg class="birds" viewBox="0 0 300 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M18 42 C46 14, 66 14, 84 36 C102 14, 122 14, 150 42"
+            stroke="#14110F" stroke-width="4" stroke-linecap="round"/>
+      <path d="M152 24 C174 6, 190 6, 204 22 C218 6, 234 6, 256 24"
+            stroke="#14110F" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+    <div class="mist"></div>
+  </div>
+
+  <!-- 6. address -->
+  <div class="layer foot">
+    <p class="one"><span class="ls">地址： Greenslade Community Room, Ground Floor</span></p>
+    <p class="two"><span class="ls">21 Potter Avenue, Northcote,Auckland 0627</span></p>
+  </div>
+
+  <div class="vignette"></div>
+</div>
+</body>
+</html>
