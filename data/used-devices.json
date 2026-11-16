@@ -1,0 +1,107 @@
+{
+  "source": "repairdesk",
+  "store": "FIX4U Auckland",
+  "count": 10,
+  "items": [
+    {
+      "id": "12997940",
+      "name": "[Pre-owned] iPad Pro 9.7 128GB",
+      "sku": "STA00028",
+      "stock": 1,
+      "price": 699.0,
+      "price_label": "$699.00",
+      "description": "Pre-owned Apple iPad Pro 9.7\" 128GB. Tested and certified by FIX4U. 90-day warranty.",
+      "image": ""
+    },
+    {
+      "id": "12997939",
+      "name": "[Pre-owned] iPad Pro 9.7 32GB",
+      "sku": "STA00027",
+      "stock": 3,
+      "price": 649.0,
+      "price_label": "$649.00",
+      "description": "Pre-owned Apple iPad Pro 9.7\" 32GB. Tested and certified by FIX4U. 90-day warranty.",
+      "image": ""
+    },
+    {
+      "id": "12997759",
+      "name": "Apple iPhone 7 Plus 128GB Black - Preowned",
+      "sku": "SPHA0025***",
+      "stock": 3,
+      "price": 759.0,
+      "price_label": "$759.00",
+      "description": "Pre-owned Apple iPhone 7 Plus 128GB Black. Tested and certified by FIX4U. Unlocked. 90-day warranty.",
+      "image": ""
+    },
+    {
+      "id": "12997806",
+      "name": "Apple iPhone 7 Plus 32GB Silver - Preowned",
+      "sku": "SPHA0026***",
+      "stock": 1,
+      "price": 519.0,
+      "price_label": "$519.00",
+      "description": "Pre-owned Apple iPhone 7 Plus 32GB Silver. Tested and certified by FIX4U. Unlocked. 90-day warranty.",
+      "image": ""
+    },
+    {
+      "id": "12827824",
+      "name": "Apple iPod Touch 4 32GB Black - Used",
+      "sku": "SPK00070",
+      "stock": 5,
+      "price": 169.0,
+      "price_label": "$169.00",
+      "description": "Used Apple iPod Touch 4th Gen 32GB Black. Tested by FIX4U. 90-day warranty.",
+      "image": ""
+    },
+    {
+      "id": "13000718",
+      "name": "Refurbished iPhone 11 64GB Purple",
+      "sku": "SPHA0078",
+      "stock": 1,
+      "price": 460.0,
+      "price_label": "$460.00",
+      "description": "Refurbished iPhone 11 64GB Purple. A13 performance, dual camera. Tested by FIX4U. 90-day warranty.",
+      "image": "https://dghyt15qon7us.cloudfront.net/images/productTheme/Inventory/small/175147940651rqWfzdqyL.ACSL1000.jpg"
+    },
+    {
+      "id": "13000872",
+      "name": "Refurbished iPhone XS Max 256GB Gold",
+      "sku": "SPHA0086",
+      "stock": 1,
+      "price": 479.0,
+      "price_label": "$479.00",
+      "description": "Refurbished Apple iPhone XS Max 256GB Gold. Tested and certified by FIX4U. Unlocked. 90-day warranty.",
+      "image": "https://dghyt15qon7us.cloudfront.net/images/productTheme/Inventory/small/0.71722800 175665619313000872.jpg"
+    },
+    {
+      "id": "13000809",
+      "name": "Refurbished Samsung Galaxy A14 5G 64GB Black",
+      "sku": "SPHA0083",
+      "stock": 4,
+      "price": 269.0,
+      "price_label": "$269.00",
+      "description": "Refurbished Samsung Galaxy A14 5G 64GB Black (like new). Tested by FIX4U. 90-day warranty.",
+      "image": "https://dghyt15qon7us.cloudfront.net/images/productTheme/Inventory/small/1753423222samsunggalaxya14frontback.jpg"
+    },
+    {
+      "id": "13000811",
+      "name": "Refurbished Samsung Galaxy A15 5G 128GB Light Blue",
+      "sku": "SPHA0084",
+      "stock": 2,
+      "price": 339.0,
+      "price_label": "$339.00",
+      "description": "Refurbished Samsung Galaxy A15 5G 128GB Light Blue. Tested by FIX4U. 90-day warranty.",
+      "image": "https://dghyt15qon7us.cloudfront.net/images/productTheme/Inventory/small/1750434958SamsungA15.jpg"
+    },
+    {
+      "id": "13000813",
+      "name": "Refurbished Samsung Galaxy A54 5G 128GB Black",
+      "sku": "SPHA0085",
+      "stock": 1,
+      "price": 619.0,
+      "price_label": "$619.00",
+      "description": "Refurbished Samsung Galaxy A54 5G 128GB Black. Tested by FIX4U. 90-day warranty.",
+      "image": "https://dghyt15qon7us.cloudfront.net/images/productTheme/Inventory/small/17534233631753423356401.jpg"
+    }
+  ]
+}

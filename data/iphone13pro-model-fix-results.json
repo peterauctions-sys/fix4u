@@ -1,0 +1,145 @@
+[
+  {
+    "id": "12999358",
+    "name": "Apple iPhone 13 Pro Labor",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999918",
+    "name": "Apple iPhone 13 Pro On/Off button Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000094",
+    "name": "Apple IPhone 13 Pro Camera Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000549",
+    "name": "Apple iPhone 13 Pro Logic Board for TWO Issues",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000704",
+    "name": "Apple iPhone 13 Pro Logic Board for ONE Issue",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999556",
+    "name": "Apple iPhone 13 Pro Camera Glass Lens Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999736",
+    "name": "Apple iPhone 13 Pro OEM Screen Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999833",
+    "name": "Apple iPhone 13 Pro Rear Camera Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999875",
+    "name": "Apple iPhone 13 pro Back Glass Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999889",
+    "name": "Apple iPhone 13 Pro Battery Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000168",
+    "name": "Apple IPhone 13 Pro Charging Port Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000205",
+    "name": "Apple iPhone 13 Pro TFT Aftermarket Screen Replacement",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000706",
+    "name": "Back Main Camera Replacement for iPhone 13 Pro",
+    "kind": "pro",
+    "old_device": "1258111",
+    "old_device_name": "Apple iPhone 13 Pro Max",
+    "new_device": "1258297",
+    "new_device_name": "Apple IPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  }
+]

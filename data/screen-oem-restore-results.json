@@ -1,0 +1,314 @@
+[
+  {
+    "id": "13000531",
+    "old_name": "Apple iPhone 12 Pro OEM Screen",
+    "current_name": "Screen for iPhone 12 Pro",
+    "new_name": "OEM Screen for iPhone 12 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999859",
+    "old_name": "Apple iphone 13 OEM Screen",
+    "current_name": "Screen for iPhone 13",
+    "new_name": "OEM Screen for iPhone 13",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999781",
+    "old_name": "Apple iphone 13 Pro Max OEM Screen",
+    "current_name": "Screen for iPhone 13 Pro Max",
+    "new_name": "OEM Screen for iPhone 13 Pro Max",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828242",
+    "old_name": "Apple iPhone 5S Screen SE Screen Black [ORG]",
+    "current_name": "Screen for iPhone 5S SE Black",
+    "new_name": "OEM Screen for iPhone 5S SE Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828241",
+    "old_name": "Apple iPhone 5S Screen SE Screen White [ORG]",
+    "current_name": "Screen for iPhone 5S SE White",
+    "new_name": "OEM Screen for iPhone 5S SE White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828209",
+    "old_name": "Apple iPhone 6 Plus Screen Black [ORG]",
+    "current_name": "Screen for iPhone 6 Plus Black",
+    "new_name": "OEM Screen for iPhone 6 Plus Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827836",
+    "old_name": "Apple iPhone 6 Plus Screen White [ORG]",
+    "current_name": "Screen for iPhone 6 Plus White",
+    "new_name": "OEM Screen for iPhone 6 Plus White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828222",
+    "old_name": "Apple iPhone 6 Screen Black [ORG]",
+    "current_name": "Screen for iPhone 6 Black",
+    "new_name": "OEM Screen for iPhone 6 Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828221",
+    "old_name": "Apple iPhone 6 Screen White [ORG]",
+    "current_name": "Screen for iPhone 6 White",
+    "new_name": "OEM Screen for iPhone 6 White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828163",
+    "old_name": "Apple iPhone 6S Plus Screen Black [ORG]",
+    "current_name": "Screen for iPhone 6S Plus Black",
+    "new_name": "OEM Screen for iPhone 6S Plus Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828162",
+    "old_name": "Apple iPhone 6S Plus Screen White [ORG]",
+    "current_name": "Screen for iPhone 6S Plus White",
+    "new_name": "OEM Screen for iPhone 6S Plus White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827820",
+    "old_name": "Apple iPhone 6S Screen Black [ORG]",
+    "current_name": "Screen for iPhone 6S Black",
+    "new_name": "OEM Screen for iPhone 6S Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828127",
+    "old_name": "Apple iPhone 6S Screen White [ORG]",
+    "current_name": "Screen for iPhone 6S White",
+    "new_name": "OEM Screen for iPhone 6S White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828164",
+    "old_name": "Apple iPhone 7 Plus Screen Black [ORG]",
+    "current_name": "Screen for iPhone 7 Plus Black",
+    "new_name": "OEM Screen for iPhone 7 Plus Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828165",
+    "old_name": "Apple iPhone 7 Plus Screen White [ORG]",
+    "current_name": "Screen for iPhone 7 Plus White",
+    "new_name": "OEM Screen for iPhone 7 Plus White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827790",
+    "old_name": "Apple iPhone 7 Screen Black [ORG]",
+    "current_name": "Screen for iPhone 7 Black",
+    "new_name": "OEM Screen for iPhone 7 Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827791",
+    "old_name": "Apple iPhone 7 Screen White [ORG]",
+    "current_name": "Screen for iPhone 7 White",
+    "new_name": "OEM Screen for iPhone 7 White",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12827535",
+    "old_name": "Apple iPhone 8 Screen Black [ORG]",
+    "current_name": "Screen for iPhone 8 Black",
+    "new_name": "OEM Screen for iPhone 8 Black",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12828112",
+    "old_name": "Apple iPhone X Screen [ORG]",
+    "current_name": "Screen for iPhone X",
+    "new_name": "OEM Screen for iPhone X",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998379",
+    "old_name": "LCD Screen for iPhone 11 Orginal",
+    "current_name": "LCD Screen for iPhone 11",
+    "new_name": "OEM LCD Screen for iPhone 11",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999684",
+    "old_name": "iPhone 11 Pro Max OEM Screen",
+    "current_name": "Screen for iPhone 11 Pro Max",
+    "new_name": "OEM Screen for iPhone 11 Pro Max",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999103",
+    "old_name": "Screen for iPhone 11 Pro Max Org. Cracked for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 iPhone 11 Pro Max",
+    "new_name": "OEM Cracked Screen for Parts \u2014 iPhone 11 Pro Max",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998802",
+    "old_name": "Screen for iPhone 11 Pro Org. Cracked for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 iPhone 11 Pro",
+    "new_name": "OEM Cracked Screen for Parts \u2014 iPhone 11 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999537",
+    "old_name": "Screen for iPhone 12 Org. Cracked for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 iPhone 12",
+    "new_name": "OEM Cracked Screen for Parts \u2014 iPhone 12",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999753",
+    "old_name": "LCD Screen for iPhone 13 Pro Orginal",
+    "current_name": "LCD Screen for iPhone 13 Pro",
+    "new_name": "OEM LCD Screen for iPhone 13 Pro",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997659",
+    "old_name": "LCD Screen for iPhone XS Orginal",
+    "current_name": "LCD Screen for iPhone XS",
+    "new_name": "OEM LCD Screen for iPhone XS",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12997658",
+    "old_name": "LCD Screen for iPhone XS Max Orginal",
+    "current_name": "LCD Screen for iPhone XS Max",
+    "new_name": "OEM LCD Screen for iPhone XS Max",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000459",
+    "old_name": "Samsung A34 OEM screen with frame",
+    "current_name": "Screen for Samsung A34 with Frame",
+    "new_name": "OEM Screen for Samsung A34 with Frame",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000462",
+    "old_name": "Samsung A52 OEM screen with frame",
+    "current_name": "Screen for Samsung A52 with Frame",
+    "new_name": "OEM Screen for Samsung A52 with Frame",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999479",
+    "old_name": "Samsung Galaxy A71 4G OEM Screen",
+    "current_name": "Screen for Samsung Galaxy A71 4G",
+    "new_name": "OEM Screen for Samsung Galaxy A71 4G",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12998569",
+    "old_name": "iPhone X Org. Cracked Screen for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 iPhone X",
+    "new_name": "OEM Cracked Screen for Parts \u2014 iPhone X",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999102",
+    "old_name": "iPhone XS Max Org. Cracked Screen for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 iPhone XS Max",
+    "new_name": "OEM Cracked Screen for Parts \u2014 iPhone XS Max",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999101",
+    "old_name": "iPhone XS Org. Cracked Screen for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 iPhone XS",
+    "new_name": "OEM Cracked Screen for Parts \u2014 iPhone XS",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999509",
+    "old_name": "Samsung S20 FE Org. Cracked Screen for Sell",
+    "current_name": "Cracked Screen for Parts \u2014 Samsung S20 FE",
+    "new_name": "OEM Cracked Screen for Parts \u2014 Samsung S20 FE",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999555",
+    "old_name": "MacBook Air 13\" A2337 M1 Late2020 OEM Screen Assembly Grey",
+    "current_name": "Screen Assembly for MacBook Air 13\" A2337 M1 Late2020 Grey",
+    "new_name": "OEM Screen Assembly for MacBook Air 13\" A2337 M1 Late2020 Grey",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000270",
+    "old_name": "MacBook Air 13\" A2337 M1 Late2020 OEM Screen Assembly Rose Gold",
+    "current_name": "Screen Assembly for MacBook Air 13\" A2337 M1 Late2020 Rose Gold",
+    "new_name": "OEM Screen Assembly for MacBook Air 13\" A2337 M1 Late2020 Rose Gold",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "12999461",
+    "old_name": "MacBook Air 13\" A2338 M1 Late2020 OEM Screen Assembly Grey",
+    "current_name": "Screen Assembly for MacBook Air 13\" A2338 M1 Late2020 Grey",
+    "new_name": "OEM Screen Assembly for MacBook Air 13\" A2338 M1 Late2020 Grey",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13000271",
+    "old_name": "MacBook Pro 13\" A2338 M1 Late2020 OEM Screen Assembly Silver",
+    "current_name": "Screen Assembly for MacBook Pro 13\" A2338 M1 Late2020 Silver",
+    "new_name": "OEM Screen Assembly for MacBook Pro 13\" A2338 M1 Late2020 Silver",
+    "success": true,
+    "message": "Item was updated successfully"
+  },
+  {
+    "id": "13001117",
+    "old_name": "OEM Samsung A32 5G LCD and Digitiser Replacement with Frame",
+    "current_name": "LCD Screen for Samsung A32 5G with Frame",
+    "new_name": "OEM LCD Screen for Samsung A32 5G with Frame",
+    "success": true,
+    "message": "Item was updated successfully"
+  }
+]

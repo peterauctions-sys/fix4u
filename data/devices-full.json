@@ -1,0 +1,6320 @@
+[
+  {
+    "id": "1250855",
+    "name": "Samsung Note8",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "83",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250856",
+    "name": "Samsung Phone Note7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "108",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250859",
+    "name": "Samsung Phone Note9",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "110",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250923",
+    "name": "Samsung A3 2016",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250924",
+    "name": "Samsung A3 2017",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250925",
+    "name": "Samsung A5 500",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "9",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250926",
+    "name": "Samsung A5 510",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "10",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250928",
+    "name": "Samsung A5 520",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "11",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250930",
+    "name": "Samsung A7 A700",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "12",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250931",
+    "name": "Samsung A7 A710",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250932",
+    "name": "Samsung A7 A720",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "14",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250933",
+    "name": "Samsung A8 A530",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "15",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250934",
+    "name": "Samsung A8 Plus A730",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "16",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250935",
+    "name": "Samsung J110",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "56",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250937",
+    "name": "Samsung J111",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "57",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250938",
+    "name": "Samsung J120",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "58",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250939",
+    "name": "Samsung J2 Prime",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "59",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250940",
+    "name": "Samsung J2 Pro J250",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "60",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250941",
+    "name": "Samsung J200",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "61",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250942",
+    "name": "Samsung J3 Prime",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "62",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250943",
+    "name": "Samsung J3 Pro",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "63",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250944",
+    "name": "Samsung J320",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "64",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250945",
+    "name": "Samsung J400",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "66",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250948",
+    "name": "Samsung J600",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "71",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250949",
+    "name": "Samsung J800",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "77",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250950",
+    "name": "Samsung J5 520",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "67",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250951",
+    "name": "Samsung J5 J500",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "68",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250952",
+    "name": "Samsung J5 J510",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "69",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250954",
+    "name": "Samsung J5 Prime G570",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "70",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250956",
+    "name": "Samsung J7 J700",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "72",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250957",
+    "name": "Samsung J7 J701",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "73",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250958",
+    "name": "Samsung J710",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "76",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250959",
+    "name": "Samsung J7 Prime G610",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "74",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250960",
+    "name": "Samsung J7 Pro J730",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "75",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250961",
+    "name": "Samsung Xcover 3",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "137",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1250962",
+    "name": "Samsung Xcover 4",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "138",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251809",
+    "name": "Huawei Phone Nova 3",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "21",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251810",
+    "name": "Huawei Phone Nova 2",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "20",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251811",
+    "name": "Huawei Phone Nova",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "19",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251812",
+    "name": "Huawei Phone Mate 10 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "11",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251813",
+    "name": "Huawei Phone Mate 9 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "18",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251814",
+    "name": "Huawei Phone Mate 10",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "10",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251815",
+    "name": "Huawei Phone Mate 9",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "17",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251816",
+    "name": "Huawei Phone Mate 8",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "16",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251817",
+    "name": "Huawei Phone Mate 7",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "15",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251818",
+    "name": "Huawei Phone P20 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "27",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251819",
+    "name": "Huawei Phone P20",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "25",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251820",
+    "name": "Huawei Phone P10 Plus",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "24",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251821",
+    "name": "Huawei Phone P9 Plus",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "35",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251822",
+    "name": "Huawei Phone P10",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "22",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251823",
+    "name": "Huawei Phone P9",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "34",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251824",
+    "name": "Huawei Phone P8",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "33",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251828",
+    "name": "Apple iPad Pro 10.5",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251829",
+    "name": "Apple iPad Pro 9.7",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "16",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251830",
+    "name": "Apple iPad Air 2",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251831",
+    "name": "Apple iPad Air 2017 (5th Gen)",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251832",
+    "name": "Apple iPad Air",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251833",
+    "name": "Apple iPad Mini 4",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "12",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251834",
+    "name": "Apple iPad Mini 3",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "11",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251835",
+    "name": "Apple iPad Mini 2",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "10",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251836",
+    "name": "Apple iPad Mini 1",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "9",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251837",
+    "name": "Apple iPad iPad 4",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "8",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251838",
+    "name": "Apple iPad iPad 3",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251839",
+    "name": "Apple iPad iPad 2",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251840",
+    "name": "Samsung Phone J7 Pro J730",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "103",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251841",
+    "name": "Samsung Phone J7 Prime (G610)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "102",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251842",
+    "name": "Samsung Phone J5 Pro J530",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "100",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251843",
+    "name": "Samsung Phone J5 Prime (G570)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "99",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251844",
+    "name": "Samsung Phone J500",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "101",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251845",
+    "name": "Samsung Phone J3 Pro J330",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "98",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251846",
+    "name": "Samsung Phone A8 Plus A730",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "97",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251847",
+    "name": "Samsung Phone A8 A530",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "96",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251848",
+    "name": "Samsung Phone A720(2017)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "95",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251849",
+    "name": "Samsung Phone A520(2017)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "93",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251850",
+    "name": "Samsung Phone A510(2016)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "92",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251851",
+    "name": "Samsung Phone A320(2017)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "89",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251852",
+    "name": "Samsung Phone A310(2016)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "88",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251853",
+    "name": "Samsung Phone Note8",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "109",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251854",
+    "name": "Samsung Phone Note5",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "107",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251855",
+    "name": "Samsung Phone Note4",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "106",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251856",
+    "name": "Samsung Phone S9 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "124",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251857",
+    "name": "Samsung Phone S9",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "123",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251858",
+    "name": "Samsung Phone S8 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "122",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251859",
+    "name": "Samsung Phone S8",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "121",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251860",
+    "name": "Samsung Phone S7 Edge",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "120",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251861",
+    "name": "Samsung Phone S7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "119",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251862",
+    "name": "Samsung Phone S6 Edge Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "118",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251863",
+    "name": "Samsung Phone S6 Edge",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "117",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251864",
+    "name": "Samsung Phone S6",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "116",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251865",
+    "name": "Samsung Phone S5",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "115",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251866",
+    "name": "Samsung Phone S4",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "114",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251867",
+    "name": "Samsung Phone S3",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "113",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251868",
+    "name": "Apple iPhone 3",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "48",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251869",
+    "name": "Apple iPhone 4",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "49",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251870",
+    "name": "Apple iPhone 4S",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "50",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251871",
+    "name": "Apple iPhone 5",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "51",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251872",
+    "name": "Apple iPhone 5C",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "52",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251873",
+    "name": "Apple iPhone 5S",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "53",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251874",
+    "name": "Apple iPhone SE",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "62",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251875",
+    "name": "Apple iPhone 6",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "54",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251876",
+    "name": "Apple iPhone 6 Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "55",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251877",
+    "name": "Apple iPhone 6S",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "56",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251878",
+    "name": "Apple iPhone 6S Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "57",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251879",
+    "name": "Apple iPhone 7",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "58",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251880",
+    "name": "Apple iPhone 7 Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "59",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251881",
+    "name": "Apple iPhone 8",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "60",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251882",
+    "name": "Apple iPhone 8 Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "61",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251883",
+    "name": "Apple iPhone X",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "64",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251884",
+    "name": "Apple iPhone XR",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "65",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251885",
+    "name": "Apple iPhone Xs",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "66",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1251886",
+    "name": "Apple iPhone Xs Max",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "67",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1254568",
+    "name": "Samsung Phone Note3",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "105",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1254569",
+    "name": "Samsung Phone Note2",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "104",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257847",
+    "name": "Apple Ipod 5",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257848",
+    "name": "P600",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257849",
+    "name": "Mis laptop",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "10",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257850",
+    "name": "Desktop",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257851",
+    "name": "Samsung Tablet SM-T355Y",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257852",
+    "name": "2017 9.7inch (A1822/A1823)",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257853",
+    "name": "Mac BOOK A1278",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257854",
+    "name": "ASUS R409C",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257855",
+    "name": "Huawei Phone Honor8",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "9",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257856",
+    "name": "sony z5",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "16",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257857",
+    "name": "mac  book pro",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "12",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257858",
+    "name": "AMP Cube Street",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257859",
+    "name": "SM-211",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "10",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257860",
+    "name": "Acer Chromebook",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257861",
+    "name": "Phab 2 Pro",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "14",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257862",
+    "name": "millig x",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "9",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257864",
+    "name": "ideapad",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257866",
+    "name": "microsoft Surface Go 3",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257867",
+    "name": "Huawei Phone Mate 20 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257869",
+    "name": "HP laptop",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257871",
+    "name": "MacBook Air",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "14",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257872",
+    "name": "Gigabyte laptop",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "8",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257873",
+    "name": "Toshiba Laptop",
+    "manufacturer_id": "143652",
+    "company": "Laptop",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257874",
+    "name": "Oneplus 3",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "12",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257875",
+    "name": "HP Chromebook",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257876",
+    "name": "Apple MacBook Air A1465",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257877",
+    "name": "Anyware Laptop",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257878",
+    "name": "Lenovo Laptop",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257879",
+    "name": "Tab 2",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "14",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257880",
+    "name": "Surface Pro 3",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "18",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257881",
+    "name": "Acer Laptop",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257882",
+    "name": "Tab A",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "15",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257883",
+    "name": "Asus Laptop",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257884",
+    "name": "ipod 6",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "77",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257885",
+    "name": "laptop",
+    "manufacturer_id": "143638",
+    "company": "Asus",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257886",
+    "name": "IMAC",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257887",
+    "name": "Apple iPad Air 2018 (6th Gen)",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257888",
+    "name": "General Watch",
+    "manufacturer_id": "114516",
+    "company": "Watch",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257889",
+    "name": "Asus Chromebook",
+    "manufacturer_id": "143638",
+    "company": "Asus",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257890",
+    "name": "GT-N5120",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257891",
+    "name": "LG G6",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257893",
+    "name": "Apple CPU",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257894",
+    "name": "Macbook Pro",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "15",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257895",
+    "name": "Lenovo ThinkPad  T450s 500GB 12GB i7-5600U",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257898",
+    "name": "OPPO  Phone R15 Pro",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257899",
+    "name": "Huawei Phone SNE-AL00",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "36",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257900",
+    "name": "Asus Laptop",
+    "manufacturer_id": "143638",
+    "company": "Asus",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257901",
+    "name": "Samsung Tablet Tab3",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "9",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257902",
+    "name": "Samsung Tablet SM-T530",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257903",
+    "name": "Ipad 2018",
+    "manufacturer_id": "114511",
+    "company": "OG Protector",
+    "sort": "17",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257904",
+    "name": "Meizu",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "8",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257905",
+    "name": "Samsung S10E",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "125",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257906",
+    "name": "Lenovo Chromebook ",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "11",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257907",
+    "name": "Huawei Y6 2018",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "41",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257908",
+    "name": "Macbook Pro A1989",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "16",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257909",
+    "name": "Huawei Honor 9 Lite",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257910",
+    "name": "Windows Surface  RT ",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "17",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257911",
+    "name": "Macbook Pro A1990",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "17",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257912",
+    "name": "IMAC",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "9",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257913",
+    "name": "Dell CPU",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257914",
+    "name": "Samsung J4 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "65",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257915",
+    "name": "Samsung Laptop",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "78",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257916",
+    "name": "Samsung Phone S10",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "111",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257917",
+    "name": "Samsung Phone S10 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "112",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257918",
+    "name": "Samsung Galaxy  A10",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257919",
+    "name": "Samsung Phone A30",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "86",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257920",
+    "name": "T819",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257921",
+    "name": "ni",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "44",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257922",
+    "name": "huawei Nova 2i",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257923",
+    "name": "Samsung Chrombook",
+    "manufacturer_id": "143640",
+    "company": "del6",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257933",
+    "name": "Oneplus 6T",
+    "manufacturer_id": "143641",
+    "company": "Oneplus",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257934",
+    "name": "Sony Xperia XZ",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "15",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257935",
+    "name": "Huawei Y9 Prime 2019",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "43",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257936",
+    "name": "Samsung A20",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257937",
+    "name": "Huawei Nexus 6 Plus",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257938",
+    "name": "SM-T520",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "11",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257939",
+    "name": "SM-T535",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "12",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257940",
+    "name": "Huawei Phone P30 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "30",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257941",
+    "name": "Xiaomi Pocophone F1",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "18",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257942",
+    "name": "Pocophone F1",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257943",
+    "name": "Nokia 6",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257944",
+    "name": "Nokia 6",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "11",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257945",
+    "name": "Huawei Nova 5T",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257946",
+    "name": "Apple Macbook A1708",
+    "manufacturer_id": "143642",
+    "company": "del4",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257947",
+    "name": "Samsung Tab Active 2",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257948",
+    "name": "Lenovo Ideapad MIIX 700-12ISK",
+    "manufacturer_id": "143646",
+    "company": "del5",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257949",
+    "name": "Acer Laptop",
+    "manufacturer_id": "143647",
+    "company": "Acer",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257950",
+    "name": "Huawei P10 Lite",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257951",
+    "name": "Huawei Phone P10 Lite",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "23",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257952",
+    "name": "Samsung Phone A20",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "85",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257953",
+    "name": "Samsung Phone A30",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "87",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257954",
+    "name": "Samsung Phone A40",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "90",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257955",
+    "name": "Samsung Phone A50",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "91",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257956",
+    "name": "Samsung Phone A70",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "94",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257957",
+    "name": "Samsung Tablet A6",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257958",
+    "name": "Huawei Nova 3i",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257960",
+    "name": "Xiaomi Redmi Note 5",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257961",
+    "name": "Samsung Tablet GT-P5210",
+    "manufacturer_id": "143557",
+    "company": "del7",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257962",
+    "name": "Xiaomi Redmi Note 6 Pro",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257964",
+    "name": "Nokia 7.1",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257965",
+    "name": "Huawei Phone P20 Lite / Nova 3E ",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "26",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257966",
+    "name": "Samsung Galaxy Note N7000",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "38",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257967",
+    "name": "Motorola Moto G7 Power",
+    "manufacturer_id": "143649",
+    "company": "Motorola",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257968",
+    "name": "Samsung A40 SM-A405FN/DS",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "8",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257969",
+    "name": "laptop",
+    "manufacturer_id": "114515",
+    "company": "Inphic",
+    "sort": "10",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257970",
+    "name": "Google Pixel 2",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257971",
+    "name": "Huawei P8 Lite",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257972",
+    "name": "Samsung Note10",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "79",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257973",
+    "name": "Samsung Note Plus ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "82",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257974",
+    "name": "Samsung Galaxy S5 mini",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257975",
+    "name": "Apple iPhone 11",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "37",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257976",
+    "name": "Samsung Phone A11",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "84",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257977",
+    "name": "Nokia 3",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257978",
+    "name": "LG Phone G6",
+    "manufacturer_id": "143651",
+    "company": "LG ",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257980",
+    "name": "Oppo R15 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "8",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257981",
+    "name": "Huawei Phone P30",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "28",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257982",
+    "name": "Nokia 7.2",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257983",
+    "name": "Apple iPhone 11 Pro ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "38",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257984",
+    "name": "Lenovo Thinkpad",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257985",
+    "name": "Apple iPhone 11 Pro Max",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "39",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257986",
+    "name": "ASUS R409C",
+    "manufacturer_id": "143652",
+    "company": "Laptop",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257987",
+    "name": "mac  book pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "78",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257988",
+    "name": "Acer Chromebook",
+    "manufacturer_id": "143652",
+    "company": "Laptop",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257989",
+    "name": "HP laptop",
+    "manufacturer_id": "114516",
+    "company": "Watch",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257990",
+    "name": "iPad Mini 4",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "75",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257991",
+    "name": "iPad pro 10.5",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "76",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257992",
+    "name": "Apple iPad Mini 4",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "29",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257993",
+    "name": "Apple iPad 2018 (6th Gen)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "20",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257994",
+    "name": " Apple iPad 7th Gen 10.2 (2019)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "14",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257995",
+    "name": "2017 9.7inch (A1822/A1823)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "13",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257996",
+    "name": "Macbook Pro A1706",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "88",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257997",
+    "name": "Apple iPad Mini 2",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "27",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257998",
+    "name": "Ipad 2018",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "74",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1257999",
+    "name": "DEL 1",
+    "manufacturer_id": "143642",
+    "company": "del4",
+    "sort": "87",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258000",
+    "name": "Apple iPad Mini 1",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "26",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258001",
+    "name": "MacBook Air",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "80",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258002",
+    "name": "Apple MacBook Air A1465",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "68",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258003",
+    "name": "Ipad 10.2inch 7th Gen",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "73",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258004",
+    "name": "Samsung Tablet GT-P5210",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "128",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258005",
+    "name": "Apple iPad Air 2",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "18",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258006",
+    "name": "Samsung Tablet SM-T580",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "134",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258007",
+    "name": "Samsung Tablet A6",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "127",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258008",
+    "name": "Samsung Tab Active 2",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "126",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258009",
+    "name": "Apple MacBook Pro A1708",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "70",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258010",
+    "name": "Apple iPad 2017 (5th Gen)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "19",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258011",
+    "name": "Apple iPad iPad 2",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "23",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258012",
+    "name": "Apple iPad Mini 3",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "28",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258013",
+    "name": "SM-T520",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "139",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258014",
+    "name": "Apple iPad Air (A1475)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "16",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258015",
+    "name": "Samsung Chrombook",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "17",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258016",
+    "name": "Macbook Pro A1278",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "86",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258017",
+    "name": "Macbook Pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "82",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258018",
+    "name": "Apple iPad Pro 9.7 A1673, A1674, A1675",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "35",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258019",
+    "name": "Samsung Tablet SM-T530",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "132",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258020",
+    "name": "Macbook Pro A1989",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "89",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258021",
+    "name": "Samsung Tablet Tab3",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "136",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258022",
+    "name": "Apple iPad Pro 10.5 A1701, A1709",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "30",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258023",
+    "name": "Apple iPad 3",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "24",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258024",
+    "name": "Samsung Galaxy A35 5G ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "34",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258025",
+    "name": "Apple iPad Pro 12.9 1st (2015)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "33",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258026",
+    "name": "Apple iPad iPad 4",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "25",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258027",
+    "name": "Toshiba Laptop",
+    "manufacturer_id": "143644",
+    "company": "Toshiba",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258028",
+    "name": "Lenovo Chromebook",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258029",
+    "name": "Samsung Note10 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "80",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258030",
+    "name": "Macbook Air 11'' A1465 Year 2013-2015",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "81",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258031",
+    "name": "Macbook Pro 15\" A1398 Late 2013 & 2014",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "85",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258032",
+    "name": "Macbook Pro 13\" A1502",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "83",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258033",
+    "name": "Macbook Pro 15\" A1398 2012 2013",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "84",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258034",
+    "name": "Macbook 12\" 2015 A1534",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "79",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258035",
+    "name": "Vodafone Smart V10 ",
+    "manufacturer_id": "143656",
+    "company": "Vodafone",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258036",
+    "name": "Apple MacBook Pro 15.6'' A1707",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "69",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258037",
+    "name": "Samsung Tablet SM-T355Y",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "131",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258038",
+    "name": "Samsung Galaxy Tab Active",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "51",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258039",
+    "name": "Oppo A5 ",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258040",
+    "name": "Oppo AX5",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258041",
+    "name": "Xiaomi Mi A2",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258042",
+    "name": "Apple iPad Air 3 (2019)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "21",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258043",
+    "name": "Acer Chromebook",
+    "manufacturer_id": "143647",
+    "company": "Acer",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258044",
+    "name": "Apple iPad Pro 11 (2018) 1st Gen",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "31",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258045",
+    "name": "Samsung Galaxy A21S",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258046",
+    "name": "Samsung Galaxy S20 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "44",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258047",
+    "name": "Samsung Galaxy S20 ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "41",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258048",
+    "name": "Xiaomi Redmi Note 7",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258049",
+    "name": "Samsung Galaxy Tab A (8'' , 2019)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "48",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258050",
+    "name": "Huawei P9 Lite",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "8",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258051",
+    "name": "Samsung Phone Gaxaly A31",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "55",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258052",
+    "name": "Samsung Tablet SM-T813",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "135",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258053",
+    "name": "Apple iPhone SE 2020",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "63",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258054",
+    "name": "Samsung Galaxy S20 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "43",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258055",
+    "name": "Samsung Galaxy Tab S2 9.7 SM-T815Y",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "53",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258056",
+    "name": "Samsung Galaxy S20 FE",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "42",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258057",
+    "name": "Motorola Moto G8",
+    "manufacturer_id": "143649",
+    "company": "Motorola",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258058",
+    "name": "Chuwi Tablet Labor",
+    "manufacturer_id": "143661",
+    "company": "Microdrive",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258059",
+    "name": "Google Nexus 7",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258060",
+    "name": "Apple iPad 8th Gen 10.2 (2020)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "17",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258061",
+    "name": "Ima",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "71",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258062",
+    "name": "iMac",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "72",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258063",
+    "name": "Samsung Galaxy Tab A 10.5 (SM-T590)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "49",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258064",
+    "name": "Samsung Galaxy A52",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "32",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258065",
+    "name": "MSI Gaming Laptop",
+    "manufacturer_id": "143662",
+    "company": "MSI",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258066",
+    "name": "Huawei Y8 / Y7 Prime / Y7 Pro 2019",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "42",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258067",
+    "name": "Samsung Galaxy A51",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "31",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258068",
+    "name": "Apple iPhone 12",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "40",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258069",
+    "name": "Apple iPhone 12 Mini",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "41",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258070",
+    "name": "HP Probook 450 G6",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "42",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258071",
+    "name": "Apple iPhone 12 Pro Max",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "43",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258072",
+    "name": "HP All in One Computer",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258073",
+    "name": "Nokia 7 Plus",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258074",
+    "name": "HP Computer",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258075",
+    "name": "Sony Laptop",
+    "manufacturer_id": "143648",
+    "company": "Sony",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258076",
+    "name": "Huawei Phone P40",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "31",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258077",
+    "name": "Huawei Phone P40 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "32",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258078",
+    "name": "Huawei Phone Y6P",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "39",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258079",
+    "name": "Huawei Phone Y5P",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "38",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258080",
+    "name": "Huawei Phone Mate 30 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "14",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258081",
+    "name": "Huawei Phone Y6s",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "40",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258082",
+    "name": "Huawei Phone Y5 2019",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "37",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258083",
+    "name": "Samsung Galaxy S21",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "45",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258084",
+    "name": "Samsung Galaxy S21 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "47",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258085",
+    "name": "Samsung Galaxy S21 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "46",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258086",
+    "name": "Samsung Galaxy A72",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "34",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258087",
+    "name": "Samsung Galaxy A12",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "23",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258088",
+    "name": "Samsung Galaxy A02S",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "20",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258089",
+    "name": "Samsung Galaxy A71 4G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "33",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258090",
+    "name": "Samsung Galaxy A01",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "18",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258091",
+    "name": "Samsung Galaxy A90",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "36",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258092",
+    "name": "Samsung Galaxy A80",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "35",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258093",
+    "name": "Samsung Galaxy A32 4G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "29",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258094",
+    "name": "Microsoft Surface Pro 3",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258095",
+    "name": "Everis",
+    "manufacturer_id": "143665",
+    "company": "Everis Laptop",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258096",
+    "name": "Samsung Tablet SM-T290",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "129",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258097",
+    "name": "Oppo Phone A9 2020",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "5",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258098",
+    "name": "Samsung Tablet SM-T350/355",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "130",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258099",
+    "name": "Samsung Tablet SM-T560",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "133",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258100",
+    "name": "Apple iPad Pro 12.9 3rd (2018)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "32",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258101",
+    "name": "Lenovo",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258102",
+    "name": "Dell Chromebook",
+    "manufacturer_id": "143659",
+    "company": "Dell",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258103",
+    "name": "Samsung  Chromebook",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "2",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258104",
+    "name": "Nokia 8.1",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258105",
+    "name": "Dell CPU ",
+    "manufacturer_id": "143659",
+    "company": "Dell",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258106",
+    "name": "Samsung Note20 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "81",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258107",
+    "name": "Oneplus 5",
+    "manufacturer_id": "143641",
+    "company": "Oneplus",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258108",
+    "name": "Apple iPhone 13",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "44",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258109",
+    "name": "Apple iPhone 13 Pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "46",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258110",
+    "name": "Apple iPhone 13 Mini",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "45",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258111",
+    "name": "Apple iPhone 13 Pro Max",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "47",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258112",
+    "name": "Apple iPad Air 4th Genetation (2020)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "22",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258113",
+    "name": "Samsung Galaxy J8",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "37",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258114",
+    "name": "Oppo Phone A9 2019",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258115",
+    "name": "Oppo Phone A91 ",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "6",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258116",
+    "name": "Apple iPhoen 7 Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "36",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258117",
+    "name": "Lenovo ideapad gaming",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "19",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258118",
+    "name": "Samsung Galaxy A22 4G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "25",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258119",
+    "name": "Samsung Galaxy A02",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "19",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258120",
+    "name": "to be Change",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "28",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258121",
+    "name": "Samsung Galaxy A11",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "22",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258122",
+    "name": "Samsung Galaxy A30",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "27",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258123",
+    "name": "Samsung Galaxy Note20",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "39",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258124",
+    "name": "Samsung Galaxy Note20 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "40",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258125",
+    "name": "Xiaomi Redmi Note 9",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258126",
+    "name": "Samsung Galaxy Xcover 4s",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "54",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258127",
+    "name": "Dell All in One Computer",
+    "manufacturer_id": "143659",
+    "company": "Dell",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258128",
+    "name": "Oppo Phone A7/AX7",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258129",
+    "name": "Samsung Galaxy A32 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "30",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258133",
+    "name": "Samsung Galaxy Tab A 9.7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "50",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258134",
+    "name": "Acer All in One Computer",
+    "manufacturer_id": "143647",
+    "company": "Acer",
+    "sort": "1",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258135",
+    "name": "Huawei Phone Mate 20",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "12",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258136",
+    "name": "Huawei Phone P30 Lite",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "29",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258137",
+    "name": "Oppo Phone R11s",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "7",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258138",
+    "name": "Samsung Galaxy A03s",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "21",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258139",
+    "name": "HP CPU",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "4",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258140",
+    "name": "Apple iPad 10.2 (2021)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "15",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258141",
+    "name": "Xiaomi Redmi 9T",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "3",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258142",
+    "name": "Samsung Galaxy A22 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "26",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258143",
+    "name": "Samsung Galaxy A21",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "24",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258144",
+    "name": "Samsung Galaxy Tab S 10.5 (SM-T800)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "52",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258145",
+    "name": "Samsung Galaxy Tab S7 (SM-T870)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258146",
+    "name": "Microsoft Surface 3 1867",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258147",
+    "name": "Samsung Phone A03/A12 Nacho ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258148",
+    "name": "Google Pixel 3",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258149",
+    "name": "Surface Pro 5/Surface Pro 2017 Model : 1796",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258150",
+    "name": "Samsung Galaxy Tab A8 10.5 (2021) SM-X200/SM-X205",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258151",
+    "name": "Apple MacBook Pro 13-Inch 2020 A2338",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258152",
+    "name": "Asus Computer",
+    "manufacturer_id": "143638",
+    "company": "Asus",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258153",
+    "name": "Apple iPhone SE (2022)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258154",
+    "name": "Google Pixel 4 XL",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258155",
+    "name": "Samsung Galaxy A50",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258156",
+    "name": "Samsung Galaxy A72 4G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258157",
+    "name": "Samsung Galaxy A20",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258158",
+    "name": "Samsung Galaxy A21s",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258159",
+    "name": "Nokia 8 (TA-1004)",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258160",
+    "name": "Apple Mac Mini",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258161",
+    "name": "Samsung Galaxy M51",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258162",
+    "name": "Samsung Galaxy S22 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258163",
+    "name": "Samsung Galaxy Note10",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258164",
+    "name": "Samsung Galaxy Note10 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258165",
+    "name": "Samsung Galaxy S22",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258166",
+    "name": "Samsung Galaxy S22 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258167",
+    "name": "Vodafone Smart V11",
+    "manufacturer_id": "143656",
+    "company": "Vodafone",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258168",
+    "name": "Samsung Galaxy Tab 4 8.0 (SM-T330)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258169",
+    "name": "Samsung Galaxy Tab A 10.1 (2016) SM-T580 SM-T585",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258170",
+    "name": "Samsung Galaxy Tab A 8.0 (2017) SM-T385",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258171",
+    "name": "Oppo Phone A54 5G",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258172",
+    "name": "Oppo Phone A52",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258173",
+    "name": "Samsung Galaxy A53",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258174",
+    "name": "Phone Find X5 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258175",
+    "name": "Apple iPhone 14 (Don't use)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258176",
+    "name": "Apple iPhone 14 Plus (Don't use)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258177",
+    "name": "Apple iPhone 14 Pro (Don't use)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258178",
+    "name": "Apple iPhone 14 Pro Max",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258179",
+    "name": "Samsung Galaxy Tab A 10.1 (2019) SM-T515",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258180",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258181",
+    "name": "Samsung Galaxy Xcover 5",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258182",
+    "name": "FUJITSU Laptop",
+    "manufacturer_id": "143666",
+    "company": "FUJITSU",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258183",
+    "name": "Samsung Galaxy A73",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258184",
+    "name": "Samsung Galaxy A33 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258185",
+    "name": "Samsung Galaxy A23",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258186",
+    "name": "Samsung Galaxy A23 5G ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258187",
+    "name": "Samsung Galaxy A13 (SM-A137) (July,2022)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258188",
+    "name": "Samsung Galaxy A13 (March,2022)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258189",
+    "name": "Samsung Galaxy A13 5G (December,2021)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258190",
+    "name": "MSI Computer",
+    "manufacturer_id": "143662",
+    "company": "MSI",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258191",
+    "name": "Samsung Galaxy Tab A 10.1 (2019)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258192",
+    "name": "Samsung Galaxy Xcover Pro",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258193",
+    "name": "Google Pixel 1",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258194",
+    "name": "Samsung Galaxy Tab A7 10.4 (2020) SM-T500 , T505",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258195",
+    "name": "Samsung Galaxy Tab S6 Lite SM-P610, SM-P615",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258196",
+    "name": "Samsung Galaxy A7 (2017)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258197",
+    "name": "Samsung Galaxy A71 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258198",
+    "name": "Samsung Galaxy A04",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258199",
+    "name": "Samsung Galaxy A52s",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258200",
+    "name": "Samsung Galaxy S21 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258201",
+    "name": "Samsung Galaxy A52 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258202",
+    "name": "Xiaomi 11 5G",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258203",
+    "name": "Oppo A94 5G",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258204",
+    "name": "Samsung Galaxy A53s",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258205",
+    "name": "Macbook Air 13\" A1932",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258206",
+    "name": "Macbook Air 13\" A2179",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258207",
+    "name": "Apple Macbook Air A1466",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258208",
+    "name": "Garmin",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258209",
+    "name": "OPPO Find X3 Lite",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258210",
+    "name": "Redmi K30 pro",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258211",
+    "name": "Apple MacBook Air 13\" A2337 Year 2020",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258212",
+    "name": "Samsung Galaxy A31",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258213",
+    "name": "Ipad pro 11\" A1980",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258214",
+    "name": "GAmers pc ",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258215",
+    "name": "Ipad pro A1980",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258216",
+    "name": "Samsung Galaxy J5 Pro 2017 SM-J530",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258217",
+    "name": "Dell Laptop ",
+    "manufacturer_id": "143659",
+    "company": "Dell",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258218",
+    "name": "Apple Iphone 13 Pro Max Back Glass",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258219",
+    "name": "Apple 13 Pro max  Back Glass ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258220",
+    "name": "Apple iPad A1893 LCD ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258221",
+    "name": "Samsung Galaxy A14 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258222",
+    "name": "Xiaomi Redmi 11 5G",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258223",
+    "name": "Microsoft Surface Go 3",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258224",
+    "name": "Samsung Galaxy S10 plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258225",
+    "name": "Oppo  A53 LCD Replacement",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258226",
+    "name": "Samsung Galaxy A31 Chargerport ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258227",
+    "name": "Samsung Galaxy A31",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258228",
+    "name": "Samsung Galaxy A33",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258229",
+    "name": "Apple ipad 10.5",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258230",
+    "name": "Apple ipad 9th  Screen ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258231",
+    "name": "Oppo A77 5G ",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258232",
+    "name": "Apple MAcbook A1493 ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258233",
+    "name": "Samsung Galaxy A70",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258234",
+    "name": "Apple ipad 9th Gen A2602 A2603 A2604 A2605",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258235",
+    "name": "Samsung Galaxy M32",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258236",
+    "name": "Apple iPad Air 5th (A2588)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258237",
+    "name": "Samsung Tablet T385",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258238",
+    "name": "Samsung Tablet A7 lite ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258239",
+    "name": "Apple Ipad Mini 5",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258240",
+    "name": "Google pixel 5A",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258241",
+    "name": "Samsung Galaxy A34 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258242",
+    "name": "iphone SE",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258243",
+    "name": "Apple ipad A1701 ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258244",
+    "name": "Tablet A7 ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258245",
+    "name": "Samsung Tablet A7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258246",
+    "name": "Apple Macbook Pro A2251",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258247",
+    "name": "Harddrive",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258248",
+    "name": "Surface laptop 4 :1979",
+    "manufacturer_id": "143668",
+    "company": "Microsoft Surface laptop 4 ",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258249",
+    "name": "Computer",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258250",
+    "name": "Lenovo IdeaPad",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258251",
+    "name": "Samsung galaxy S23 Ultra (Don't Use)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258252",
+    "name": "Samsung Galaxy s10 ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258253",
+    "name": "vivo S16 Screen ",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258254",
+    "name": "iphone 11 Flash light Flex ",
+    "manufacturer_id": "143658",
+    "company": "iPhone",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258255",
+    "name": "iphone 13 pro Wireless charging Pad ",
+    "manufacturer_id": "143658",
+    "company": "iPhone",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258256",
+    "name": "Envy 360 Converible laptop ",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258257",
+    "name": "Laptop Screen ",
+    "manufacturer_id": "143669",
+    "company": "Hp Envy 360 Convertible ",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258258",
+    "name": "apple ipad 12.9 lcd screen ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258259",
+    "name": "Google pixel 4A 4g",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258260",
+    "name": "Google pixel 4A 5G",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258261",
+    "name": "Samsung Galaxy S7 ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258262",
+    "name": "Apple iPhone 15",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258263",
+    "name": "Apple iPhone 15 Pro ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258264",
+    "name": "Apple iPhone 15 Pro Max ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258265",
+    "name": "Apple iPhone 15 Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258266",
+    "name": "MacBook Air (M2, 2022) A2681",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258267",
+    "name": "Vivo S16",
+    "manufacturer_id": "143670",
+    "company": "Vivo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258268",
+    "name": "Apple iPad Pro 12.9 5th (2021) A2378",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258269",
+    "name": "Samsung Galaxy S21",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258270",
+    "name": "Apple IPhone 12 Mini",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258271",
+    "name": "OPPO Reno 7 5G",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258272",
+    "name": "Samsung Galaxy A53 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258273",
+    "name": "One Plus 6",
+    "manufacturer_id": "143641",
+    "company": "Oneplus",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258274",
+    "name": "A2338",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258275",
+    "name": "Microsoft Surface Laptop 7",
+    "manufacturer_id": "143668",
+    "company": "Microsoft Surface laptop 4 ",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258276",
+    "name": "Samsung Galaxy S21 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258277",
+    "name": "Samsung Galaxy M51",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258278",
+    "name": "Samsung Galaxy S21 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258279",
+    "name": "SM-T510",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258280",
+    "name": "A53",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258281",
+    "name": "V50",
+    "manufacturer_id": "143651",
+    "company": "LG ",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258282",
+    "name": "Samsung Galaxy A22 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258283",
+    "name": "Lenovo",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258284",
+    "name": "Samsung Galaxy S21 FE",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258285",
+    "name": "Samsung Galaxy S22 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258286",
+    "name": "A91 5G",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258287",
+    "name": "Samsung S20",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258288",
+    "name": "Apple IPhone 12 Pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258289",
+    "name": "Samsung Galaxy Note 8",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258290",
+    "name": "GR3MK",
+    "manufacturer_id": "143651",
+    "company": "LG ",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258291",
+    "name": "Samsung Galaxy S22 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258292",
+    "name": "Samsung Galaxy A73-5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258293",
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258294",
+    "name": "Nokia I7",
+    "manufacturer_id": "143645",
+    "company": "Nokia",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258295",
+    "name": "Samsung Galaxy A24",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258296",
+    "name": "Samsung Galaxy A12",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258297",
+    "name": "Apple IPhone 13 Pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258298",
+    "name": "Apple IPad Mini 6",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258299",
+    "name": "Apple iPhone 14 Plus",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258300",
+    "name": "Apple iPhone 14 Pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258301",
+    "name": "Samsung Galaxy A03",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258302",
+    "name": "xiaomi 12T",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258303",
+    "name": "Samsung Galaxy S23 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258304",
+    "name": "Samsung Xcover 7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258305",
+    "name": "Apple iPhone 14",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258306",
+    "name": "Samsung Galaxy S22",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258307",
+    "name": "Find X65 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258308",
+    "name": "Oppo Find X5 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258309",
+    "name": "A54 5G",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258310",
+    "name": "Samsung Galaxy A51 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258311",
+    "name": "Empty",
+    "manufacturer_id": "143642",
+    "company": "del4",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258312",
+    "name": "Samsung Galaxy S23",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258313",
+    "name": "A1932",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258314",
+    "name": "Samsung Galaxy A13",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258315",
+    "name": "Apple iPhone 14 Pro Max (Don't use)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258316",
+    "name": "Apple IPhone 13 Mini ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258317",
+    "name": "Apple iPad Pro 11\" 3rd (2021) A2459 A2377",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258318",
+    "name": "S9 Tablet",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258319",
+    "name": "iPhone 14 black back glass with parts",
+    "manufacturer_id": "143658",
+    "company": "iPhone",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258320",
+    "name": "Samsung Galaxy A54 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258321",
+    "name": "Samsung Galaxy A53 ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258322",
+    "name": "Macbook pro 13inch A2159",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258323",
+    "name": "Samsung Note 9",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258324",
+    "name": "P.C.B motherboard",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258325",
+    "name": "iwacth 6",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258326",
+    "name": "10 pro ",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258327",
+    "name": "phone ",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258328",
+    "name": "Samsung Galaxy A05",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258329",
+    "name": "IMAC A1419 -2015 -27INCH ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258330",
+    "name": "x3lite ",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258331",
+    "name": "a-1876",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258332",
+    "name": "MACBOOK A2338 ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258333",
+    "name": "APPLE MACBOOK PRO A1990 -2018",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258334",
+    "name": "Samsung Galaxy S24",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258335",
+    "name": "Samsung Galaxy S24 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258336",
+    "name": "Samsung Galaxy S24 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258337",
+    "name": "Samsung S22 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258338",
+    "name": "iPhone 13/14",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258339",
+    "name": "iPhone 13 / 14",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258340",
+    "name": "laptop 3",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258341",
+    "name": "Samsung NT930QCT",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258342",
+    "name": "camera ",
+    "manufacturer_id": "143648",
+    "company": "Sony",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258343",
+    "name": "poco f2 pro ",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258344",
+    "name": "IPhone 16",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258345",
+    "name": "Apple iPhone 16 Pro ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258346",
+    "name": "Apple iPhone 16 Pro Max ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258347",
+    "name": "IPhone 16 plus ",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258348",
+    "name": "SM-T720",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258351",
+    "name": "A54s",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258354",
+    "name": "Hardrive ",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258357",
+    "name": "Microsoft Surface 3 1950",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258360",
+    "name": "Microsoft Surface Laptop 4 1951 Laptop 13.5",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258361",
+    "name": "MacBook Pro 14\" A2442 2021",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258362",
+    "name": "Samsung Galaxy A15 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258363",
+    "name": "Samsung A320",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258364",
+    "name": "Kandle",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258365",
+    "name": "Kindle",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258366",
+    "name": "Samsung Galaxy A06 4G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258367",
+    "name": "Samsung P610",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258368",
+    "name": "OPPO Find X5 Lite",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258369",
+    "name": "Apple iPad Pro 11\" 2nd A2228",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258370",
+    "name": "Go 2 1926",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258371",
+    "name": "Microsoft Surface Go 2 (1926, 1927)",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258372",
+    "name": "Oppo A18",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258373",
+    "name": "Microsoft surface Go 1",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258374",
+    "name": "Microsoft Surface Go 4 2067",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258375",
+    "name": "Oppo Find X8 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258376",
+    "name": "Samsung Galaxy A16 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258377",
+    "name": "Apple iPad Pro 12.9 6th (2022) A2436",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258378",
+    "name": "Google Pixel 6",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258379",
+    "name": "Apple iPad 10.9 10th Gen 2022 (A2757, A2777, A2696)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258380",
+    "name": "Samsung Galaxy Tab A9+ (SM-X210N)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258381",
+    "name": "MacBook Air 13' 2011 A1369",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258382",
+    "name": "Apple iPad Pro 12.9“ 4th Gen A2229",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258383",
+    "name": "Microsoft Surface Pro 7",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258384",
+    "name": "Oppo Find X6 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258385",
+    "name": "MSI Laptop",
+    "manufacturer_id": "143662",
+    "company": "MSI",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258386",
+    "name": "Oppo A98 5G",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258387",
+    "name": "The Warehouse Tablet E0108",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258388",
+    "name": "Lenovo P11 (1st Gen)",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258389",
+    "name": "Microsoft Surface Book (1st Gen)",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258390",
+    "name": "OPPO A52",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258391",
+    "name": "Custom PC ",
+    "manufacturer_id": "143672",
+    "company": "OEM",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258392",
+    "name": "Samsung Fold 3",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258393",
+    "name": "Microsoft Surface Pro 5th Gen",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258394",
+    "name": "Apple iPad Pro 11\" 4th A2759",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258395",
+    "name": "MacBook Pro 15\" 2017 A1701",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258396",
+    "name": "Apple iPhone 17",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258397",
+    "name": "Apple iPhone 17 Pro",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258398",
+    "name": "Apple iPhone 17 Pro Max",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258399",
+    "name": "Apple iPhone 17 Air",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258400",
+    "name": "Samsung S23 FE",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258401",
+    "name": "Xiaomi Poco X7",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258402",
+    "name": "iPad Air 1",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258403",
+    "name": "Samsung Galaxy S25 Ultra",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258404",
+    "name": "Microsoft Surface Laptop 4 1979 Laptop 15\"",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258405",
+    "name": "Apple MacBook Pro 14\" M4 (2024) A3112",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258406",
+    "name": "MI Laptop",
+    "manufacturer_id": "143679",
+    "company": "MI",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258407",
+    "name": "Macbook Pro 16 inch A2141 2019 & 2020",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258408",
+    "name": "Google Pixel 8",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258409",
+    "name": "Samsung Tablet SM-T220",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258410",
+    "name": "a35",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258411",
+    "name": "Samsung A35",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258412",
+    "name": "A5",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258413",
+    "name": "Samsung Galaxy A05S",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258414",
+    "name": "Apple iPhone 16e",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258415",
+    "name": "Apple MacBook Pro M1 16\" 2021 (A2485)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258416",
+    "name": "Samsung Galaxy Tab A9 (SM-X110N)",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258417",
+    "name": "MacBook Air Retina 13\" A2179 (2020)",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258418",
+    "name": "Microsoft 1868",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258419",
+    "name": "Microsoft Surface Laptop Studio",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258420",
+    "name": "Samsung Galaxy S23 Plus",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258421",
+    "name": "Apple iPad Pro 11‘’ (2024) 5th Gen A2836",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258422",
+    "name": "Samsung Galaxy Tab S6 Lite",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258423",
+    "name": "Samsung Galaxy A25 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258424",
+    "name": "Xiaomi Poco X3 NFC",
+    "manufacturer_id": "143643",
+    "company": "Xiaomi",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258425",
+    "name": "Samsung Chromebook",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258426",
+    "name": "Apple MacBook Pro 14' M3 (2023) A2918",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258427",
+    "name": "Huawei Phone Mate 60 Pro",
+    "manufacturer_id": "143637",
+    "company": "Huawei",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258428",
+    "name": "OPPO Reno 10 Pro",
+    "manufacturer_id": "143653",
+    "company": "Oppo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258429",
+    "name": "Microsoft Surface Laptop Go 2 (2013)",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258430",
+    "name": "Lenovo M10 FHD REL (TB-X605FC, TB-X605LC)",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258431",
+    "name": "Apple iPad Pro 12.9 2rd Gen A1670",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258432",
+    "name": "Macbook Mini A1347",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258433",
+    "name": "Macbook Air 13-inch A3113 2024",
+    "manufacturer_id": "114510",
+    "company": "Apple",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258434",
+    "name": "Samsung Cover 7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258435",
+    "name": "a32",
+    "manufacturer_id": "114517",
+    "company": "Other",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258436",
+    "name": "Asus Zenbook Flip",
+    "manufacturer_id": "143638",
+    "company": "Asus",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258437",
+    "name": "Lenovo Chromebook 11.6",
+    "manufacturer_id": "143654",
+    "company": "Lenovo",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258438",
+    "name": "HP Touchscreen Laptop",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258439",
+    "name": "Google Pixel 7",
+    "manufacturer_id": "143650",
+    "company": "Google",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258440",
+    "name": "HP Zbook",
+    "manufacturer_id": "143639",
+    "company": "HP",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258441",
+    "name": "Microsoft Surface Pro 7+",
+    "manufacturer_id": "143664",
+    "company": "Microsoft Surface",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258442",
+    "name": "Samsung Galaxy Z Fold2",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258443",
+    "name": "__probe_should_409_or_fail__",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258444",
+    "name": "Samsung Galaxy S25",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258445",
+    "name": "Samsung Galaxy S25+",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258446",
+    "name": "Samsung Galaxy S25 Edge",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258447",
+    "name": "Samsung Galaxy S25 FE",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258448",
+    "name": "Samsung Galaxy S24 FE",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258449",
+    "name": "Samsung Galaxy Z Flip5",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258450",
+    "name": "Samsung Galaxy Z Flip6",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258451",
+    "name": "Samsung Galaxy Z Flip7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258452",
+    "name": "Samsung Galaxy Z Fold5",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258453",
+    "name": "Samsung Galaxy Z Fold6",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258454",
+    "name": "Samsung Galaxy Z Fold7",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258455",
+    "name": "Samsung Galaxy Z Flip4",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258456",
+    "name": "Samsung Galaxy Z Fold4",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258457",
+    "name": "Samsung Galaxy Z Flip3",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258458",
+    "name": "Samsung Galaxy Z Flip",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258459",
+    "name": "Samsung Galaxy Z Flip 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258460",
+    "name": "Samsung Galaxy A55 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258461",
+    "name": "Samsung Galaxy A56 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258462",
+    "name": "Samsung Galaxy A36 5G",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258463",
+    "name": "Samsung Galaxy Note 10 Lite",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258464",
+    "name": "Samsung Galaxy XCover 6 Pro",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  },
+  {
+    "id": "1258465",
+    "name": "__deleted__",
+    "manufacturer_id": "114512",
+    "company": "Samsung",
+    "sort": "0",
+    "image": "",
+    "colors": []
+  }
+]

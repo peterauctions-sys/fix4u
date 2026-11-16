@@ -1,0 +1,78 @@
+{
+  "note": "RepairDesk API cannot change existing service repair category_id. Workaround: recreate under Mobile device tree and rename old Laptop services.",
+  "mobile_category_id": 16635,
+  "target_device": {
+    "id": 1258051,
+    "name": "Samsung Phone Galaxy A31",
+    "brand": "Samsung"
+  },
+  "new_mobile_services": [
+    {
+      "id": "13001239",
+      "name": "Samsung A31 Screen replacement"
+    },
+    {
+      "id": "13001240",
+      "name": "Samsung A31 Labour"
+    },
+    {
+      "id": "13001241",
+      "name": "Samsung Galaxy A31 Chargerport Replacement"
+    },
+    {
+      "id": "13001242",
+      "name": "Samsung Glaxy A31 Lcd Replacement"
+    }
+  ],
+  "old_laptop_renamed": [
+    {
+      "id": "12999752",
+      "name": "[OLD-Laptop] Samsung A31 Screen replacement"
+    },
+    {
+      "id": "12999790",
+      "name": "[OLD-Laptop] Samsung A31 Labour"
+    },
+    {
+      "id": "12999803",
+      "name": "[OLD-Laptop] Samsung Galaxy A31 Chargerport Replacement"
+    },
+    {
+      "id": "12999881",
+      "name": "[OLD-Laptop] Samsung Glaxy A31 Lcd Replacement"
+    }
+  ],
+  "already_mobile": [
+    "12998586",
+    "12999031",
+    "12999216",
+    "12999350",
+    "12999367",
+    "12999419",
+    "13000134",
+    "13000140",
+    "13000697"
+  ],
+  "manual_delete_in_ui": [
+    {
+      "id": "12999752",
+      "name": "[OLD-Laptop] Samsung A31 Screen replacement"
+    },
+    {
+      "id": "12999790",
+      "name": "[OLD-Laptop] Samsung A31 Labour"
+    },
+    {
+      "id": "12999803",
+      "name": "[OLD-Laptop] Samsung Galaxy A31 Chargerport Replacement"
+    },
+    {
+      "id": "12999881",
+      "name": "[OLD-Laptop] Samsung Glaxy A31 Lcd Replacement"
+    },
+    {
+      "id": "13001238",
+      "name": "[DELETE] __probe_a31_mobile_svc__"
+    }
+  ]
+}

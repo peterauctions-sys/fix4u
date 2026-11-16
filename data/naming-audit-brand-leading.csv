@@ -1,0 +1,392 @@
+brand,category,stock,name
+apple,battery,3.0,Apple A1405 Battery 7.6V 6700mAh
+apple,battery,6.0,Apple iPhone 12 / 12 Pro Battery
+apple,battery,-1.0,Apple iPhone 12 Mini Battery
+apple,battery,-4.0,Apple iPhone 12 Pro Battery
+apple,battery,0.0,Apple iPhone 13 Mini Battery
+apple,battery,-1.0,Apple iPhone 13 Pro Battery
+apple,battery,-2.0,Apple iPhone 13 Pro Max Battery
+apple,battery,-1.0,Apple iPhone 14 Pro Battery
+apple,battery,1.0,Apple iPhone 14 Pro Max Battery
+apple,battery,2.0,Apple iPhone 15 Battery
+apple,battery,1.0,Apple iPhone 15 Pro Battery
+apple,battery,0.0,Apple iPhone 15 Pro Max Battery
+apple,battery,2.0,Apple iPhone SE 2020 Battery
+apple,camera_glass,5.0,Apple iPhone 13 Pro/13 Pro Max Camera Lens
+apple,camera_glass,3.0,Apple iPhone 13/13 Mini Camera Lens
+apple,camera_glass,4.0,Apple iPhone 14 Pro/14 Pro Max Camera Lens
+apple,camera_glass,5.0,Apple iPhone 14 Pro/14 Pro Max Camera Lens
+apple,camera_glass,3.0,Apple iPhone 14/14 Plus Camera Lens
+apple,mac_parts,0.0,Apple MacBook Air 13” M1
+apple,mac_parts,0.0,Apple MacBook Air M1 13” 2020 8GB 256GB Space Grey A2337
+apple,mac_parts,0.0,Apple MacBook Pro 13” M2
+apple,mac_parts,0.0,"Apple MacBook Pro 16"" M1 Max"
+apple,mac_parts,122.0,"Apple MacBook Pro 16"" M1 Pro"
+apple,mac_parts,12.0,Apple MacBook Pro MD101 2.5GHZ 500GB Refurb
+apple,mac_parts,8.0,Apple MacBook Pro MD101 Core i5 2.5GHZ 4GB 1TB Refurb
+apple,mac_parts,0.0,APPLE WIFI/BLUETOOTH CARD MACBOOK PRO 2015 A1502
+apple,other,1.0,Apple iPhone 7 128GB Gold Refurb
+apple,other,1.0,Apple iPhone 7 32GB Rose Gold Refurb
+apple,other,1.0,Apple iPhone 8 256GB Red Refurb
+apple,other,1.0,Apple iPhone iPhone XR 64GB Black A Grade
+apple,power_charging,-1.0,Apple 85W MagSafe 1 Power Adapter A1343 Charger
+apple,power_charging,2.0,Apple A1718 61W USB Type-C Power Adapter
+apple,power_charging,1.0,Apple A1719 87W USB Type-C Power Adapter
+apple,power_charging,1.0,Apple ipad 6th gen chargerport flex
+apple,power_charging,7.0,Apple iPhone 12 USB-C to Lightning Cable
+apple,power_charging,0.0,Apple USB PSU Type C Charger
+apple,screen_display,1.0,Apple iPad 5 Retina Display 32GB Space Grey Refurb
+apple,tablet_parts,-2.0,Apple Charge & Sync 30 Pin Cable for iPhones 3/4 and iPads 1m
+apple,tablet_parts,0.0,"Apple Ipad 10.5"" Homebutton"
+apple,tablet_parts,3.0,Apple iPad 2 16GB Wifi Black Refurb
+apple,tablet_parts,5.0,Apple iPad 2 16GB Wifi White Refurb
+apple,tablet_parts,2.0,Apple iPad 2 32GB Wifi Refurb
+apple,tablet_parts,1.0,Apple iPad 3 32GB Wifi + Cellular Black Refurb
+apple,tablet_parts,0.0,Apple iPad 4 16GB Cellular Black Refurb
+apple,tablet_parts,1.0,Apple iPad 4 16GB WIFI White Refurb
+apple,tablet_parts,1.0,Apple iPad 4 32GB Wifi + Cellular Space Grey Refurb
+apple,tablet_parts,0.0,Apple iPad 4 64gb wifi + cellular White Refurb
+apple,tablet_parts,0.0,Apple iPad 4 64gb wifi + cellular White Refurb
+apple,tablet_parts,1.0,Apple iPad A1893
+apple,tablet_parts,5.0,Apple iPad Air 16GB Wifi - Refurb
+apple,tablet_parts,2.0,Apple iPad Air 2 16GB Wifi Space Grey Refurb
+apple,tablet_parts,-1.0,Apple iPad Air 32GB Silver & White - Refurb (SN : DLXN794HFK11)
+apple,tablet_parts,0.0,Apple iPad Air 64GB Cellular Silver Refurb
+apple,tablet_parts,0.0,"Apple iPad Pro 10.5"" 512GB Wifi White & Silver Refurb"
+apple,tablet_parts,1.0,"Apple iPad Pro 10.5"" 64GB Wifi Gold & White Refurb"
+apple,tablet_parts,1.0,"Apple iPad Pro 9.7"" 32GB Wifi Space Grey Refurb"
+apple,used_device,3.0,Apple iPhone 7 Plus 128GB Black - Preowned
+apple,used_device,1.0,Apple iPhone 7 Plus 32GB Silver - Preowned
+apple,used_device,5.0,Apple iPod Touch 4 32GB Black - Used
+asus,battery,0.0,Asus X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mAh 4-Cell A41-X550 Battery
+asus,battery,0.0,Asus X452EP X550 X550A X550C X550CA X550CC X550CL 14.4V 2950mAh 4-Cell A41-X550 Battery
+asus,power_charging,0.0,ASUS Power Adapter 20V 7.5A 150W 6.0*3.7mm ADP-150CH B A18-150P1A for ASUS FX95G
+asus,power_charging,0.0,ASUS Power Charger For Asus 45W 19V 2.37A - 4.0x1.35mm Connector
+asus,screen_display,0.0,Asus  UX303U 1920*1080 Resolution Touch Screen Assembly
+asus,screen_display,0.0,Asus E410MA-EK376T 14 screen NT140FHMN44 V8.1
+google,battery,0.0,Google Pixel 1st Gen S1 B2PW4100 Battery
+google,battery,0.0,Google Pixel 3 Battery
+google,other,1.0,Google Home Mini Smart Speaker Charcoal Refurb
+google,other,1.0,Google Home Mini Smart Speaker Charcoal Refurb
+google,screen_display,0.0,Google Pixel 4A 5GLCD
+google,screen_display,0.0,Google Pixel 4A LCD
+google,screen_display,-1.0,Google Pixel 5A Lcd Screen
+huawei,back_glass,0.0,Huawei Mate 10 Pro Back Glass
+huawei,back_glass,-1.0,Huawei Nova 3i Back Glass Replacement
+huawei,back_glass,0.0,Huawei Nova 5T Back Glass
+huawei,back_glass,1.0,Huawei Phone P30 Back Glass
+huawei,back_glass,0.0,Huawei Phone P30 Lite Back Glass
+huawei,back_glass,1.0,Huawei Phone P30 Pro Back Glass
+huawei,battery,0.0,Huawei Mate 10 Battery
+huawei,battery,-1.0,Huawei Mate 10 Pro Battery
+huawei,battery,1.0,Huawei Mate 9 Battery
+huawei,battery,0.0,Huawei Mate10 Pro P20 Pro battery 3900 mAh HB436486ECW
+huawei,battery,1.0,Huawei Nexus 6 plus Battery
+huawei,battery,-2.0,Huawei Nova 2i Battery
+huawei,battery,0.0,Huawei Nova 3i Battery
+huawei,battery,0.0,Huawei P10 Battery
+huawei,battery,1.0,Huawei P30 Pro / Mate 20 Pro Battery
+huawei,battery,0.0,Huawei Phone P9 / Honor 8 / P9 Lite / P10 / P20 Lite Battery
+huawei,camera_glass,5.0,Huawei Nexus 6 plus Camera Lens
+huawei,other,6.0,Huawei Nova 2i Power button
+huawei,power_charging,4.0,Huawei Mate 10 Charging Port
+huawei,power_charging,-1.0,Huawei Mate 10 Pro Charging Port
+huawei,power_charging,5.0,Huawei Mate 9 Charging Port
+huawei,power_charging,5.0,Huawei Nova 2i Charging Port
+huawei,power_charging,3.0,Huawei Nova 3i Charging Port
+huawei,power_charging,3.0,Huawei Nova 5T Charging Port
+huawei,power_charging,2.0,Huawei Phone P20 Charging Port
+huawei,power_charging,0.0,Huawei Phone P30 Pro Charging Port
+huawei,power_charging,-23.0,"HUawei Type-C Cable, Fast Charging, Data Transfer"
+huawei,screen_display,2.0,Huawei Mate 10 Pro Screen
+huawei,screen_display,0.0,Huawei Mate 10 Screen
+huawei,screen_display,0.0,Huawei Mate 20 Pro Screen
+huawei,screen_display,2.0,Huawei Mate 8 Screen
+huawei,screen_display,1.0,Huawei Mate 9 Screen [WITH Frame]
+huawei,screen_display,5.0,Huawei Mate 9 Screen [WITHOUT Frame]
+huawei,screen_display,3.0,Huawei Nova 2i Screen
+huawei,screen_display,1.0,Huawei Nova 2i Screen Replacement
+huawei,screen_display,3.0,Huawei Nova 3i Screen
+huawei,screen_display,-1.0,Huawei Nova 3i Screen Replacement
+huawei,screen_display,0.0,Huawei Nova 5T Screen Replacement
+huawei,screen_display,3.0,Huawei Nova 5T Screen Replacement
+huawei,screen_display,-1.0,Huawei Nova 5T Screen with Frame
+huawei,screen_display,3.0,Huawei P10 Lite Screen
+huawei,screen_display,7.0,Huawei P10 Screen [WITHOUT Frame]
+huawei,screen_display,4.0,Huawei P20 Lite / Nova 3E Screen
+huawei,screen_display,0.0,Huawei P20 Lite / Nova 3E Screen Replacement
+huawei,screen_display,0.0,Huawei P20 Pro Screen
+huawei,screen_display,4.0,Huawei P20 Screen
+huawei,screen_display,0.0,Huawei P30 OLED Screen
+huawei,screen_display,3.0,Huawei P8 Lite Screen
+huawei,screen_display,3.0,Huawei P8 Screen
+huawei,screen_display,0.0,Huawei P9 Lite Screen [WITH Frame]
+huawei,screen_display,0.0,Huawei P9 Lite Screen [WITHOUT Frame]
+huawei,screen_display,1.0,Huawei P9 Plus Screen
+huawei,screen_display,2.0,Huawei P9 Screen [WITH Frame]
+huawei,screen_display,9.0,Huawei P9 Screen [WITHOUT Frame]
+huawei,screen_display,0.0,Huawei Phone Huawei P30 lite/Nova 4E Screen
+huawei,screen_display,0.0,Huawei Phone Mate 20 Screen
+huawei,screen_display,0.0,Huawei Phone P10 Plus Screen Black
+huawei,screen_display,1.0,Huawei Phone P20 Screen Replacement
+huawei,screen_display,0.0,Huawei Phone P30 Pro Screen
+huawei,screen_display,0.0,Huawei Phone P30 Screen
+huawei,screen_display,1.0,Huawei Y8 / Y7 Prime / Y7 Pro 2019 Screen
+huawei,screen_display,3.0,Huawei Y9 2019 Screen
+huawei,screen_display,2.0,Huawei Y9 Prime 2019 Screen
+lenovo,battery,0.0,Lenovo Battery for Lenovo ThinkPad X230 X230i X220 X220i 45N1023 45N1026
+lenovo,battery,-2.0,Lenovo ThinkPad Battery B052R785-9005A
+lenovo,other,1.0,"Lenovo N22 Dual Core 16GB 11.6"" Chromebook Black Refurb"
+lenovo,other,1.0,"Lenovo Thinkpad 11.6"" N2920 4GB 128GB Win10 Black Refurb"
+lenovo,other,3.0,Lenovo Thinkpad 11e 4GB 16GB Chromebook Black Refurb
+lenovo,other,1.0,Lenovo ThinkPad T430S Win10 1TB 8GB
+lenovo,other,1.0,Lenovo Thinkpad X131e 2GB 16GB Chromebook Black Refurb
+lenovo,other,29.0,Lenovo Thinkpad X131e 4GB 16GB Chromebook Black Refurb
+lenovo,other,1.0,Lenovo Thinkpad X131e AMD 4GB 320GB Webcam Win7 Black Refurb
+lenovo,power_charging,-2.0,Lenovo 20V 2.25A (4.0 x 1.7) Power Adapter
+lenovo,power_charging,-1.0,Lenovo 65W TypeC power adapter
+lenovo,power_charging,0.0,Lenovo Adapter for Lenovo Yoga 3 Pro 1170 1370 1470 11-5Y10 ADL40WDA ADL40W 20v 2a orange tip
+lenovo,power_charging,-1.0,Lenovo laptop Adapter
+lenovo,power_charging,-1.0,Lenovo Yoga 720 20V 2.25A 45W Type-C Power Adapter
+lenovo,screen_display,0.0,Lenovo Ideapad Flex 3 LCD Touch Glass Screen  N116BCA-EA1
+lenovo,screen_display,0.0,Lenovo Ideapad Flex 5  15ALC05 LCD BAck Cover
+lenovo,screen_display,0.0,Lenovo Ideapad Flex 5  15ALC05 LCD Touch Screen Assembly
+lenovo,tablet_parts,0.0,Lenovo Tab 10 X103F 16GB Android Tablet Wifi
+lg,camera_glass,0.0,LG G6 Camera Lens
+lg,screen_display,0.0,LG G6 Screen
+lg,screen_display,0.0,LG Nexus 5 Screen Assembly Black
+motorola,power_charging,-1.0,Motorola Moto G8 Charging Port
+motorola,screen_display,0.0,Motorola Moto G2 Screen Black with Frame - xt1063 xt1064 xt1068
+nokia,power_charging,0.0,Nokia 6 Charging Port
+nokia,power_charging,0.0,Nokia 7 Plus Charging Port
+nokia,screen_display,0.0,Nokia 3 Screen
+nokia,screen_display,0.0,Nokia 8.1 Screen
+nokia,screen_display,0.0,nokia n8 lcd
+nokia,screen_display,0.0,Nokia N95 8G LCD screen + Free Tools
+nokia,screen_display,0.0,Nokia N95 LCD screen + Free Tools 100% Grade A+
+nokia,screen_display,0.0,Nokia X6 Touch screen digitizer 100% Grade A+
+oneplus,battery,0.0,Oneplus 5 Battery
+oneplus,screen_display,0.0,Oneplus 5 Screen
+oneplus,screen_display,0.0,OnePlus 6 LCD Screen
+oneplus,screen_display,0.0,Oneplus 6T OLED Screen - Finger sensor OK
+oppo,battery,0.0,Oppo Phone A5/A9 2020 Battery
+oppo,power_charging,1.0,Oppo Find X3 lite  Charging Port
+oppo,power_charging,0.0,Oppo Phone A54 5G Charging Port
+oppo,screen_display,0.0,Oppo A53 LCd Screen
+oppo,screen_display,1.0,OPPO A54S Screen
+oppo,screen_display,1.0,Oppo A77 5G  Screen with Frame
+oppo,screen_display,-1.0,Oppo Find X3 Lite screen
+oppo,screen_display,0.0,Oppo Find X5 Pro 5G LCD Screen
+oppo,screen_display,0.0,Oppo Phone A52 Screen
+oppo,screen_display,0.0,Oppo Phone A7/AX7 Screen
+oppo,screen_display,0.0,Oppo Phone A9 2019 Screen
+oppo,screen_display,0.0,Oppo Phone A9 2020 / A11X SCreen
+oppo,screen_display,0.0,Oppo Phone A91 Screen
+oppo,screen_display,0.0,Oppo Phone A94 5G Screen
+oppo,screen_display,1.0,Oppo Phone R11s Screen
+oppo,screen_display,0.0,Oppo R15 Pro Screen
+samsung,audio,5.0,Samsung Genuine Headset Earphone with Microphone Black or White
+samsung,battery,0.0,Samsung Galaxy A10 Back Battery Cover
+samsung,battery,1.0,Samsung Galaxy A10 Battery
+samsung,battery,-1.0,Samsung Galaxy A11 Battery
+samsung,battery,1.0,Samsung Galaxy A20 Battery
+samsung,battery,1.0,Samsung Galaxy A21S Battery
+samsung,battery,1.0,Samsung Galaxy A22 5G Battery
+samsung,battery,0.0,Samsung Galaxy A3 2017 A320 Battery
+samsung,battery,2.0,Samsung Galaxy A30 Battery
+samsung,battery,1.0,Samsung Galaxy A31 Battery
+samsung,battery,1.0,Samsung Galaxy A50 Battery
+samsung,battery,1.0,Samsung Galaxy A51 Battery
+samsung,battery,2.0,Samsung Galaxy A70 Battery
+samsung,battery,0.0,Samsung Galaxy A8 Plus Battery
+samsung,battery,0.0,Samsung Galaxy Note 1 Battery
+samsung,battery,0.0,Samsung Galaxy Note 2 Battery
+samsung,battery,0.0,Samsung Galaxy Note 3 Battery
+samsung,battery,1.0,Samsung Galaxy Note 4 Battery
+samsung,battery,-1.0,Samsung Galaxy Note 5 Battery
+samsung,battery,2.0,Samsung Galaxy Note8 Battery
+samsung,battery,0.0,Samsung Galaxy Note9 Battery
+samsung,battery,0.0,Samsung Galaxy S10 Battery
+samsung,battery,1.0,Samsung Galaxy S10 Plus Battery
+samsung,battery,0.0,Samsung Galaxy S10E Battery
+samsung,battery,1.0,Samsung Galaxy S20 Plus Battery
+samsung,battery,6.0,Samsung Galaxy S3 Battery
+samsung,battery,2.0,Samsung Galaxy S4 Battery
+samsung,battery,12.0,Samsung Galaxy S5 Battery
+samsung,battery,6.0,Samsung Galaxy S6 Battery
+samsung,battery,0.0,Samsung Galaxy S6 Edge Battery
+samsung,battery,-1.0,Samsung Galaxy S6 Edge Plus Battery
+samsung,battery,1.0,Samsung Galaxy S7 Battery
+samsung,battery,1.0,Samsung Galaxy S7 Edge Battery
+samsung,battery,0.0,Samsung Galaxy S8 Battery
+samsung,battery,3.0,Samsung Galaxy S8 Plus Battery
+samsung,battery,-1.0,Samsung Galaxy S9 Battery
+samsung,battery,5.0,Samsung Galaxy S9 Plus Battery
+samsung,battery,0.0,SAMSUNG GALAXY TAB 10.5'' (SM-T800) BATTERY
+samsung,battery,0.0,Samsung Galaxy Tab A 10.1 (2016) SM-T580 SM-T585 Battery
+samsung,battery,0.0,Samsung Galaxy Tab S2 9.7 (SM-T813) Battery
+samsung,battery,0.0,"Samsung Galaxy Tab S6 Lite SM-P610, SM-P615 Battery"
+samsung,battery,0.0,Samsung J2 pro Battery
+samsung,battery,0.0,Samsung J3 Battery
+samsung,battery,0.0,Samsung Note 10 battery
+samsung,battery,2.0,Samsung Note 20 battery
+samsung,battery,0.0,Samsung S20 FE battery
+samsung,battery,0.0,Samsung Tablet SM-T350/355 Battery
+samsung,camera_glass,1.0,Samsung Galaxy A23 Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy A33 Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy A53 Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy A73 Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy Note 8 Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy Note 9 Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S10 Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S10 Plus Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S20 Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S20 FE Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S20 Plus Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S20 Ultra Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy S21 FE Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy S22 Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy S22 Plus Camera Lens
+samsung,camera_glass,1.0,Samsung Galaxy S22 Ultra Camera Lens
+samsung,camera_glass,0.0,Samsung Galaxy S5 Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy S6 Camera Lens
+samsung,camera_glass,3.0,Samsung Galaxy S6 Edge Camera Lens
+samsung,camera_glass,2.0,Samsung Galaxy S6 Edge Plus Camera Lens
+samsung,camera_glass,3.0,Samsung Galaxy S7 Camera Lens
+samsung,camera_glass,0.0,Samsung Phone S10e Camera Lens
+samsung,camera_glass,5.0,Samsung Phone S8 Plus Camera Lens
+samsung,camera_glass,3.0,Samsung S9 Camera Lens
+samsung,case_accessory,3.0,Samsung Anti-drop Transparent Phone case  For S23 Ultra / S23 Plus / S23
+samsung,case_accessory,1.0,Samsung Galaxy A32 4G Back Cover
+samsung,case_accessory,12.0,Samsung Galaxy S7 Edge Back Cover
+samsung,case_accessory,6.0,Samsung Galaxy S8 Back Cover
+samsung,case_accessory,4.0,Samsung S22 Ultra Flip Case W003  Black
+samsung,case_accessory,5.0,Samsung S22 Ultra Silicone Case Black
+samsung,case_accessory,4.0,Samsung S23 Ultra Flip Case W003 Black
+samsung,case_accessory,5.0,Samsung S23 Ultra Silicone Case Black
+samsung,case_accessory,5.0,Samsung S24 Ultra  5 Flip Case W003 Black
+samsung,case_accessory,5.0,Samsung S24 Ultra  Silicone Case Black
+samsung,other,1.0,Samsung 980 500GB M.2 NVMe Internal SSd PCIe3.0- Up to 3100 MB/s Read - up to 2600 MB/s Write - 400K/470K IOPS
+samsung,other,2.0,Samsung Galaxy A10 Earspeaker
+samsung,other,1.0,Samsung Galaxy A11 Earspeaker
+samsung,other,1.0,Samsung Galaxy A12 EarSpeaker
+samsung,other,1.0,Samsung Galaxy A12 Loudspeaker
+samsung,other,1.0,Samsung Galaxy A20 Earspeaker
+samsung,other,1.0,Samsung Galaxy A21S Earspeaker
+samsung,other,2.0,Samsung Galaxy A30 Earspeaker
+samsung,other,1.0,Samsung Galaxy A31
+samsung,other,1.0,Samsung Galaxy A31 Motherboard Flex
+samsung,other,2.0,Samsung Galaxy A50 Earspeaker
+samsung,other,3.0,Samsung Galaxy A51 Middle Frame with Power Button
+samsung,other,1.0,Samsung Galaxy Note 8 Ear Speaker
+samsung,other,5.0,Samsung Galaxy S20 FE 4G Rear Camera
+samsung,other,2.0,Samsung Galaxy S20 FE 5G Rear Camera
+samsung,other,1.0,Samsung Galaxy S20 Ultra Main Camera
+samsung,other,1.0,samsung Galaxy S21/S21+ Dual Sim Card Tray
+samsung,other,9.0,Samsung Galaxy S6 Back Housing
+samsung,other,9.0,Samsung Galaxy S6 Edge Back Housing
+samsung,other,9.0,Samsung Galaxy S7 Back Housing
+samsung,other,2.0,Samsung Galaxy S7 Edge Lens
+samsung,other,1.0,Samsung Galaxy S8 Ear Speaker
+samsung,other,2.0,Samsung Galaxy S8 Plus Earspeaker
+samsung,other,4.0,Samsung Galaxy S9 Back Housing
+samsung,other,1.0,Samsung Galaxy S9 Earspeaker
+samsung,other,1.0,Samsung Galaxy S9 Finger Print Button
+samsung,other,15.0,Samsung Galaxy S9 Plus Back Housing
+samsung,other,2.0,Samsung Galaxy S9 Plus Earspeaker
+samsung,other,35.0,"Samsung Galaxy Tab A SM-T355Y  8"" (4G) 16GB White"
+samsung,other,5.0,Samsung J5
+samsung,other,1.0,Samsung Phone A70 Ear Speaker
+samsung,other,5.0,Samsung Phone S8/S8 Plus Home Button (FingerPrint)
+samsung,other,5.0,Samsung Phone S9/S9 Plus Home Button (FingerPrint)
+samsung,other,1.0,Samsung S21 Ultra rear camera
+samsung,other,3.0,Samsung Type C Cable
+samsung,power_charging,1.0,Samsung A04 Charging Port
+samsung,power_charging,1.0,Samsung A34 charging port
+samsung,power_charging,2.0,Samsung A73 Charging Port
+samsung,power_charging,0.0,Samsung Adaptive Fast Charging Wall Mains Adapter 9V Black
+samsung,power_charging,0.0,Samsung Adaptive Fast Charging Wall Mains Adapter 9V Black
+samsung,power_charging,0.0,Samsung EVO Plus Class 10 256GB Micro SD Card w Adapter
+samsung,power_charging,8.0,Samsung EVO Plus Class 10 32GB Micro SD Card w Adapter
+samsung,power_charging,8.0,Samsung EVO Plus Class 10 32GB Micro SD Card w Adapter
+samsung,power_charging,6.0,Samsung EVO Plus Class 10 64GB Micro SD Card w Adapter
+samsung,power_charging,5.0,Samsung EVO Plus Class 10 64GB Micro SD Card w Adapter
+samsung,power_charging,2.0,Samsung Galaxy A02s Charging Port
+samsung,power_charging,1.0,Samsung Galaxy A03/A12 Nacho Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A03s Charging Port
+samsung,power_charging,5.0,Samsung Galaxy A10 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A11 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A12 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy A13 chargerport
+samsung,power_charging,2.0,Samsung Galaxy A20 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A21 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A21S Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A22 5G Charging Port
+samsung,power_charging,0.0,Samsung Galaxy A23 Charging Port
+samsung,power_charging,5.0,Samsung Galaxy A30Charging Port
+samsung,power_charging,-1.0,Samsung Galaxy A31 Charging Port
+samsung,power_charging,1.0,Samsung Galaxy A32 5G Charging Port
+samsung,power_charging,1.0,Samsung Galaxy A33 5G Charging Port
+samsung,power_charging,1.0,Samsung Galaxy A50 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy A51 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy A52 5g Chargerport
+samsung,power_charging,4.0,Samsung Galaxy A70 Charging Port
+samsung,power_charging,-1.0,Samsung Galaxy A71 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy A90 5G Charging Port
+samsung,power_charging,0.0,Samsung Galaxy M51 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy Nexus i9250 Charging Port
+samsung,power_charging,1.0,Samsung Galaxy Note 10 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy Note 10 Plus Charging Port
+samsung,power_charging,0.0,Samsung Galaxy Note 2 N7100 USB Charging Port
+samsung,power_charging,0.0,Samsung Galaxy Note 2 N7105 USB Charging Port
+samsung,power_charging,0.0,Samsung Galaxy Note 3 N900 USB Charging Port
+samsung,power_charging,1.0,Samsung Galaxy Note 5 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S2 i9100 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S2 i9100G Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S2 i9105 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy S20 Charging Port
+samsung,power_charging,1.0,Samsung Galaxy S20 Plus Charging Port
+samsung,power_charging,1.0,Samsung Galaxy S20 Ultra Charging Port
+samsung,power_charging,1.0,Samsung Galaxy S20FE Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S21 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S4 i9500 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S4 i9505 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S5 G900F Charging Port Sensor Ribbon Flex
+samsung,power_charging,0.0,Samsung Galaxy S6 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy S7 Charging Port
+samsung,power_charging,2.0,Samsung Galaxy S9 Charging Port
+samsung,power_charging,0.0,Samsung Galaxy S9 Plus Charging Port
+samsung,power_charging,6.0,Samsung Power Pack - Mains & Car Fast Charger + 2 Cables
+samsung,power_charging,10.0,Samsung Power Pack - Mains & Car Fast Charger + 2 Cables
+samsung,power_charging,0.0,Samsung S21 Plus Charging Port
+samsung,power_charging,1.0,Samsung S21 Ultra charging board
+samsung,power_charging,0.0,Samsung S22 charging board
+samsung,power_charging,1.0,Samsung S22 PLUS charging board
+samsung,power_charging,0.0,Samsung S22 Ultra charging board
+samsung,power_charging,0.0,Samsung S22 Ultra charging board
+samsung,power_charging,4.0,Samsung S22 Ultra Clear Case with Magsafe
+samsung,power_charging,2.0,Samsung S23 charging board
+samsung,power_charging,1.0,Samsung S23 PLUS charging board
+samsung,power_charging,1.0,Samsung S23 Ultra charging board
+samsung,power_charging,5.0,Samsung S23 Ultra Clear Case with Magsafe
+samsung,power_charging,5.0,Samsung S24 Ultra Clear Case with Magsafe
+samsung,power_charging,2.0,Samsung S7 Edge Charging Port
+samsung,power_charging,1.0,Samsung S8 Charging Port
+samsung,power_charging,3.0,Samsung S8 Plus Charging Port
+samsung,power_charging,1.0,Samsung Tab SM T800 CHARGING PORT
+samsung,tablet_parts,-1.0,samsung A8 Tablet
+samsung,tablet_parts,0.0,Samsung Tablet E SM-T560 Glass
+samsung,used_device,1.0,Samsung Galaxy S5 - Preowned
+sony,power_charging,6.0,Sony Power Adapter 19.5V - 4.7A
+sony,power_charging,5.0,Sony Power Adapter 5.2V - 2000MA
+sony,watch,2.0,Sony SWR30 Smartwatch and Activity Tracker Black
+vivo,screen_display,0.0,Vivo S16 LCD Screen
+xiaomi,other,2.0,Xiaomi Mi 10000mAh Power Bank silver
+xiaomi,other,7.0,Xiaomi Mi 5000mAh Power Bank Silver
+xiaomi,other,5.0,Xiaomi Mi Bluetooth Speaker (Blue)
+xiaomi,power_charging,0.0,Xiaomi Music Bluetooth Car Charger
+xiaomi,screen_display,0.0,Xiaomi Pocophone F1 Screen
+xiaomi,screen_display,0.0,Xiaomi Redmi 11 5G LCD Screen with frame
+xiaomi,screen_display,-1.0,Xiaomi Redmi 9T LCD Screen
+xiaomi,screen_display,0.0,Xiaomi Redmi Note 5 Screen
+xiaomi,screen_display,0.0,Xiaomi Redmi Note 7 Screen

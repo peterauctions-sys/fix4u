@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Samsung Galaxy S25",
+    "action": "CREATE",
+    "id": 1258444,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258444,
+        "name": "Samsung Galaxy S25",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy S25+",
+    "action": "CREATE",
+    "id": 1258445,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258445,
+        "name": "Samsung Galaxy S25+",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy S25 Edge",
+    "action": "CREATE",
+    "id": 1258446,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258446,
+        "name": "Samsung Galaxy S25 Edge",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy S25 FE",
+    "action": "CREATE",
+    "id": 1258447,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258447,
+        "name": "Samsung Galaxy S25 FE",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy S24 FE",
+    "action": "CREATE",
+    "id": 1258448,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258448,
+        "name": "Samsung Galaxy S24 FE",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip5",
+    "action": "CREATE",
+    "id": 1258449,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258449,
+        "name": "Samsung Galaxy Z Flip5",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6",
+    "action": "CREATE",
+    "id": 1258450,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258450,
+        "name": "Samsung Galaxy Z Flip6",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip7",
+    "action": "CREATE",
+    "id": 1258451,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258451,
+        "name": "Samsung Galaxy Z Flip7",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Fold5",
+    "action": "CREATE",
+    "id": 1258452,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258452,
+        "name": "Samsung Galaxy Z Fold5",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6",
+    "action": "CREATE",
+    "id": 1258453,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258453,
+        "name": "Samsung Galaxy Z Fold6",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Fold7",
+    "action": "CREATE",
+    "id": 1258454,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258454,
+        "name": "Samsung Galaxy Z Fold7",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip4",
+    "action": "CREATE",
+    "id": 1258455,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258455,
+        "name": "Samsung Galaxy Z Flip4",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Fold4",
+    "action": "CREATE",
+    "id": 1258456,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258456,
+        "name": "Samsung Galaxy Z Fold4",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip3",
+    "action": "CREATE",
+    "id": 1258457,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258457,
+        "name": "Samsung Galaxy Z Flip3",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Fold2",
+    "action": "EXISTS",
+    "id": "1258442",
+    "message": "already exists"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip",
+    "action": "CREATE",
+    "id": 1258458,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258458,
+        "name": "Samsung Galaxy Z Flip",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 5G",
+    "action": "CREATE",
+    "id": 1258459,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258459,
+        "name": "Samsung Galaxy Z Flip 5G",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "action": "CREATE",
+    "id": 1258460,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258460,
+        "name": "Samsung Galaxy A55 5G",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy A56 5G",
+    "action": "CREATE",
+    "id": 1258461,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258461,
+        "name": "Samsung Galaxy A56 5G",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy A36 5G",
+    "action": "CREATE",
+    "id": 1258462,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258462,
+        "name": "Samsung Galaxy A36 5G",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note 10 Lite",
+    "action": "CREATE",
+    "id": 1258463,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258463,
+        "name": "Samsung Galaxy Note 10 Lite",
+        "manufacturer_id": 114512
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy XCover 6 Pro",
+    "action": "CREATE",
+    "id": 1258464,
+    "message": "Device added successfully",
+    "raw": {
+      "success": true,
+      "statusCode": 200,
+      "message": "Device added successfully",
+      "data": {
+        "id": 1258464,
+        "name": "Samsung Galaxy XCover 6 Pro",
+        "manufacturer_id": 114512
+      }
+    }
+  }
+]

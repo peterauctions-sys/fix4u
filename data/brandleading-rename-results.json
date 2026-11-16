@@ -1,0 +1,770 @@
+[
+ {
+  "id": "12998107",
+  "sku": "-",
+  "old_name": "Huawei Nova 3i Back Glass Replacement",
+  "new_name": "Back Glass for Huawei Nova 3i",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000249",
+  "sku": "PHPXR0051",
+  "old_name": "APPLE iPhone XR black housing",
+  "new_name": "Back Housing for iPhone XR Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828343",
+  "sku": "PHPS0047",
+  "old_name": "Samsung Galaxy S6 Back Housing",
+  "new_name": "Back Housing for Samsung Galaxy S6",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828345",
+  "sku": "PHPS0048",
+  "old_name": "Samsung Galaxy S6 Edge Back Housing",
+  "new_name": "Back Housing for Samsung Galaxy S6 Edge",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828328",
+  "sku": "PHPS0053",
+  "old_name": "Samsung Galaxy S7 Back Housing",
+  "new_name": "Back Housing for Samsung Galaxy S7",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998140",
+  "sku": "PHPS0298",
+  "old_name": "Samsung Galaxy S9 Back Housing",
+  "new_name": "Back Housing for Samsung Galaxy S9",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998111",
+  "sku": "PHPS0295",
+  "old_name": "Samsung Galaxy S9 Plus Back Housing",
+  "new_name": "Back Housing for Samsung Galaxy S9 Plus",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998889",
+  "sku": "PHPX0051",
+  "old_name": "Apple iPhone XS Back Housing with Frame",
+  "new_name": "Back Housing with Frame for iPhone XS",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828268",
+  "sku": "Parts0002",
+  "old_name": "Apple iWatch s6-44mm Battery",
+  "new_name": "Battery for Apple Watch Series 6 44mm",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998596",
+  "sku": "PHPH0023",
+  "old_name": "Huawei Mate10 Pro P20 Pro battery 3900 mAh HB436486ECW",
+  "new_name": "Battery for Huawei Mate 10 Pro / P20 Pro 3900mAh HB436486ECW",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12997370",
+  "sku": "COA00013",
+  "old_name": "Apple A1405 Battery 7.6V 6700mAh",
+  "new_name": "Battery for MacBook Air A1405 7.6V 6700mAh",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828391",
+  "sku": "PHPS0039",
+  "old_name": "Samsung Galaxy S5 G900F Charging Port Sensor Ribbon Flex",
+  "new_name": "Charging Port & Sensor Ribbon Flex for Samsung Galaxy S5 G900F",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000273",
+  "sku": "PHPS2203",
+  "old_name": "Samsung S21 Ultra charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S21 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000274",
+  "sku": "PHPS2201",
+  "old_name": "Samsung S22 charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S22",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000275",
+  "sku": "PHPS2202",
+  "old_name": "Samsung S22 PLUS charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S22 Plus",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000266",
+  "sku": "-",
+  "old_name": "Samsung S22 Ultra charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S22 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000267",
+  "sku": "PHPS0294",
+  "old_name": "Samsung S22 Ultra charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S22 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000276",
+  "sku": "PHPS2301",
+  "old_name": "Samsung S23 charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S23",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000277",
+  "sku": "PHPS23001",
+  "old_name": "Samsung S23 PLUS charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S23 Plus",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000278",
+  "sku": "PHP23U001",
+  "old_name": "Samsung S23 Ultra charging board",
+  "new_name": "Charging Port Board for Samsung Galaxy S23 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999939",
+  "sku": "PHSA0132",
+  "old_name": "Apple ipad 6th gen chargerport flex",
+  "new_name": "Charging Port Flex for iPad 6th Gen",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999651",
+  "sku": "COA00053",
+  "old_name": "Samsung NP-RF511 5.5 x 3.0 Power Jack",
+  "new_name": "DC Power Jack for Samsung NP-RF511 5.5 x 3.0mm",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000272",
+  "sku": "PHPS22001",
+  "old_name": "Samsung S22 Ear Piece Speaker",
+  "new_name": "Ear Speaker for Samsung Galaxy S22",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828354",
+  "sku": "PHPS0011",
+  "old_name": "Samsung Galaxy S2 i9100 Earpiece Headphone Jack Flex",
+  "new_name": "Earpiece & Headphone Jack Flex for Samsung Galaxy S2 i9100",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827559",
+  "sku": "PHPS0012",
+  "old_name": "Samsung Galaxy S2 i9100 Front Camera",
+  "new_name": "Front Camera for Samsung Galaxy S2 i9100",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000386",
+  "sku": "PHSA0175",
+  "old_name": "Samsung S22 Ultra front camera",
+  "new_name": "Front Camera for Samsung Galaxy S22 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827616",
+  "sku": "PHPS0021",
+  "old_name": "Samsung Galaxy S3 i9300 Front Camera",
+  "new_name": "Front Camera for Samsung Galaxy S3 i9300",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827640",
+  "sku": "PHPS0031",
+  "old_name": "Samsung Galaxy S4 Front Camera",
+  "new_name": "Front Camera for Samsung Galaxy S4",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828386",
+  "sku": "PHPS0013",
+  "old_name": "Samsung Galaxy S2 i9100 Front Housing Frame Black",
+  "new_name": "Front Housing Frame for Samsung Galaxy S2 i9100 Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828387",
+  "sku": "PHPS0014",
+  "old_name": "Samsung Galaxy S2 i9100 Front Housing Frame White (Silver)",
+  "new_name": "Front Housing Frame for Samsung Galaxy S2 i9100 White (Silver)",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827890",
+  "sku": "PHPS0022",
+  "old_name": "Samsung Galaxy S3 i9300 Front Housing Frame Blue",
+  "new_name": "Front Housing Frame for Samsung Galaxy S3 i9300 Blue",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828358",
+  "sku": "PHPS0023",
+  "old_name": "Samsung Galaxy S3 i9300 Front Housing Frame White",
+  "new_name": "Front Housing Frame for Samsung Galaxy S3 i9300 White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828267",
+  "sku": "PHPS0027",
+  "old_name": "Samsung Galaxy S3 i9305 Front Housing Frame Blue",
+  "new_name": "Front Housing Frame for Samsung Galaxy S3 i9305 Blue",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828318",
+  "sku": "PHPS0028",
+  "old_name": "Samsung Galaxy S3 i9305 Front Housing Frame Blue",
+  "new_name": "Front Housing Frame for Samsung Galaxy S3 i9305 Blue",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828317",
+  "sku": "PHPS0029",
+  "old_name": "Samsung Galaxy S3 i9305 Front Housing Frame White",
+  "new_name": "Front Housing Frame for Samsung Galaxy S3 i9305 White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828333",
+  "sku": "PHPS0030",
+  "old_name": "Samsung Galaxy S3 i9305 Front Housing Frame White",
+  "new_name": "Front Housing Frame for Samsung Galaxy S3 i9305 White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828324",
+  "sku": "PHPS0034",
+  "old_name": "Samsung Galaxy S4 i9500 Front Housing Frame Blue",
+  "new_name": "Front Housing Frame for Samsung Galaxy S4 i9500 Blue",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998866",
+  "sku": "PHSS0109",
+  "old_name": "Samsung Tablet E SM-T560 Glass",
+  "new_name": "Glass for Samsung Galaxy Tab E SM-T560",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827673",
+  "sku": "PHPS0040",
+  "old_name": "Samsung Galaxy S5 G900F Headphone Jack",
+  "new_name": "Headphone Jack for Samsung Galaxy S5 G900F",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999463",
+  "sku": "PHPS0142",
+  "old_name": "Samsung Galaxy S9 Headphone Jack",
+  "new_name": "Headphone Jack for Samsung Galaxy S9",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827622",
+  "sku": "PHPS0015",
+  "old_name": "Samsung Galaxy S2 i9100 Home Button and Sensor Signal Ribbon Flex",
+  "new_name": "Home Button & Sensor Ribbon Flex for Samsung Galaxy S2 i9100",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828367",
+  "sku": "PHPS0032",
+  "old_name": "Samsung Galaxy S4 Home Button Sensor Signal Ribbon Flex",
+  "new_name": "Home Button & Sensor Ribbon Flex for Samsung Galaxy S4",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999806",
+  "sku": "PHSA0113",
+  "old_name": "Apple Ipad 10.5\" Homebutton",
+  "new_name": "Home Button for iPad 10.5\"",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828389",
+  "sku": "PHPS0041",
+  "old_name": "Samsung Galaxy S5 G900F Home Button Fingerprint Sensor Black",
+  "new_name": "Home Button with Fingerprint Sensor for Samsung Galaxy S5 G900F Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828388",
+  "sku": "PHPS0042",
+  "old_name": "Samsung Galaxy S5 G900F Home Button Fingerprint Sensor White",
+  "new_name": "Home Button with Fingerprint Sensor for Samsung Galaxy S5 G900F White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827968",
+  "sku": "PHPS0045",
+  "old_name": "Samsung Galaxy S5 G900H Home Button Fingerprint Sensor Black",
+  "new_name": "Home Button with Fingerprint Sensor for Samsung Galaxy S5 G900H Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828326",
+  "sku": "PHPS0043",
+  "old_name": "Samsung Galaxy S5 G900H Home Button Fingerprint Sensor White",
+  "new_name": "Home Button with Fingerprint Sensor for Samsung Galaxy S5 G900H White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999940",
+  "sku": "PHSA0133",
+  "old_name": "Google Pixel 4A LCD",
+  "new_name": "LCD Screen for Google Pixel 4a",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999941",
+  "sku": "PHSA0134",
+  "old_name": "Google Pixel 4A 5GLCD",
+  "new_name": "LCD Screen for Google Pixel 4a 5G",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827936",
+  "sku": "PHS00002",
+  "old_name": "nokia n8 lcd",
+  "new_name": "LCD Screen for Nokia N8",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827970",
+  "sku": "PHS00003",
+  "old_name": "Nokia N95 8G LCD screen + Free Tools",
+  "new_name": "LCD Screen for Nokia N95 8GB + Free Tools",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827969",
+  "sku": "PHS00001",
+  "old_name": "Nokia N95 LCD screen + Free Tools 100% Grade A+",
+  "new_name": "LCD Screen for Nokia N95 Grade A+ + Free Tools",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828338",
+  "sku": "PHPS0024",
+  "old_name": "Samsung Galaxy S3 i9300 Loud Speaker Headphone Jack Black",
+  "new_name": "Loud Speaker & Headphone Jack for Samsung Galaxy S3 i9300 Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828335",
+  "sku": "PHPS0025",
+  "old_name": "Samsung Galaxy S3 i9300 Loud Speaker Headphone Jack White",
+  "new_name": "Loud Speaker & Headphone Jack for Samsung Galaxy S3 i9300 White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827723",
+  "sku": "PHPS0001",
+  "old_name": "Samsung Galaxy Ace S5830 Speaker",
+  "new_name": "Loud Speaker for Samsung Galaxy Ace S5830",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827584",
+  "sku": "PHPS0035",
+  "old_name": "Samsung Galaxy S4 i9500 Loud Speaker White",
+  "new_name": "Loud Speaker for Samsung Galaxy S4 i9500 White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828316",
+  "sku": "PHPS0037",
+  "old_name": "Samsung Galaxy S4 i9505 Loud Speaker White",
+  "new_name": "Loud Speaker for Samsung Galaxy S4 i9505 White",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000221",
+  "sku": "PHPS0292",
+  "old_name": "Samsung S20 FE main flex",
+  "new_name": "Main Flex for Samsung Galaxy S20 FE",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999693",
+  "sku": "PHPS0183",
+  "old_name": "Samsung Galaxy S20 Ultra Main Camera",
+  "new_name": "Main Rear Camera for Samsung Galaxy S20 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999380",
+  "sku": "PHPS0136",
+  "old_name": "Samsung Galaxy A31 Motherboard Flex",
+  "new_name": "Motherboard Flex for Samsung Galaxy A31",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827781",
+  "sku": "PHPO0015",
+  "old_name": "Oppo Reno8 Lite 5G CPH2343 LCD Display Touch Screen Digitizer Assembly Without Frame Black-OLED Support finger print",
+  "new_name": "OLED Screen Digitizer Assembly for OPPO Reno8 Lite 5G CPH2343 without Frame Black (Fingerprint Support)",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000905",
+  "sku": "-",
+  "old_name": "Oneplus 6T OLED Screen - Finger sensor OK",
+  "new_name": "OLED Screen for OnePlus 6T (Fingerprint Sensor OK)",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12997950",
+  "sku": "PHPH0004",
+  "old_name": "Huawei Nova 2i Power button",
+  "new_name": "Power Button for Huawei Nova 2i",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999813",
+  "sku": "PHP10046",
+  "old_name": "Apple iphone 12  Rear Camera",
+  "new_name": "Rear Camera for iPhone 12",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000489",
+  "sku": "PHSA0187",
+  "old_name": "APPLE iPhone 12 pro rear camera",
+  "new_name": "Rear Camera for iPhone 12 Pro",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000248",
+  "sku": "PHP14004",
+  "old_name": "Apple iPhone 14 Rear Camera",
+  "new_name": "Rear Camera for iPhone 14",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998330",
+  "sku": "PHPS0075",
+  "old_name": "Samsung Galaxy S10 Plus Rear Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S10 Plus",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828308",
+  "sku": "PHPS0009",
+  "old_name": "Samsung Galaxy S2 i9100 Back Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S2 i9100",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999351",
+  "sku": "PHPS0128",
+  "old_name": "Samsung Galaxy S20 FE 4G Rear Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S20 FE 4G",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999352",
+  "sku": "PHPS0129",
+  "old_name": "Samsung Galaxy S20 FE 5G Rear Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S20 FE 5G",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12999708",
+  "sku": "PHPS0185",
+  "old_name": "Samsung Galaxy s20 ultra back camera",
+  "new_name": "Rear Camera for Samsung Galaxy S20 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "13000257",
+  "sku": "PHPS2101",
+  "old_name": "Samsung S21 Ultra rear camera",
+  "new_name": "Rear Camera for Samsung Galaxy S21 Ultra",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828359",
+  "sku": "PHPS0020",
+  "old_name": "Samsung Galaxy S3 i9300 Back Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S3 i9300",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828271",
+  "sku": "PHPS0044",
+  "old_name": "Samsung Galaxy S4 Back Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S4",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828284",
+  "sku": "PHPS0050",
+  "old_name": "Samsung Galaxy S6 Back Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S6",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828253",
+  "sku": "PHPS0052",
+  "old_name": "Samsung Galaxy S7 Back Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S7",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828244",
+  "sku": "PHPS0059",
+  "old_name": "Samsung Galaxy S7 Edge Back Camera",
+  "new_name": "Rear Camera for Samsung Galaxy S7 Edge",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827865",
+  "sku": "PHS00011",
+  "old_name": "LG Nexus 5 Screen Assembly Black",
+  "new_name": "Screen Assembly for LG Nexus 5 Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827817",
+  "sku": "PHSH0008",
+  "old_name": "Huawei Mate 9 Screen [WITH Frame]",
+  "new_name": "Screen for Huawei Mate 9 with Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828215",
+  "sku": "PHSH0006",
+  "old_name": "Huawei Mate 9 Screen [WITHOUT Frame]",
+  "new_name": "Screen for Huawei Mate 9 without Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12997860",
+  "sku": "-",
+  "old_name": "Huawei Nova 2i Screen Replacement",
+  "new_name": "Screen for Huawei Nova 2i",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998067",
+  "sku": "-",
+  "old_name": "Huawei Nova 3i Screen Replacement",
+  "new_name": "Screen for Huawei Nova 3i",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998034",
+  "sku": "-",
+  "old_name": "Huawei Nova 5T Screen Replacement",
+  "new_name": "Screen for Huawei Nova 5T",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998225",
+  "sku": "PHPH0011",
+  "old_name": "Huawei Nova 5T Screen Replacement",
+  "new_name": "Screen for Huawei Nova 5T",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998091",
+  "sku": "-",
+  "old_name": "Huawei Phone P10 Plus Screen Black",
+  "new_name": "Screen for Huawei P10 Plus Black",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828180",
+  "sku": "PHSH0007",
+  "old_name": "Huawei P10 Screen [WITHOUT Frame]",
+  "new_name": "Screen for Huawei P10 without Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998125",
+  "sku": "-",
+  "old_name": "Huawei Phone P20 Screen Replacement",
+  "new_name": "Screen for Huawei P20",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998136",
+  "sku": "-",
+  "old_name": "Huawei P20 Lite / Nova 3E Screen Replacement",
+  "new_name": "Screen for Huawei P20 Lite / Nova 3e",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828131",
+  "sku": "PHSH0003",
+  "old_name": "Huawei P9 Lite Screen [WITH Frame]",
+  "new_name": "Screen for Huawei P9 Lite with Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828208",
+  "sku": "PHSH0004",
+  "old_name": "Huawei P9 Lite Screen [WITHOUT Frame]",
+  "new_name": "Screen for Huawei P9 Lite without Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827826",
+  "sku": "PHSH0001",
+  "old_name": "Huawei P9 Screen [WITH Frame]",
+  "new_name": "Screen for Huawei P9 with Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828234",
+  "sku": "PHSH0002",
+  "old_name": "Huawei P9 Screen [WITHOUT Frame]",
+  "new_name": "Screen for Huawei P9 without Frame",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828213",
+  "sku": "PHS00014",
+  "old_name": "Motorola Moto G2 Screen Black with Frame - xt1063 xt1064 xt1068 ",
+  "new_name": "Screen with Frame for Motorola Moto G2 Black (XT1063 / XT1064 / XT1068)",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12828368",
+  "sku": "PHPS0026",
+  "old_name": "Samsung Galaxy S3 i9300 Sensor Signal Ribbon Flex",
+  "new_name": "Sensor Ribbon Flex for Samsung Galaxy S3 i9300",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12827978",
+  "sku": "PHS00013",
+  "old_name": "Nokia X6 Touch screen digitizer 100% Grade A+",
+  "new_name": "Touch Screen Digitizer for Nokia X6 Grade A+",
+  "status": "ok",
+  "detail": ""
+ },
+ {
+  "id": "12998883",
+  "sku": "PHPS0112",
+  "old_name": "Samsung Galaxy S9 Plus Volume & Power Button Flex",
+  "new_name": "Volume & Power Button Flex for Samsung Galaxy S9 Plus",
+  "status": "ok",
+  "detail": ""
+ }
+]
