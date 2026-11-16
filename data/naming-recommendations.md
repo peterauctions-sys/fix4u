@@ -172,3 +172,45 @@ Results: `naming-apply-results.csv` / `.json`
 Plan: `naming-apply-plan.json`
 
 Includes Samsung / Huawei / OPPO / Apple / other phone parts in `Part for Device` form, plus Genuine/OEM accessory wording cleanup.
+
+## Applied (2026-11-16) — brand- and model-leading parts
+
+A connectivity recheck found part titles that still led with a brand or a device
+model, mostly stock added after the July pass. **361 / 361** renames applied.
+
+| Batch | Count | Files |
+|---|---|---|
+| Brand-leading parts (`Samsung S23 charging board`) | 96 | `brandleading-rename-plan.csv`, `brandleading-rename-results.csv` |
+| Model-leading parts (`iPhone 11 Back Camera`) | 260 | `model-leading-rename-proposal.csv`, `model-leading-rename-results.csv` |
+| Manual stragglers (SIM trays, logic boards, ear speaker) | 5 | — |
+
+After the pass, **zero** replacement-part titles lead with a brand or model.
+
+### Kept brand-leading on purpose
+
+24 titles still start with a brand or model and should stay that way —
+see `brandleading-kept.csv`:
+
+- **Genuine brand accessories** — `Samsung Adaptive Fast Charging Wall Mains Adapter`,
+  `Samsung Power Pack`, `Huawei Type-C Cable`, `Xiaomi Mi Bluetooth Speaker`,
+  `Xiaomi Music Bluetooth Car Charger`
+- **Whole devices** — `Samsung Galaxy A72 … A Grade`, `Samsung WB100 … USED`,
+  `Google Home Mini … Refurb`
+- **Cases, protectors, stands and tools** — `iPhone 15 Silicone Case Black`,
+  `iPhone Screen Easy Removal Opening Tool`, etc.
+
+### Owner decisions still open
+
+| Item | id | Question |
+|---|---|---|
+| `Apple 85W MagSafe 1 Power Adapter A1343 Charger` | 12827915 | genuine Apple, or aftermarket? |
+| `Apple Charge & Sync 30 Pin Cable …` | 12827724 | genuine Apple, or aftermarket? |
+| `Apple USB PSU Type C Charger` | 12998403 | genuine Apple, or aftermarket? |
+
+If any of those is aftermarket, drop `Apple` from the front and use
+`Power Adapter for MacBook MagSafe 85W` style wording instead.
+
+**Cases are a separate optional batch.** ~60 case/cover titles read
+`iPhone 15 Silicone Case Black`. Reversing them to
+`Silicone Case for iPhone 15 Black` would match the parts convention and help
+search, but they are accessories rather than parts, so nothing was changed.
