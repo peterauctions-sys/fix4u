@@ -210,7 +210,56 @@ see `brandleading-kept.csv`:
 If any of those is aftermarket, drop `Apple` from the front and use
 `Power Adapter for MacBook MagSafe 85W` style wording instead.
 
-**Cases are a separate optional batch.** ~60 case/cover titles read
-`iPhone 15 Silicone Case Black`. Reversing them to
-`Silicone Case for iPhone 15 Black` would match the parts convention and help
-search, but they are accessories rather than parts, so nothing was changed.
+## Applied (2026-11-16) — cases and covers
+
+**319 / 319** renames applied: 317 from the generated plan plus 2 parts missed by
+the earlier pass (`WiFi / Bluetooth Card for MacBook Pro 2015 A1502`,
+`SIM Card Holder for Samsung Galaxy S7 Edge`).
+
+Files: `case-rename-proposal.csv`, `case-rename-results.csv`.
+
+A case is a third-party accessory, so the **case brand may lead the title** while
+the phone model moves behind `for`:
+
+| Before | After |
+|---|---|
+| `iPhone 15 Silicone Case Black` | `Silicone Case for iPhone 15 Black` |
+| `CASE-MATE IPhone XS Max Waterfall Gold Case` | `CASE-MATE Waterfall Gold Case for iPhone XS Max` |
+| `hoco. iPhone 12 Mini TPU Case Black` | `hoco. TPU Case for iPhone 12 mini Black` |
+| `Shock Resistance Heavy Duty Flexible Protection Phone Case Samsung S10` | `Shock Resistance Heavy Duty Flexible Protection Case for Samsung Galaxy S10` |
+| `S7 edge case back with ring holder` | `Back Case with Ring Holder for Samsung Galaxy S7 Edge` |
+| `MEIZU Note3 case` | `Case for Meizu Note 3` |
+
+Consistency rules applied alongside the reordering:
+
+- bare Samsung models get the line spelled out (`Samsung S10` → `Samsung Galaxy S10`)
+- colours move behind the device and are title-cased (`Case - orange` → `Case for … Orange`)
+- `6/6s` → `6 / 6s`, `Mini` → `mini`, `PLUS` → `Plus`, `Jel` → `Gel`,
+  `Water Proof` → `Waterproof`, `Hiawei` → `Huawei`
+- duplicated words removed (`Acrylic Case Phone Case` → `Acrylic Case`)
+
+After the pass, **zero** case or cover titles lead with a brand or device model.
+Nine case-word titles have no `for` because they name no single model: laptop
+housings, SSD enclosures, a universal tablet case and a generic
+`Phone case cover/plastic cover`.
+
+### Still brand-leading after all passes — correct as-is
+
+197 titles, all whole devices or genuine brand goods: refurbished and preowned
+iPhones / iPads / MacBooks / Samsung phones, tablets and laptops, appliances,
+Samsung EVO cards, Sony and Xiaomi accessories, plus screen protectors and shop
+tools. Per Priority 5 above, devices are the product and keep brand identity.
+
+### Owner decisions still open
+
+| Item | id | Question |
+|---|---|---|
+| `Apple 85W MagSafe 1 Power Adapter A1343 Charger` | 12827915 | genuine Apple, or aftermarket? |
+| `Apple A1718 61W USB Type-C Power Adapter` | 12998984 | genuine Apple, or aftermarket? |
+| `Apple A1719 87W USB Type-C Power Adapter` | 12998985 | genuine Apple, or aftermarket? |
+| `Apple Charge & Sync 30 Pin Cable …` | 12827724 | genuine Apple, or aftermarket? |
+| `Apple USB PSU Type C Charger` | 12998403 | genuine Apple, or aftermarket? |
+| `Samsung Galaxy Note 20/20 Plus/20 Ultra Pen` | 12999508 | genuine S Pen, or aftermarket stylus? |
+
+If aftermarket, drop the brand from the front: `Power Adapter for MacBook USB-C 87W`,
+`Stylus Pen for Samsung Galaxy Note 20 / 20 Plus / 20 Ultra`.
